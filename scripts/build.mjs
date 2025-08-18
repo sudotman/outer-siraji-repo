@@ -114,6 +114,7 @@ async function writeIndexHtml(entries) {
       <nav>
         <a href="./index.html" aria-current="page">Home</a>
         <a href="./dictionary/index.html">Dictionary</a>
+        <a href="./research/index.html">Research</a>
         <a href="./works/index.html">Works</a>
         <a href="https://github.com/" target="_blank" rel="noopener">Contribute</a>
       </nav>
@@ -170,6 +171,7 @@ async function writeDictionaryHtml(entries) {
       <nav>
         <a href="../index.html">Home</a>
         <a href="./index.html" aria-current="page">Dictionary</a>
+        <a href="../research/index.html">Research</a>
         <a href="../works/index.html">Works</a>
       </nav>
     </header>
@@ -181,6 +183,9 @@ async function writeDictionaryHtml(entries) {
       <div class="az-nav">${nav}</div>
       ${sections}
     </main>
+    <nav class="az-float" aria-label="Jump to letter">
+      ${buckets.map(([k]) => `<a href="#sec-${k}">${k}</a>`).join('')}
+    </nav>
     <script type="module" src="../assets/search.js"></script>
   </body>
   </html>`;
@@ -203,6 +208,7 @@ async function writeWorksHtml() {
       <nav>
         <a href="../index.html">Home</a>
         <a href="../dictionary/index.html">Dictionary</a>
+        <a href="../research/index.html">Research</a>
         <a href="./index.html" aria-current="page">Works</a>
       </nav>
     </header>
@@ -222,6 +228,62 @@ async function writeWorksHtml() {
   </html>`;
   await ensureDir(path.join(PUBLIC_DIR, 'works'));
   await writeFile(path.join(PUBLIC_DIR, 'works', 'index.html'), html, 'utf8');
+}
+
+async function writeResearchHtml() {
+  const researchDir = path.join(PUBLIC_DIR, 'research');
+  await ensureDir(researchDir);
+  const contentDir = path.join(ROOT, 'content');
+  await ensureDir(contentDir);
+  const researchSource = path.join(contentDir, 'research.html');
+
+  let articleHtml = '';
+  if (existsSync(researchSource)) {
+    articleHtml = await readFile(researchSource, 'utf8');
+  } else {
+    // One-time migration: try to extract from landingPageSample.html
+    const sample = path.join(ROOT, 'landingPageSample.html');
+    if (existsSync(sample)) {
+      const content = await readFile(sample, 'utf8');
+      const startIdx = content.indexOf('<article');
+      const endIdx = content.indexOf('</article>');
+      if (startIdx !== -1 && endIdx !== -1) {
+        articleHtml = content.slice(startIdx, endIdx + '</article>'.length);
+      }
+    }
+    if (!articleHtml) {
+      articleHtml = '<article><h2>Outer Siraji Research</h2><p>Add your research content in content/research.html.</p></article>';
+    }
+    await writeFile(researchSource, articleHtml, 'utf8');
+  }
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Outer Siraji Research</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1><a href="../index.html">Outer Siraji</a> · Research</h1>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="../dictionary/index.html">Dictionary</a>
+        <a href="./index.html" aria-current="page">Research</a>
+        <a href="../works/index.html">Works</a>
+      </nav>
+    </header>
+    <main class="container">
+      <h2>Outer Siraji Research</h2>
+      <div class="prose-custom">
+        ${articleHtml}
+      </div>
+    </main>
+  </body>
+  </html>`;
+  await writeFile(path.join(researchDir, 'index.html'), html, 'utf8');
 }
 
 async function writeAssets() {
@@ -247,6 +309,18 @@ input[type=search]{width:100%;padding:.75rem 1rem;border-radius:.5rem;border:1px
 .ex,.ety{color:var(--muted);margin:.25rem 0}
 .az-nav{display:flex;flex-wrap:wrap;gap:.25rem;margin:1rem 0}
 .az-nav a{color:var(--muted);text-decoration:none;padding:.25rem .5rem;border:1px solid #1f2937;border-radius:.25rem}
+.az-float{position:fixed;right:12px;top:80px;display:flex;flex-direction:column;gap:4px;background:rgba(17,24,39,.6);backdrop-filter:saturate(120%) blur(6px);padding:6px;border-radius:8px;border:1px solid #1f2937;max-height:80vh;overflow:auto}
+.az-float a{color:#cbd5e1;text-decoration:none;font-size:12px;padding:2px 6px;border-radius:4px}
+.az-float a:hover{background:rgba(34,211,238,.15)}
+.prose-custom{color:#cbd5e1}
+.prose-custom h1,.prose-custom h2,.prose-custom h3,.prose-custom h4{color:#e5e7eb;margin:1.25rem 0 .5rem;font-weight:700}
+.prose-custom p{line-height:1.75;margin:.75rem 0}
+.prose-custom ul{padding-left:1.25rem;margin:.75rem 0}
+.prose-custom li{margin:.25rem 0}
+.prose-custom table{width:100%;border-collapse:collapse;margin:1rem 0}
+.prose-custom th,.prose-custom td{border:1px solid #334155;padding:.5rem;text-align:left}
+.prose-custom th{background:#0b1220}
+.prose-custom code{background:#0b1220;padding:.1rem .25rem;border-radius:.25rem}
 .card-grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
 .card{background:var(--panel);border:1px solid #1f2937;padding:1rem;border-radius:.5rem}
 code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
@@ -258,7 +332,7 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     'const resultsEl = document.getElementById(\'results\');',
     'let idx, docs;',
     '',
-    "const base = (location.pathname.includes('/dictionary/') || location.pathname.includes('/works/')) ? '..' : '.';",
+    "const base = (location.pathname.includes('/dictionary/') || location.pathname.includes('/works/') || location.pathname.includes('/research/')) ? '..' : '.';",
     '',
     'async function loadData() {',
     "  const [idxRes, dictRes] = await Promise.all([",
@@ -324,6 +398,7 @@ async function main() {
   await writeIndexHtml(entries);
   await writeDictionaryHtml(entries);
   await writeWorksHtml();
+  await writeResearchHtml();
   await writeFile(path.join(PUBLIC_DIR, '.nojekyll'), '');
 
   // Optional: if landingPageSample.html exists, copy to public/landing-sample.html
