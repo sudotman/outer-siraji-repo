@@ -31,6 +31,8 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
 
 
 ### roadmap (short)
+- extract the rules of the language from the grammar book.
+- find out wtf is wrong with the second proverb????
 - adding kinnauri data from the same source.
 - categorizing the words by dialects [segregating bilaspuri, siraji, etc. as filters]
 - script toggle (devanagari/roman; add takri later).

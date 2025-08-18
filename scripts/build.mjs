@@ -106,24 +106,25 @@ async function writeIndexHtml(entries) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Outer Siraji Preservation</title>
+    <title>pahari preservation</title>
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
   <body>
     <header class="site-header">
-      <h1>Outer Siraji (Pahari)</h1>
+      <h1>pahari preservation</h1>
       <nav>
         <a href="./index.html" aria-current="page">Home</a>
         <a href="./dictionary/index.html">Dictionary</a>
         <a href="./research/index.html">Research</a>
+        <a href="./appendix/index.html">Appendix</a>
         <a href="./works/index.html">Works</a>
-        <a href="https://github.com/" target="_blank" rel="noopener">Contribute</a>
+        <a href="https://github.com/sudotman/outer-siraji-repo" target="_blank" rel="noopener">Contribute</a>
       </nav>
     </header>
     <main class="container">
       <section class="hero">
         <h2>Preserving language and culture</h2>
-        <p>Search the dictionary or browse works. Data comes from <code>mainDictionary.csv</code>.</p>
+        <p>Search the dictionary or browse works. Have fun exploring this beautiful language and culture.</p>
         <div class="search">
           <input id="q" type="search" placeholder="Search words, definitions…" autofocus />
           <div class="search-controls"><label><input type="checkbox" id="charMode" /> Character match (min 3 chars)</label></div>
@@ -164,17 +165,19 @@ async function writeDictionaryHtml(entries) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Dictionary · Outer Siraji</title>
+    <title>Dictionary · pahari</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <header class="site-header">
-      <h1><a href="../index.html">Outer Siraji</a> · Dictionary</h1>
+      <h1><a href="../index.html">pahari</a> · dictionary</h1>
       <nav>
         <a href="../index.html">Home</a>
         <a href="./index.html" aria-current="page">Dictionary</a>
         <a href="../research/index.html">Research</a>
+        <a href="../appendix/index.html">Appendix</a>
         <a href="../works/index.html">Works</a>
+        <a href="https://github.com/sudotman/outer-siraji-repo" target="_blank" rel="noopener">Contribute</a>
       </nav>
     </header>
     <main class="container">
@@ -210,17 +213,19 @@ async function writeWorksHtml() {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Works · Outer Siraji</title>
+    <title>Works · pahari</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <header class="site-header">
-      <h1><a href="../index.html">Outer Siraji</a> · Works</h1>
+      <h1><a href="../index.html">pahari</a> · Works</h1>
       <nav>
         <a href="../index.html">Home</a>
         <a href="../dictionary/index.html">Dictionary</a>
         <a href="../research/index.html">Research</a>
+        <a href="../appendix/index.html">Appendix</a>
         <a href="./index.html" aria-current="page">Works</a>
+        <a href="https://github.com/sudotman/outer-siraji-repo" target="_blank" rel="noopener">Contribute</a>
       </nav>
     </header>
     <main class="container">
@@ -229,7 +234,7 @@ async function writeWorksHtml() {
         <article class="card">
           <h3>Song: Example</h3>
           <div class="media">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1EpCq8YzX8Y" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
           <p>Replace with community media links (YouTube, Archive.org, etc.).</p>
         </article>
@@ -263,7 +268,7 @@ async function writeResearchHtml() {
       }
     }
     if (!articleHtml) {
-      articleHtml = '<article><h2>Outer Siraji Research</h2><p>Add your research content in content/research.html.</p></article>';
+      articleHtml = '<article><h2>pahari Research</h2><p>Add your research content in content/research.html.</p></article>';
     }
     await writeFile(researchSource, articleHtml, 'utf8');
   }
@@ -273,21 +278,23 @@ async function writeResearchHtml() {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Outer Siraji Research</title>
+    <title>pahari Research</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <header class="site-header">
-      <h1><a href="../index.html">Outer Siraji</a> · Research</h1>
+      <h1><a href="../index.html">pahari</a> · Research</h1>
       <nav>
         <a href="../index.html">Home</a>
         <a href="../dictionary/index.html">Dictionary</a>
         <a href="./index.html" aria-current="page">Research</a>
+        <a href="../appendix/index.html">Appendix</a>
         <a href="../works/index.html">Works</a>
+        <a href="https://github.com/sudotman/outer-siraji-repo" target="_blank" rel="noopener">Contribute</a>
       </nav>
     </header>
     <main class="container">
-      <h2>Outer Siraji Research</h2>
+      <h2>pahari Research</h2>
       <div class="prose-custom">
         ${articleHtml}
       </div>
@@ -295,6 +302,47 @@ async function writeResearchHtml() {
   </body>
   </html>`;
   await writeFile(path.join(researchDir, 'index.html'), html, 'utf8');
+}
+
+async function writeAppendixHtml() {
+  const html = `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Appendix · pahari</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1><a href="../index.html">pahari</a> · Appendix</h1>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="../dictionary/index.html">Dictionary</a>
+        <a href="../research/index.html">Research</a>
+        <a href="./index.html" aria-current="page">Appendix</a>
+        <a href="../works/index.html">Works</a>
+        <a href="https://github.com/sudotman/outer-siraji-repo" target="_blank" rel="noopener">Contribute</a>
+      </nav>
+    </header>
+    <main class="container">
+      <section class="hero">
+        <h2>Folklores, Proverbs, Riddles, Songs</h2>
+        <p>Selections from source texts and community oral tradition.</p>
+        <div class="appendix-controls">
+          <input id="apx-search" type="search" placeholder="Search appendix… (title, context, text)" />
+          <div id="apx-filters" class="chip-row" aria-label="Filter by type"></div>
+        </div>
+      </section>
+      <section>
+        <div id="apx-grid" class="appendix-grid"></div>
+      </section>
+    </main>
+    <script type="module" src="../assets/appendix.js"></script>
+  </body>
+  </html>`;
+  await ensureDir(path.join(PUBLIC_DIR, 'appendix'));
+  await writeFile(path.join(PUBLIC_DIR, 'appendix', 'index.html'), html, 'utf8');
 }
 
 async function writeAssets() {
@@ -337,6 +385,16 @@ input[type=search]{width:100%;padding:.75rem 1rem;border-radius:.5rem;border:1px
 .card-grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
 .card{background:var(--panel);border:1px solid #1f2937;padding:1rem;border-radius:.5rem}
 code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
+.badge{display:inline-block;margin-right:.5rem;background:#0b1220;border:1px solid #334155;color:#cbd5e1;padding:.05rem .4rem;border-radius:.4rem;font-size:.75rem}
+.chip-row{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.5rem}
+.chip{border:1px solid #334155;color:#cbd5e1;background:#0b1220;border-radius:999px;padding:.25rem .6rem;font-size:.85rem;cursor:pointer;user-select:none}
+.chip.is-active{border-color:var(--accent);background:rgba(34,211,238,.12)}
+.appendix-grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));margin-top:1rem}
+.appendix-card{background:var(--panel);border:1px solid #1f2937;padding:1rem;border-radius:.5rem}
+.appendix-card h3{margin-top:0}
+.pill{display:inline-block;background:#0b1220;border:1px solid #334155;color:#cbd5e1;padding:.1rem .5rem;border-radius:999px;font-size:.75rem;margin-right:.5rem}
+.meta{color:var(--muted);font-size:.85rem}
+.prewrap{white-space:pre-wrap}
 `;
   const searchJsLines = [
     "import lunr from 'https://cdn.jsdelivr.net/npm/lunr/+esm';",
@@ -393,8 +451,99 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     "charMode && charMode.addEventListener('change', onSearch);",
   ];
   const searchJs = searchJsLines.join('\n');
+  const appendixJsLines = [
+    "const searchEl = document.getElementById('apx-search');",
+    "const filtersEl = document.getElementById('apx-filters');",
+    "const gridEl = document.getElementById('apx-grid');",
+    "const base = (location.pathname.includes('/appendix/')) ? '..' : '.';",
+    "let items = [], activeType = 'All';",
+    "function esc(s){return String(s).replace(/[&<>\\\"']/g,c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','\\\"':'&quot;','\\'':'&#39;' }[c]));}",
+    "function renderFilters(types){",
+    "  const all = ['All', ...types];",
+    "  filtersEl.innerHTML = all.map(t => `<span class=\\\"chip\\\" data-type=\\\"${t}\\\">${t}</span>`).join('');",
+    "  filtersEl.addEventListener('click', (e)=>{ const el = e.target.closest('.chip'); if(!el) return; activeType = el.dataset.type; for(const n of filtersEl.querySelectorAll('.chip')) n.classList.toggle('is-active', n.dataset.type===activeType); render(); });",
+    "  const first = filtersEl.querySelector('.chip'); first && first.classList.add('is-active');",
+    "}",
+    "function metaHtml(it){",
+    "  const pages = Array.isArray(it.source_pages) ? it.source_pages.join(', ') : (it.source_page ?? it.sourcePage);",
+    "  return pages ? `<div class=\\\"meta\\\">Source page(s): ${esc(String(pages))}</div>` : '';",
+    "}",
+    "function folkloreHtml(it){",
+    "  const parts = [];",
+    "  if (it.context) parts.push(`<p>${esc(it.context)}</p>`);",
+    "  if (Array.isArray(it.dialogue) && it.dialogue.length){ parts.push('<div class=\\\"dialogue\\\">' + it.dialogue.map(d=>`<p><b>${esc(d.speaker||'')}</b>: ${esc(d.line_original||d.line_english||'')}</p>`).join('') + '</div>'); }",
+    "  if (it.chant_original) parts.push(`<pre class=\\\"prewrap\\\">${esc(it.chant_original)}</pre>`);",
+    "  if (it.translation_english) parts.push(`<p>${esc(it.translation_english)}</p>`);",
+    "  if (it.conclusion) parts.push(`<p>${esc(it.conclusion)}</p>`);",
+    "  return parts.join('');",
+    "}",
+    "function proverbHtml(it){",
+    "  const id = (it.id!=null) ? `<span class=\\\"badge\\\">#${esc(String(it.id))}</span>` : '';",
+    "  const parts = [];",
+    "  if (it.proverb_original) parts.push(`<blockquote>${esc(it.proverb_original)}</blockquote>`);",
+    "  if (it.translation_english) parts.push(`<p>${esc(it.translation_english)}</p>`);",
+    "  if (it.explanation) parts.push(`<p class=\\\"meta\\\">${esc(it.explanation)}</p>`);",
+    "  return id + parts.join('');",
+    "}",
+    "function riddleHtml(it){",
+    "  const id = (it.id!=null) ? `<span class=\\\"badge\\\">#${esc(String(it.id))}</span>` : '';",
+    "  const parts = [];",
+    "  if (it.riddle_original) parts.push(`<blockquote>${esc(it.riddle_original)}</blockquote>`);",
+    "  if (it.riddle_english_translation) parts.push(`<p>${esc(it.riddle_english_translation)}</p>`);",
+    "  if (it.answer) parts.push(`<details><summary>Answer</summary><p>${esc(it.answer)}</p></details>`);",
+    "  return id + parts.join('');",
+    "}",
+    "function songHtml(it){",
+    "  const parts = [];",
+    "  if (it.context) parts.push(`<p class=\\\"meta\\\">${esc(it.context)}</p>`);",
+    "  if (it.lyrics_original) parts.push(`<h4>Lyrics (original)</h4><pre class=\\\"prewrap\\\">${esc(it.lyrics_original)}</pre>`);",
+    "  if (it.translation_english_prose) parts.push(`<h4>Translation (English prose)</h4><div class=\\\"prewrap\\\">${esc(it.translation_english_prose)}</div>`);",
+    "  if (Array.isArray(it.footnotes) && it.footnotes.length){ parts.push('<h4>Footnotes</h4><ul>' + it.footnotes.map(f=>`<li>${esc(f)}</li>`).join('') + '</ul>'); }",
+    "  return parts.join('');",
+    "}",
+    "function cardHtml(it){",
+    "  const type = (it.type||'Unknown');",
+    "  const title = it.title ? esc(it.title) : (type==='Proverb'||type==='Riddle' ? type : '(Untitled)');",
+    "  let body = '';",
+    "  if (type==='Proverb') body = proverbHtml(it);",
+    "  else if (type==='Riddle') body = riddleHtml(it);",
+    "  else if (type==='Song') body = songHtml(it);",
+    "  else body = folkloreHtml(it);",
+    "  const meta = metaHtml(it);",
+    "  return `<article class=\\\"appendix-card\\\"><div class=\\\"pill\\\">${esc(type)}</div><h3>${title}</h3>${body}${meta}</article>`;",
+    "}",
+    "function haystack(it){",
+    "  const chunks = [];",
+    "  const type = (it.type||'').toLowerCase();",
+    "  if (it.title) chunks.push(it.title); if (it.context) chunks.push(it.context);",
+    "  if (type==='proverb'){ if (it.proverb_original) chunks.push(it.proverb_original); if (it.translation_english) chunks.push(it.translation_english); if (it.explanation) chunks.push(it.explanation); }",
+    "  else if (type==='riddle'){ if (it.riddle_original) chunks.push(it.riddle_original); if (it.riddle_english_translation) chunks.push(it.riddle_english_translation); if (it.answer) chunks.push(it.answer); }",
+    "  else if (type==='song'){ if (it.lyrics_original) chunks.push(it.lyrics_original); if (it.translation_english_prose) chunks.push(it.translation_english_prose); if (Array.isArray(it.footnotes)) chunks.push(it.footnotes.join(' ')); }",
+    "  else { if (it.chant_original) chunks.push(it.chant_original); if (it.translation_english) chunks.push(it.translation_english); if (it.conclusion) chunks.push(it.conclusion); if (Array.isArray(it.dialogue)) chunks.push(it.dialogue.map(d=>[d.speaker,d.line_original,d.line_english].filter(Boolean).join(' ')).join(' ')); }",
+    "  return chunks.filter(Boolean).join(' ');",
+    "}",
+    "function render(){",
+    "  const q = (searchEl && searchEl.value || '').trim();",
+    "  let list = items;",
+    "  if (activeType && activeType !== 'All'){ list = list.filter(it => (it.type||'').toLowerCase() === activeType.toLowerCase()); }",
+    "  if (q){ const low = q.toLowerCase(); list = list.filter(it => haystack(it).toLowerCase().includes(low)); }",
+    "  gridEl.innerHTML = list.map(cardHtml).join('');",
+    "}",
+    "async function init(){",
+    "  const res = await fetch(base + '/data/appendix.json');",
+    "  const data = await res.json();",
+    "  items = Array.isArray(data) ? data : (Array.isArray(data.items) ? data.items : []);",
+    "  const types = Array.from(new Set(items.map(it => it.type).filter(Boolean))).sort();",
+    "  renderFilters(types);",
+    "  render();",
+    "}",
+    "init();",
+    "searchEl && searchEl.addEventListener('input', ()=>render());",
+  ];
+  const appendixJs = appendixJsLines.join('\n');
   await writeFile(path.join(ASSETS_DIR, 'styles.css'), css, 'utf8');
   await writeFile(path.join(ASSETS_DIR, 'search.js'), searchJs, 'utf8');
+  await writeFile(path.join(ASSETS_DIR, 'appendix.js'), appendixJs, 'utf8');
 }
 
 async function writeMetadata(entries) {
@@ -426,6 +575,15 @@ async function main() {
   await writeDictionaryHtml(entries);
   await writeWorksHtml();
   await writeResearchHtml();
+  // Appendix data + page
+  const appendixSrc = path.join(ROOT, 'appendix.json');
+  if (existsSync(appendixSrc)) {
+    const appendixRaw = await readFile(appendixSrc, 'utf8');
+    await writeFile(path.join(DATA_DIR, 'appendix.json'), appendixRaw, 'utf8');
+  } else {
+    await writeFile(path.join(DATA_DIR, 'appendix.json'), '[]', 'utf8');
+  }
+  await writeAppendixHtml();
   await writeFile(path.join(PUBLIC_DIR, '.nojekyll'), '');
   // Handle CNAME for custom domain
   const rootCname = path.join(ROOT, 'CNAME');

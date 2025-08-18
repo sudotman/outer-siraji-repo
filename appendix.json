@@ -1,0 +1,1067 @@
+[
+    {
+        "type": "Folklore",
+        "title": "Protective Chant for Dagyálí kí Rát",
+        "source_page": 134,
+        "context": "The fourteenth day of the dark half of the month of Bhádo and the next day of conjunction are called 'Dagyálí kí Rát'. It is a general belief in the hills that on these two days dāgs, or witches, who know magic, wander by night and devour any beautiful thing that comes before their sight. To avert this danger, the Díňwáň or a Bráhman gives the people either some rice or some mustard seed, pronouncing the following chant or mantar:",
+        "chant_original": "Rakkh Rám, rakkh déo, rakkh shish, rakkh Mhésh, rakkh pawan, rakkh pání, rakkh narm, rakkh chhandáy, rakkh ban, rakkh banshte, rakkh dewá Klainuwáň, terá rkhanrí, dewá Sípá dewá, Shrálíyá dewá Kurganá, dewá Dháňdhyá, deblé, jánoň na súké sát samúňd, táň-úň ná chúkay merí rkhanrí, Brahmaní munḍzó, háre dwáre, rachhá karai, jímí bhúmí rachhá karai, kheché khláine rachhá karai, pashú basetrí, rachhá karai, máu dhingé rachhá karai, bále bholé rí rachhá karai, thaur thár dí rachhá karai, sarb rachhá karai, dágí bhúto khe nhé rá bar banau, wáňkí chhanḍawá dohé, rá bár bánai, dágí bhúto sátwe pátaló gálai, rakkh dewá Sípá Klainuwáň, Shrálíyá, Dháňdhyá, Kurganá, deblé, sarb rachhá karai.",
+        "translation_english": "Protect O Rám, protect O God, protect O Vishnú, protect O Shib, protect O wind, protect O waters, protect O tenderness, protect from fear, protect. Protect O all you the plants, protect O Síp deitý, O Klainu, you are the protector, O Síp deitý, O Shrálí deitý, O Kurgan deitý, O goddess, protect; as long as the water of the seven oceans is not dried, so long the protection uttered by me will not fail, the protection of Brahmá may protect house, door, land, earth, the crops, the farmyard, the cattle and their herds, the bees, the milk-store, the simple-minded children, the rooms and the places; this protection may prepare an iron castle for the bitches and ghosts, and for this conjunction day and the fourteenth day of dark Bhádo, an iron temple may be prepared and the bitches and ghosts may be sent down in it to the seventh lower regions to be destroyed there, protect O Shrálí deitý, O Klainu deitý, O Síp deitý, O Dháňdí deitý, O Korgan deitý. O Goddess, protect all things well."
+    },
+    {
+        "type": "Folklore",
+        "title": "The Tale of a Jackal and a Tiger",
+        "source_page": 135,
+        "context": "The tale runs thus:—In a forest there lived a pair of jac-kals. One day a tiger happened to arrive near their den. See-ing the danger approach, the jackal exclaimed to his wife:—",
+        "dialogue": [
+            {
+                "speaker": "Jackal",
+                "line_original": "O re Chán-mán-nie,",
+                "line_english": "O you Chán-mán-ní !"
+            },
+            {
+                "speaker": "Wife",
+                "line_original": "Ká bolo jí maháráj ?",
+                "line_english": "What do you say, my Lord ?"
+            },
+            {
+                "speaker": "Jackal",
+                "line_original": "Sáto svo rój kháň thae, Ekr sié ká karb áj ?",
+                "line_english": "We used to breakfast on seven tigers. What are we to do to-day with only one ?"
+            }
+        ],
+        "conclusion": "The wife replied, “What do you say, my Lord?” The jackal said, “We were breakfasting every day on seven tigers, what shall we do to-day with only one?” Thereupon the tiger being greatly afraid of the jackals, ran for his life."
+    },
+    {
+        "type": "Proverb",
+        "id": 1,
+        "source_page": 135,
+        "proverb_original": "Appé kuri ghar ná bashdí, Horánu sikh dashdí.",
+        "translation_english": "The girl does not live at her husband’s, But she gives hints to other women.",
+        "explanation": "(To show negligence on one’s own part)"
+    },
+    {
+        "type": "Proverb",
+        "id": 2,
+        "source_page": 135,
+        "proverb_original": "Árá, byú larú, Árá jáň ná kňdé.",
+        "translation_english": "“Friend, you fought very well!” “O friend, I couldn’t escape.”",
+        "explanation": "(The story goes that once a musician (túrí) used to go every evening to the temple at Koti village. One evening when returning home, a bear caught him. As he was a strong man, he struck the beast a blow with his pole on its nose, and it ran away. A man who happened to witness the fight said “Friend, you fought very well!” “O friend, I couldn’t escape.”)"
+    },
+    {
+        "type": "Proverb",
+        "id": 3,
+        "source_page": 135,
+        "proverb_original": "Dhanu rai já tan pau; taňyíň bi lágu.",
+        "translation_english": "If the bow is all right, the string can be strung again.",
+        "explanation": "(Used when one’s offspring or wife is dead.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 4,
+        "source_page": 135,
+        "proverb_original": "Tán ná chetá áňdhá, Ján shír ná lágai kándhá.",
+        "translation_english": "A blind man will not know, Till his head hits against the wall.",
+        "explanation": "(A Káňgrá proverb.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 5,
+        "source_page": 136,
+        "proverb_original": "Sháré sukí, ná Sáwné harí.",
+        "translation_english": "Neither dry in June nor green in July.",
+        "explanation": "(Used when a thing is in the same manner as before.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 6,
+        "source_page": 136,
+        "proverb_original": "Jú náshe khuló tındé dáňd ná lriné.",
+        "translation_english": "To that which may be opened by a nail, no tooth should be applied.",
+        "explanation": "(A thing which can be easily done, should not be done with much pains.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 7,
+        "source_page": 136,
+        "proverb_original": "O’j práune rá, Bháj peré rá.",
+        "translation_english": "A guest’s excuse, and a feast of sweetmeat (perá).",
+        "explanation": "(When a guest comes to one’s house the whole family gets a good dinner.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 8,
+        "source_page": 136,
+        "proverb_original": "Háchhu kháņu, buru boļnu, Kadí ní bhuláňdá.",
+        "translation_english": "Tasteful food and a bad speech are never out of the memory.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 9,
+        "source_page": 136,
+        "proverb_original": "Háchhá káprá hátí dá bríhar ní nikláňdá.",
+        "translation_english": "Fine cloth never goes out of the shop (for sale).",
+        "explanation": "(A wall-to-do man is liked and visited by everybody.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 10,
+        "source_page": 136,
+        "proverb_original": "Ká jáno Pahárí bhuňdú, Je kishe kháň krúndu, Ká jáno Deshí tpot, Je kushe kháň khót.",
+        "translation_english": "What do the Pahárí fools know, As to how the fruit of the krundá plant is to be eaten? What do the fools of the plains know, As to how walnuts should be eaten?",
+        "explanation": "(A jest between a man from the plains and a hillman.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 11,
+        "source_page": 136,
+        "proverb_original": "Kháslu lvy kháňslu par ghúňtlu ké?",
+        "translation_english": "In eating they will eat, but how will they swallow?",
+        "explanation": "(Said when one is unable to swallow anything on account of sore throat.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 12,
+        "source_page": 136,
+        "proverb_original": "Je meru-jyó-shuňdá, Tau pálu-jyo ná gundá.",
+        "translation_english": "If you were to listen to me, You would not have done it in that manner.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 13,
+        "source_page": 136,
+        "proverb_original": "Dháro re ghaw’ń’t a, Je pishólé ná tan dhishóle tan.",
+        "translation_english": "These stone-mills are on a ridge, Though unfit to grind, they can be seen from afar.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 14,
+        "source_page": 137,
+        "proverb_original": "B lkhí ru ghyu a dá; Man bhá sukhe. T s B lkl á butte.",
+        "translation_english": "I like the bread without it.",
+        "explanation": "(Note: The original text for this proverb is heavily fragmented and unreadable in the scan. This is a best-effort transcription.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 15,
+        "source_page": 137,
+        "proverb_original": "Je ág ná jánae the, Tau tawá bí ní jánaí thí ?",
+        "translation_english": "If you did not know how to kindle the fire Then did you also not know how to bring the pan?",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 16,
+        "source_page": 137,
+        "proverb_original": "Áj nipútí kál nipúti, Késaň fúlá sadá nipútí.",
+        "translation_english": "To-day and to-morrow she is without a son, She is without a son even when the saffron blooms.",
+        "explanation": "(Used of a childless woman, to show impossibility.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 17,
+        "source_page": 137,
+        "proverb_original": "Táte the kurkhhí, Shaile khe háth.",
+        "translation_english": "A spoon for the hot and the hand for the cold.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 18,
+        "source_page": 137,
+        "proverb_original": "Je déo-jyú huňdá, Tau mano ri bujhdi.",
+        "translation_english": "If I were like a deity, I would know everyone’s mind.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 19,
+        "source_page": 137,
+        "proverb_original": "Jasrá báo sí hó, Sé báj dalkie kwáň khá?",
+        "translation_english": "He, whose father is a hen, why will he eat without flesh?",
+        "explanation": "(One who has good supporters will always be successful)"
+    },
+    {
+        "type": "Proverb",
+        "id": 20,
+        "source_page": 137,
+        "proverb_original": "Jy merí maywó nílá, Sé máň bí dhúchólá.",
+        "translation_english": "He, who takes away my mother, Will have to support me too.",
+        "explanation": "(Used of a widow’s child when its mother takes another husband, and meaning that he who ploughs the land will have to pay the taxes.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 21,
+        "source_page": 137,
+        "proverb_original": "Galan tahyíň Gáňgá, Tethá porki pámpr.",
+        "translation_english": "When bathing, up to one’s throat it is the Ganges, But above the throat it is death itself.",
+        "explanation": "(One cannot do what is beyond his power)"
+    },
+    {
+        "type": "Proverb",
+        "id": 22,
+        "source_page": 137,
+        "proverb_original": "Je parmesur dekhá ní, Tau kadurlé ja tau pachhyánu a.",
+        "translation_english": "Even if no one has seen God, He can still be recognized by His nature.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 23,
+        "source_page": 138,
+        "proverb_original": "Sambie kwá basharmo ru muňh. kuchh ní huňdu.",
+        "translation_english": "A lower door and the face of a shameless man are good for nothing.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 24,
+        "source_page": 138,
+        "proverb_original": "Kargáňú’í báňdí Rájé ra Kátí-ro maró máwí.",
+        "translation_english": "The Rajá’s village of Kargáňú was divided, And the Máwís died after fighting for it.",
+        "explanation": "(Used when any one interferes in another’s case.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 25,
+        "source_page": 138,
+        "proverb_original": "Biná japne fa hásnu. E bi tjilerdí kám g.",
+        "translation_engli    sh": "To laugh without speaking Is a disgraceful act.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 26,
+        "source_page": 138,
+        "proverb_original": "Es hásne ja roňwí bhalá.",
+        "translation_english": "Better weeping than such a laughter.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 27,
+        "source_page": 138,
+        "proverb_original": "Dúd kháw kwáň ní jáňdá, Brail gháu janay sabas.",
+        "translation_english": "No one knows that the milk was eaten. But every one knows that the cat has been killed.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 28,
+        "source_page": 138,
+        "proverb_original": "Je máň lágí a táú tau kyaiň ní karuwá, Luňd már íshdá.",
+        "translation_english": "If I am in trouble, nothing can be done, But wicked people are so punished (as I).",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 29,
+        "source_page": 138,
+        "proverb_original": "Ohkúrí ru sáth, bhedó rí basdí, Kuchh ní huňdí.",
+        "translation_english": "The company of a woman and a flock of sheep Are good for nothing.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 30,
+        "source_page": 138,
+        "proverb_original": "Biná lúno ru glan, bná chhewri ru ghaur bi, Kuchh ní huňdu.",
+        "translation_english": "Cooked pulse or vegetables without salt, and a house without a woman, are good for nothing.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 31,
+        "source_page": 138,
+        "proverb_original": "Shúňd mukdau garau, Dúhne báhne rírau.",
+        "translation_english": "The barren cow butts, While the milch-cow and oxen fall down dead.",
+        "explanation": "(When a valuable thing is lost while an unfruitful thing remains.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 32,
+        "source_page": 139,
+        "proverb_original": "Je mál ru japa Tau d sua í a p ol).",
+        "translation_english": "If the idol were to speak, Then why should the díňwáň be asked?",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 48,
+        "source_page": 140,
+        "proverb_original": "Jaa dín á báňgé, Taa ṭuňdá máro dáňgé.",
+        "translation_english": "When days are unlucky, Even a handless man will fight with a stick.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 49,
+        "source_page": 140,
+        "proverb_original": "Maňgal dewá míne, Sát pátálí guwá síné.",
+        "translation_english": "When Mars goes into Pisces, The seven lower regions become wet.",
+        "explanation": "(Much rain is to be expected on Mars going into Pisces.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 50,
+        "source_page": 141,
+        "proverb_original": "Jau ṭha nawe nech Bámno khás ṭhí sheró re khech Jaa houí buḍhé prań Bámun léď máň sheró re dá né.",
+        "translation_english": "When I was a young maid, I enjoyed Bráhmans in a mustard field; Now that I am an old woman Bráhmans console me with mustard seed.",
+        "explanation": "(It means that when she was young, Bráhmans used to prefer requests to her; but when she became old, the way was changed to beg of Bráhmans.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 51,
+        "source_page": 141,
+        "proverb_original": "Hyúň ghalo-lá bádlhé soená ghalo suháge, Thíňd ghalo bánthiyá káňjí ráňdí áge.",
+        "translation_english": "The snow will melt with clouds, and gold with borax, And so will a handsome young man with a harlot.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 52,
+        "source_page": 141,
+        "proverb_original": "Doú bi lágá páuň bi lágá, Sio brágo rá byáh bi lágá.",
+        "translation_english": "The sun is shining and the rain is falling, The tiger and the leopard’s wedding is being celebrated.",
+        "explanation": "(Of an extraordinary thing.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 53,
+        "source_page": 141,
+        "proverb_original": "Také ri, bí, Chajau re bi.",
+        "translation_english": "Costing six pies, And yet of good quality!",
+        "explanation": "(A thing bought for six pies cannot be of good quality)"
+    },
+    {
+        "type": "Proverb",
+        "id": 54,
+        "source_page": 141,
+        "proverb_original": "Sáko ri mauňsí. Saudé ri laram.",
+        "translation_english": "The mother’s sister in relation, But very strict in a bargain.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 55,
+        "source_page": 141,
+        "proverb_original": "Dukhné chót, Kangué suhel.",
+        "translation_english": "A hurtful limb is often hurt, And he is often seen, who is disliked.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 56,
+        "source_page": 141,
+        "proverb_original": "Shíňgó ja chháňrné poré, Punyo de dené pachóké.",
+        "translation_english": "It is unwise to let go the horns And catch hold of the tail (of a bull).",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 57,
+        "source_page": 141,
+        "proverb_original": "Karjo rí jímí, ṭhaňdé pání rá uháo, jeín kethe páo.",
+        "translation_english": "Land on tax, and a bath of cold water, can be obtained everywhere.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 58,
+        "source_page": 142,
+        "proverb_original": "Ráňd sáňd hor mhaiňsá arņú, Jaa bigró taa kishu kaňņú.",
+        "translation_english": "When a widow, an ox, and a wild buffalo Are in a rage, what’s to be done then?",
+        "explanation": "(It means that these three are uncontrollable.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 59,
+        "source_page": 142,
+        "proverb_original": "Jethaí ghoļí, Tethuň pyúňlí.",
+        "translation_english": "wherever mixed with water, There’s the golden colour.",
+        "explanation": "(It means that a diligent man will gain everywhere)"
+    },
+    {
+        "type": "Proverb",
+        "id": 60,
+        "source_page": 142,
+        "proverb_original": "Réog bi chhwáňá, Taa Táňdá bi náchá.",
+        "translation_english": "when the sun set from Réog peak, Then Táňdá began his dance.",
+        "explanation": "(Of an unsuitable time in any business)"
+    },
+    {
+        "type": "Proverb",
+        "id": 61,
+        "source_page": 142,
+        "proverb_original": "Budh bániáň Shukr káňá, Shanchar bolo dúň parí nháňá.",
+        "translation_english": "Wednesday is a usurer, and Friday has only one eye, But Saturn says ‘he must bathe’.",
+        "explanation": "(There is no hope of rain on Wednesday or Friday, but Saturday must bring rain.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 62,
+        "source_page": 142,
+        "proverb_original": "Luku luku pachnu, Tau práuņé ágé denu.",
+        "translation_english": "She prepares a dish privately, Then puts it before a guest.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 63,
+        "source_page": 142,
+        "proverb_original": "Khráni píni Shulrúí, Bhukhe marí Káňdié; Chau tandshó Dhánoné, Soího léyí Dháňlé.",
+        "translation_english": "Shulrú is good for eating and drinking, There is hunger in Káňdí; Dhánon contains pleasure and pastimes, Complaints are made in Dháňí.",
+        "explanation": "(The lands in Shulrú and Dhánon are very fertile, and those of Káňdí and Dháňí are good for nothing. These four villages are in Koti State.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 64,
+        "source_page": 142,
+        "proverb_original": "Dhakí múth lákhó rí, Khulí múth kakhó rí.",
+        "translation_english": "A closed fist may hold a million, And an open one, a straw.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 65,
+        "source_page": 143,
+        "proverb_original": "Jaa ukhlo du muňd chháňrnu Taa chóto khe ká darnu ?",
+        "translation_english": "When one puts one’s head in a mortar, What’s the fear of hurt?",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 66,
+        "source_page": 143,
+        "proverb_original": "Bádlí pákí bhaṭkó, Pání rí lágí shatkó; Bádlí pákí byálai, Pání ná nhyálai.",
+        "translation_english": "When clouds become red at morn, Then there will be a heavy shower of rain; When clouds become red in the evening, Then you need not wait for rain.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 67,
+        "source_page": 143,
+        "proverb_original": "Ju nháňdlé muchay, Múňhoň páňdé ja pay jhuṭh, Tesru ká pákṛi ?",
+        "translation_english": "How can he who makes water in his bath, And tells a lie face to face, be detected?",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 68,
+        "source_page": 143,
+        "proverb_original": "Ná pét shashné deú, Ná poré nashné deú.",
+        "translation_english": "I’ll neither let you massage my belly, Nor allow you to go away.",
+        "explanation": "(The saying of a pregnant woman to her nurse. When one rejects each alternative)."
+    },
+    {
+        "type": "Proverb",
+        "id": 69,
+        "source_page": 143,
+        "proverb_original": "Jishé gurú, Tishé chelé.",
+        "translation_english": "As is the spiritual guide, So are his disciples.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 70,
+        "source_page": 143,
+        "proverb_original": "Jetnu khátan hó, Tetni táňgní.",
+        "translation_english": "One ought to stretch (one’s legs), According to one’s means.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 71,
+        "source_page": 143,
+        "proverb_original": "Jishá désh, Tishá bhésh.",
+        "translation_english": "As may be the country, So should be the fashion (of one’s dress).",
+        "explanation": "(In a warm country cotton clothing, and in a cold country woollen, is suitable.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 72,
+        "source_page": 143,
+        "proverb_original": "Látí-i ghá’ní máchhli, Múňhňoň bhajnu Rám.",
+        "translation_english": "He kills fish with his feet, And performs Divine Service with his mouth.",
+        "explanation": "(Used when one differs in words and deeds.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 73,
+        "source_page": 144,
+        "proverb_original": "Agle re látí ká a ? Ju páchhlé rí finí.",
+        "translation_english": "The former’s feet are not so ugly As the latter’s ankles.",
+        "explanation": "(Used when both of two things are defective.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 74,
+        "source_page": 144,
+        "proverb_original": "Sabí já bhalí chup.",
+        "translation_english": "Silence is better than all (things).",
+        "explanation": "(The silent man keeps aloof from all squabbles.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 75,
+        "source_page": 144,
+        "proverb_original": "Kodá bí khindá, Taa pádá bí fojá.",
+        "translation_english": "He has not only scattered the grain, But has also hurt his buttocks.",
+        "explanation": "(Used when one commits two mistakes at a time.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 76,
+        "source_page": 144,
+        "proverb_original": "Haláí uťu, Móié gádu.",
+        "translation_english": "Not very deep with a plough, But very deep with a smoothing-plough.",
+        "explanation": "(Used to express inconsistent things)"
+    },
+    {
+        "type": "Proverb",
+        "id": 77,
+        "source_page": 144,
+        "proverb_original": "Sárí rátí gáu bajáu, Bhyánsrí khe dyúňdá jáu.",
+        "translation_english": "The whole night was spent in singing to music, There was a dead fœtus at daybreak.",
+        "explanation": "(After working hard, the result was fruitless.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 78,
+        "source_page": 144,
+        "proverb_original": "Múňhoň dekhí ro tíká láņá.",
+        "translation_english": "The gift called ṭíká should be according to one’s dignity.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 79,
+        "source_page": 144,
+        "proverb_original": "Chhote muňhéň, Bare jabáb.",
+        "translation_english": "The mouth small, But the reply great.",
+        "explanation": "(One ought to speak according to one’s ability.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 80,
+        "source_page": 144,
+        "proverb_original": "Máň khe khaņí kú, Tíňdá páí tú.",
+        "translation_english": "A well was dug for me, But you are cast in it.",
+        "explanation": "(Used when a complainant is found to be guilty)"
+    },
+    {
+        "type": "Proverb",
+        "id": 81,
+        "source_page": 144,
+        "proverb_original": "Shátho rí déňgíň, Ekr rá bhárá.",
+        "translation_english": "sixty persons’ sticks Make a man’s load.",
+        "explanation": "(Trifling things, when gathered together, are of great use.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 82,
+        "source_page": 145,
+        "proverb_original": "Jáň-uň áppí ní maro Táň-uň surgé ní tarí.",
+        "translation_english": "So long as one is not dead, One can’t go to heaven.",
+        "explanation": "(One’s business should be done by oneself.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 83,
+        "source_page": 145,
+        "proverb_original": "Páp kapút apnéí khá.",
+        "translation_english": "Sin and a wicked son will injure one’s own interests.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 84,
+        "source_page": 145,
+        "proverb_original": "Jas rí Sáwané jáó, Tes fa’ haruí dhishó.",
+        "translation_english": "He, whose eyes go in July, Sees green everywhere.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 85,
+        "source_page": 145,
+        "proverb_original": "Shiré múň sháshu, Sáwané áyé áshu.",
+        "translation_english": "Her mother-in-law died in June But she weeps for her in July.",
+        "explanation": "(Of an improper time for a business.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 86,
+        "source_page": 145,
+        "proverb_original": "Khál píá’ astáí, Gunjó bharí japóro rí.",
+        "translation_english": "A clever man eats and drinks, But a fool’s moustache is detected.",
+        "explanation": "(Used when the culprit escapes, while an innocent man is punished)"
+    },
+    {
+        "type": "Proverb",
+        "id": 87,
+        "source_page": 145,
+        "proverb_original": "Snáro rí ṭhanak ṭhanak, Lhwáro rí ekkai.",
+        "translation_english": "The goldsmith’s many taps Are equal to an ironsmith’s single stroke.",
+        "explanation": "(Many small things are equal to one large one.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 88,
+        "source_page": 145,
+        "proverb_original": "Sau múshé kháia, brálí Gáňgá-khe chalí.",
+        "translation_english": "Having devoured a hundred mice, The cat goes to the sacred place (Ganges).",
+        "explanation": "(Used when a sinful man does a virtuous act)"
+    },
+    {
+        "type": "Proverb",
+        "id": 89,
+        "source_page": 145,
+        "proverb_original": "Merí shashuwó púṭh, Teré shashuwó háth.",
+        "translation_english": "My back may be oiled, As well as your hands.",
+        "explanation": "(Used when both parties are interested in a transaction)"
+    },
+    {
+        "type": "Proverb",
+        "id": 90,
+        "source_page": 145,
+        "proverb_original": "Likhí kamáré lágu dhól, Jetné uṭhá uṭhé tetné lágu hór.",
+        "translation_english": "By an accident a rolling stone struck me, As I got up there came down another to hit me.",
+        "explanation": "(Used when one gets many troubles at a time.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 91,
+        "source_page": 146,
+        "proverb_original": "Ek sháňkh, Dujá kharó rá bhará.",
+        "translation_english": "In the first place, a conch-shell, Secondly, full of rice boiled in milk.",
+        "explanation": "(Used when one is interested in both ways.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 92,
+        "source_page": 146,
+        "proverb_original": "Líd kháni tí háthí rí, Jané pét tau bharauo.",
+        "translation_english": "If dung is to be eaten, then eat that of an elephant, Wherewith the belly may be filled.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 93,
+        "source_page": 146,
+        "proverb_original": "Juthu kháňk tau, Míṭhé re lobhau.",
+        "translation_english": "Refuse food is eaten For the sake of its sweetness.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 94,
+        "source_page": 146,
+        "proverb_original": "Bethri naí, Kukró shuňdó.",
+        "translation_english": "An idle barber Shaves a dog.",
+        "explanation": "(Something is better than nothing.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 95,
+        "source_page": 146,
+        "proverb_original": "Swádó fú’ úweň khoú, Búáo ja’múweň khoú.",
+        "translation_english": "You’ve spoiled the taste, I’ll spoil the blame.",
+        "explanation": "(Used when a thing is spoiled in two ways.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 96,
+        "source_page": 146,
+        "proverb_original": "Thode rá khé’í, Píplí rá masálá, Kuchh ní hwáňdá.",
+        "translation_english": "The practice of archery, And the spice of red pepper, Are no good at all.",
+        "explanation": "(Used when a nuisance of any thing occurs.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 97,
+        "source_page": 146,
+        "proverb_original": "Chámbé milé, Bhekhlaí yámí.",
+        "translation_english": "Under a fragrant tree There grew a thorny plant.",
+        "explanation": "(Used when a well-to-do man has an ignorant son.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 98,
+        "source_page": 146,
+        "proverb_original": "Luňdó japadé, Kúkró muchlé, Pá’r ní parí.",
+        "translation_english": "A debauchee in speaking, And a dog in making water, Make no delay.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 99,
+        "source_page": 147,
+        "proverb_original": "Ka’idé re m’íl’ Age pa’íe ho.",
+        "translation_english": "The point of a thorn Is itself sharp.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 100,
+        "source_page": 147,
+        "proverb_original": "Ráņí khe náňgí kun boló ?",
+        "translation_english": "Who can say that the queen has no robes?",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 101,
+        "source_page": 147,
+        "proverb_original": "Jeúň kukrá ní huňdá, Tetí ká rát ní bhyauwó.",
+        "translation_english": "Where there is no cock, Does not the day break there?",
+        "explanation": "(Used when a thing can be done without one’s help.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 102,
+        "source_page": 147,
+        "proverb_original": "Fá’t baurí rí bí saubáňd.",
+        "translation_english": "A shrewd stroke of an enemy’s is worthy of praise.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 103,
+        "source_page": 147,
+        "proverb_original": "Chulí ja’ niklá, Bhátí dáň purá.",
+        "translation_english": "Came out of a store, Fell into a large oven.",
+        "explanation": "(Out of the frying-pan, etc)"
+    },
+    {
+        "type": "Proverb",
+        "id": 104,
+        "source_page": 147,
+        "proverb_original": "Puráí pathí de nanjre.",
+        "translation_english": "Kettledrums on another’s back.",
+        "explanation": "(Used when one is suffering and another happy)"
+    },
+    {
+        "type": "Proverb",
+        "id": 105,
+        "source_page": 147,
+        "proverb_original": "Ná ghațáí deweá, Ná raksháí chhalá.",
+        "translation_english": "I neither went to the grinding stone (in a river), Nor was I terrified by a ghost.",
+        "explanation": "(Used when one is safe from a danger)"
+    },
+    {
+        "type": "Proverb",
+        "id": 106,
+        "source_page": 147,
+        "proverb_original": "Khashó lágí táti, chit bhátá rátí. Khashó howá rám, bháto rí ní kyúň kám.",
+        "translation_english": "When a Khash was in need, he said ‘Go on, Bráh-man, by night.’ When the Khash got well, he said ‘There is no use of a Bráhman.’",
+        "explanation": "(The Khash sept of Kanets is of selfish character)"
+    },
+    {
+        "type": "Proverb",
+        "id": 107,
+        "source_page": 147,
+        "proverb_original": "Bolo letí thíá ? Bolo Dilí. Bolo ká karuí thíá ? Bolo bhár jhokú thíá.",
+        "translation_english": "‘Say, where have you been ?’ He replied that he was at Delhi. ‘What were you doing there ?’ He replied that he was making a fire for parching grain.",
+        "explanation": "(Of negligence in a man.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 108,
+        "source_page": 148,
+        "proverb_original": "Jetnu ghacó ja’ panhaír hó, Tetnuí pan-kaur ja ghar hó.",
+        "translation_english": "As far as is the water-place from the house, So far is the house from the water-place.",
+        "explanation": "(It shows the equality of two things)"
+    },
+    {
+        "type": "Proverb",
+        "id": 109,
+        "source_page": 148,
+        "proverb_original": "Mauté re ṭhúň’ re imré.",
+        "translation_english": "The food at an officer’s house is tasteful.",
+        "explanation": "(It shows superiority.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 110,
+        "source_page": 148,
+        "proverb_original": "Jasrá báo sí, Sé kwuň daró ?",
+        "translation_english": "He, whose father is a hen, Why should he fear?",
+        "explanation": "(A hen’s young one has no fear)"
+    },
+    {
+        "type": "Proverb",
+        "id": 111,
+        "source_page": 148,
+        "proverb_original": "Sáppú-e kháň-khe, díňguň-rá dayr.",
+        "translation_english": "He who was bitten by a snake, fears even a stick.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 112,
+        "source_page": 148,
+        "proverb_original": "Bolau leté thíá? Bolau swargé, Ká karuí thíá? Túlí láu-thá.",
+        "translation_english": "‘Where have you been?’—‘I was in paradise.’ ‘What were you doing there?’—‘I was mending my clothes.’",
+        "explanation": "(To denote ignorance)"
+    },
+    {
+        "type": "Proverb",
+        "id": 113,
+        "source_page": 148,
+        "proverb_original": "Elau kútú é lau shám, Merí jan de úrá chháň.",
+        "translation_english": "Take this basket and take these apricots, But be pleased, my friend, to spare my life.",
+        "explanation": "(One who is in great distress)"
+    },
+    {
+        "type": "Proverb",
+        "id": 114,
+        "source_page": 148,
+        "proverb_original": "Mered jhuň eá, kamiéňg galú, úň kadí ṭhik bí ná deú-thu ? Bolan, ráňdlé, séí jal tau lágé.",
+        "translation_english": "‘O my beloved property, how did you burn? I never used to give even alms.’ They replied, ‘O widow, that is the reason for burning your property.’",
+        "explanation": "(Tit for tat.)"
+    },
+    {
+        "type": "Proverb",
+        "id": 115,
+        "source_page": 148,
+        "proverb_original": "Teré baldó-re tau lámbé shíňg a’ Ráňd bi snéň’í kinyáň u.",
+        "translation_english": "‘Oh! your ox has long horns.’ ‘Yes, but I was widowed by them.’",
+        "explanation": "(A good thing which causes injury)"
+    },
+    {
+        "type": "Proverb",
+        "id": 116,
+        "source_page": 148,
+        "proverb_original": "Dáňré, háthí-re dáňd a’ é, Dekhné-ré horó, chápné-ré horó.",
+        "translation_english": "Oh my dear! These are the elephant’s teeth, one lot to be looked at and the others to chew with.",
+        "explanation": "(One whose words differ from his deeds)"
+    },
+    {
+        "type": "Proverb",
+        "id": 117,
+        "source_page": 149,
+        "proverb_original": "Reko-ri jato tau thaquoe charayň k. Jau játó ápne tau ká karí ?",
+        "translation_english": "One ought to take warning, from seeing another’s eyes hurt. What’s to be done when one’s own are injured?",
+        "explanation": "(Of precautions against danger)"
+    },
+    {
+        "type": "Proverb",
+        "id": 118,
+        "source_page": 149,
+        "proverb_original": "Píňnú-yá bháň kaņgu ná ṭhanau, Ghato-rá bhúirí dewau limbí térau.",
+        "translation_english": "One who has his sieve full will not groan, But he who has to go to the mill will weep over his heavy load.",
+        "explanation": "(When one is happy and another not)"
+    },
+    {
+        "type": "Proverb",
+        "id": 119,
+        "source_page": 149,
+        "proverb_original": "Ghar chi, rau múňhtá ápníí dashní ho.",
+        "translation_english": "One has to show one’s own property and one’s own face.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 120,
+        "source_page": 149,
+        "proverb_original": "Dekh ráňdo-rá chálá, Shur náňgí múňh kálá.",
+        "translation_english": "See the widow’s trick, Bare head and black face.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 121,
+        "source_page": 149,
+        "proverb_original": "Huňd-de karau chhuráyí, Belh-ro ní chhuwyá chauyáň.",
+        "translation_english": "It does not matter if the sun sets on its way, But it ought not to set while sitting still.",
+        "explanation": "(One ought not to be idle)"
+    },
+    {
+        "type": "Proverb",
+        "id": 122,
+        "source_page": 149,
+        "proverb_original": "Shíl-báňkí góryá, pauņ-báňkí ghoriyáň, Maryád-báňká mard, dúd-báňkí gau.",
+        "translation_english": "She who is chaste is pretty, that is a horse which is swift. He is a man whose conduct is good, and a good cow is that which gives much milk.",
+        "explanation": "(Handsome is that handsome does)"
+    },
+    {
+        "type": "Proverb",
+        "id": 123,
+        "source_page": 149,
+        "proverb_original": "Meri ghan ní kanu tau meré shaúňd karai.",
+        "translation_english": "If you do not love me, I give you an oath.",
+        "explanation": "(Love requires no oath)"
+    },
+    {
+        "type": "Proverb",
+        "id": 124,
+        "source_page": 149,
+        "proverb_original": "Lara-ra ghau rau kiari dáre ne kehdu.",
+        "translation_english": "One-sided love and a ragged beard are good for nothing. Unrequited love is a disgrace.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 125,
+        "source_page": 149,
+        "proverb_original": "Ká láku lé láluri pí’t, Sáré haňdi-niyí Máňdí rau Suláí.",
+        "translation_english": "What a little thing a tinder box is! Yet it has been all through Mandi and Suket.",
+        "explanation": ""
+    },
+    {
+        "type": "Proverb",
+        "id": 126,
+        "source_page": 150,
+        "proverb_original": "Chiso-dá páthar páyá, tau thulé-khe dewau.",
+        "translation_english": "If a stone is thrown into the water it sinks to the bottom.",
+        "explanation": "(A weighty word attracts attention)"
+    },
+    {
+        "type": "Proverb",
+        "id": 127,
+        "source_page": 150,
+        "proverb_original": "Bashkál kínáí bashau pláň-dé chayní pách.",
+        "translation_english": "It does not matter whether there is a heavy monsoon or a light one, the tree (Butea frondosa) always has no more than three leaves.",
+        "explanation": "(One who is just the same whether in comfort or adversity)"
+    },
+    {
+        "type": "Proverb",
+        "id": 128,
+        "source_page": 150,
+        "proverb_original": "Ek ákhh tíňdí bi dwákhj.",
+        "translation_english": "He has only one eye, and in that too there is pain.",
+        "explanation": "(Trouble upon trouble)"
+    },
+        {
+          "type": "Riddle",
+          "id": 1,
+          "source_page": 150,
+          "riddle_original": "Chár churi charmakaň-lágí, Dú kharí dú náchchan-lágí.",
+          "riddle_english_translation": "Four birds began to sing, Two stand and two dance.",
+          "answer": "A cow’s udder"
+        },
+        {
+          "type": "Riddle",
+          "id": 2,
+          "source_page": 150,
+          "riddle_original": "U’pr bél’í bhuíň ṭháňkúá, M’á gorí put sáňwlá.",
+          "riddle_english_translation": "A creeper above and a basin below, The mother white and the son black.",
+          "answer": "Mugoh (an edible root.)"
+        },
+        {
+          "type": "Riddle",
+          "id": 3,
+          "source_page": 150,
+          "riddle_original": "Poró áwí ráňd T’áň-khe ly’íú kolthó-rí láňd.",
+          "riddle_english_translation": "There came a widow, And she brought you a bundle of pulse.",
+          "answer": "A snail."
+        },
+        {
+          "type": "Riddle",
+          "id": 4,
+          "source_page": 150,
+          "riddle_original": "Lau jharí lashkar chálau, Néol gúňnau, parbat hálau.",
+          "riddle_english_translation": "If the creeper is pulled an army seems to be marching, The lowland rises up and the hill shakes.",
+          "answer": "A hand-loom"
+        },
+        {
+          "type": "Riddle",
+          "id": 5,
+          "source_page": 150,
+          "riddle_original": "Lúňgí ḍábr daňiyár karau, Máňkú mámá béuwé tarau.",
+          "riddle_english_translation": "A deep pond resounds, And uncle Máňkú swims.",
+          "answer": "A frog."
+        },
+        {
+          "type": "Riddle",
+          "id": 6,
+          "source_page": 151,
+          "riddle_original": "Wár chhlákó pár chhláka Maňjh níl é jamtu paká.",
+          "riddle_english_translation": "One wave hither and another thither, In the centre of a ravine a citron is ripe.",
+          "answer": "The churning of curd"
+        },
+        {
+          "type": "Riddle",
+          "id": 7,
+          "source_page": 151,
+          "riddle_original": "Poró áwí rái, Muňd gor pakhruí.",
+          "riddle_english_translation": "There came the cotton, And hurt the head with its nails.",
+          "answer": "A comb"
+        },
+        {
+          "type": "Riddle",
+          "id": 8,
+          "source_page": 151,
+          "riddle_original": "Nhyárí nálí sé garlráņá, Páňj jané dewé pákṛ-dé dúié áņá.",
+          "riddle_english_translation": "In a dark ravine a lion roared, Five men went to catch him but two brought him out.",
+          "answer": "Mucus"
+        },
+        {
+          "type": "Riddle",
+          "id": 9,
+          "source_page": 151,
+          "riddle_original": "Poro áwau kuktu lujbude kán, Máň nó khaí kuktuwá úň terá jaymán.",
+          "riddle_english_translation": "There came a pup with quivering ears, Don’t bite me, O pup, I am your customer.",
+          "answer": "Forget-me-not"
+        },
+        {
+          "type": "Riddle",
+          "id": 10,
+          "source_page": 151,
+          "riddle_original": "Bjhyainí lau bjhyainí láu bujh bujhaiyá-bwá, Eksai dalse chayń tal lágé, híňg, jwayņ ray jír.",
+          "riddle_english_translation": "O you, that understand a puzzle, I tell you a riddle. On one plant there are three fruits, viz. asafoetida, carroway and cummin.",
+          "answer": "A large kitchen spoon"
+        },
+        {
+          "type": "Riddle",
+          "id": 11,
+          "source_page": 151,
+          "riddle_original": "Harr karau jbarr karau chuhú karau chash. Chár saráí tau chálau jaa kamr karau kash.",
+          "riddle_english_translation": "They quiver and shake with a bird-like noise, The four peons will go on when they have girt up their loins.",
+          "answer": "A palanquin or a spinning wheel (charkhá)"
+        },
+        {
+          "type": "Riddle",
+          "id": 12,
+          "source_page": 151,
+          "riddle_original": "Bhítú-dá taká, sabí-rá sakhá.",
+          "riddle_english_translation": "It sits on the wall, And is friend of all.",
+          "answer": "A lamp"
+        },
+        {
+          "type": "Riddle",
+          "id": 13,
+          "source_page": 152,
+          "riddle_original": "p ou c e c a p locilí ád lá b One s co c tl ere. Re himself is small but has a long beard.",
+          "riddle_english_translation": "(Note: The original text is too fragmented in the scan to be legible. The translation provided is: 'He himself is small but has a long beard.')",
+          "answer": "An ear of barley"
+        },
+        {
+          "type": "Riddle",
+          "id": 14,
+          "source_page": 152,
+          "riddle_original": "Kúle iú kátu ná, ná dhobré dhoú, Bol meru pyáru, sárí prithí khe cholu hoú.",
+          "riddle_english_translation": "Neither has a spinner spun it, nor has a washer washed it, Say, my dear, what is it that makes a cloak for the whole world?",
+          "answer": "The snow."
+        },
+        {
+            "type": "Song",
+            "title": "The Song of the Bláj Fair",
+            "context": "Sung in Bláj",
+            "source_pages": [
+              152,
+              153,
+              154,
+              155,
+              156
+            ],
+            "lyrics_original": "Pahté náuw Náráyaņo rá, jumeň dhartí puám,\nJalátholu hoi pirthibí, debí Mansá rákhí jagáúň.\nMánu nó holé kweň ríkhí, eku Náráyan rájá holá,\nNiddh gurú rí jholí ja, dháň dáná sheró rá jhará.\n5. Dháť dáná sheró rá, mháré shwárié bijay,\nBijí báji ó sheró, jámadé lá-gé,\nJámí ró sheró, god-mé láyé,\nGodi ró sheró, pákadé láyé,\nPákí lúňí ró sheró, kunuweň láyé.\n10. Gáhí máňdí ró, kyá howá pwájá?\nChkerú bharí sheró rá, mháré bijay shwáiré,\nBijí ró sheró, jámadé láyé,\nJámí ró sheró, godané láyé,\n15. Godi ru sheró, pákadé láyé.\nPákí lúňí ró sheró, kunuweň láyé.\nGáhí máňdí ró sheró, kyá howá pwájá?\nChkerú bharí bijay rá, pálhá howá pwájá\nPálhá bharí sheró rá, mháré bijay shwáiré,\n20. Bijí ró sheró, jámadé láyé,\nJámí ró sheró, gódáné láyé,\nGodi ró sheró, pákadé láyé,\nPákí lúňí ró sheró, kunuweň láyé.\nGáhí máňdí ró sheró, kyá howá pwájá?\n25. Pálhá bharí sheró rá, ján howá pwájá\nJán bharí sherórá mháré bijay shwarié.\nBiní ró sheró, jámadé láyé.\nJámí ró sheró, godané láyé,\nGodí ró sheró, pákadé láyé,\n30. Pákí lúňí ró sheró, kunuweň lúyé\nGáhí máňdí ró sheró, kyá howá pwájá?\nJán bharí bijay rá, khár howá pwájá\nKhár bharí sheró rá, mháré bijay Bolni she í,\nBijí ró sheró, jámadé láyé;\n35. Jámí ró sheró, gódáné láyé,\nGodí ró sheró, pákadé láyé\nPákí lúňí ró sheró, kunureň lúyé\nGáhí máňdí ró sheró, kyá howá pwájá,\nKhár bharí bijay rá, hó hoí kapashó púrá,\n40. Byáló ke pahré áyá lndró, byáló ke pahré, áyí Is,\nJímí sormánú, báné mutró,\nChand ro súyó, báné mutró,\nTáre re maňdalá, báné mutró,\nBású re nágó, báné mutró.\n45. Cháro rau dhúró, báné mutró,\nKáshí rau múní, báné mutró,\nSoron rí paylí, báné mutró,\nRáná Ragbír Chandó, báné mutró,\nTibé dotháňyíňeň, báné mutró,\n50. Beré rau bánú, báné mutró,\nDeó Kharáň, báné mutró,\nDeó rau Sípá, báné mutró,\nDeó rau Dháňdí, báné mutró,\nDeó Korgaņó, báné mutró,\n55. Deó rau debí, báné mutró,\nCháňdá rí chhaurí, báné mutró,\nEr Páňdájé, báné mutró,\nMansá dí vartí debí Mánsá,\nTú hí deblé ruwé jugátí,\n60. Sát kalash, Náráyaņé ditté, rákhaņé khé,\nÍnó deblé, rákhaí bhdáré,\nBáró barshó khe, Náráyan jakí-bichí,\nTú deblé, rawé goddí,\nNau mhiné kalashó rákhé bhdáré,\n70. Ek kalash jorí deblé, Brahmá paidá howá;\nTáň to bolú Brahmeyáň, merá dayá byáhrú karí\nKharjyó na bolay, máí deblé,\nTú aú juyó rí dharó rí máá\nKrodh apúň deblé dí karó rá táúé\n75. Dují kalash jorí deblé Vıshnu paidá bháyá",
+            "translation_english_prose": "I tell thee, O Brahma, be pleased to solemnize my wedding.\n'O mother goddess, say not such a strange thing, Thou art my virtuous mother of the seven ages,” said Brahmá.\nThe goddess being very angry, burnt him to ashes. The second pot was broken by the goddess, and there appeared Vishnu.\n“I tell thee, O Vishnu, pray perform my wedding,” said the goddess.\n“O goddess, say not such a strange thing, thou art my seven ages’ virtuous mother,” answered Vishnu.\nThe goddess being very indignant, burnt Vishnu to ashes.\nThe third pot was broken by her, and there appeared Mahádeb (Shib):\n“I tell thee, O Mahádeb, be pleased to arrange for my wedding,” said the goddess.\n“Promise me, O goddess, thou that hast killed my two elder brothers, Be pleased to restore them to life.”\nThe goddess threw a drop of nectar, straightway arose Brahmá and Vishnu.\nBrahmá and Vishnu besought the goddess.\n“We will perform thy wedding after we have created men.”\nA man twenty-seven feet in height was created, but he did not suit the earth.\nA man of two feet was created, but he did not suit the earth.\nThe next time they again created a man.\nA man of gold and silver, but he did not suit the earth.\nA man of bell-metal and copper was created, but he did not suit the earth.\nA man of Cupid was created, who answered and was called Húňkár.\nHúňkár got a son, who was termed Niráňkár.\nNiráňkár got a son, who was called Harí Chand.\nIn the reign of Harí Chand all his subjects were very happy.\nIn his time, the leopard used to graze goats.\nIn his time the cat was the keeper of the milk-store.\nIn his time the mouse became the keeper of the grain store.\nAnd in his reign, the civet was perhaps the door-keeper.\nHarí Chand got a son whose name was Rájá Bal Chand.\nIn the reign of Bal Chand the earth was dazzling. Balí Chand said:—\n“Ask learned pandits to find a lucky time to build a palace.”\nIts uppermost roof was made of gold. Then he bade call Nárad.\nInvitations were sent to the four quarter saints and sages were summoned.\nAll the deities of the four dháms were invited. He said: “O Nárad, invite all. But take care that Vishnu may not hear.” Vishnu, assuming the form of a dwarf, Arrives at the door of Balí Chand, and seats himself at the gate.\nHe neither takes food nor drinks water. Balí Chand saith, “O Bráhman, please accomplish my sacrifice.”\n“I will give you whatsoever you may ask for.” The dwarf bound him by an oath.\nHe fed the sacred flame with lion fuel, and lighted a lamp with water.\nThus accomplishing the sacrifice he asked for the gift. And Balí Chand said: “O Bráhman, ask for the gift, ask for the gift.”\n“Whatever you ask for is acceptable to me.”\nThe dwarf inquired, “O Rájá, what is that thing like a pan?”\nThe Rájá replies, “O Bráhman, call it not a pan, ’tis the full moon.”\nThe dwarf inquires, “O Rájá, what is that like a rope there?”\nThe Rájá replies: “O Bráhman, call it not a rope, it is the Básukinág.”\nO Bráhman, ask for a gift, there is no refusing anything you may ask for.\nThe dwarf inquires again “O Rájá, what’s that on the roof like a golden basket?”\nThe Rájá replies: “O Bráhman, call it not a basket, ’tis the golden roof.”\nThe dwarf said, “I have accomplished your sacrifice, but you are changed.”\n“Bestow on me two and a half paces of land,” said Balí Chand. “You are misled and don’t know how to ask. Old silver, horses and robes are gifts for a Brál man. I would have given you the fertile land in Balg, where-in grows a kháňsh of grain.”\nIn one step he covered half the earth and in another the whole world.\nBut there being no room for the half step, Rájá Balí Chand bent down his neck for it.\nHe was cast down into the seventh lower region. Rájá Balí besought Vishnu, saying “Do not abolish my name.”\n“Give me two days of conjunction and two days of the new moon,” asked Rájá Balí Chand.\nO Rájá Balí Chand, I cannot give you so much, but I’ll allow you one day of conjunction and one day of the new moon,” added Vishnu.\nBalí Chand exclaimed “O Diwálí, when will you come?” She said, “In October.”\n“With what greedy desire?” “Of maidens and children.”\n“(O Diwálí, when will you come?” “with the desire of walnuts and roasted grain.”\nAnd with the desire of beautiful women and handsome youths.\nSo much is the Blá’j Song.",
+            "footnotes": [
+              "Roasted grain and walnuts are divided among friends and relatives at the fair."
+            ]
+          }
+]
