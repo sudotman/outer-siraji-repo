@@ -10,6 +10,7 @@ const INPUT_CSV = path.join(ROOT, 'mainDictionary.csv');
 const PUBLIC_DIR = path.join(ROOT, 'public');
 const DATA_DIR = path.join(PUBLIC_DIR, 'data');
 const ASSETS_DIR = path.join(PUBLIC_DIR, 'assets');
+const CUSTOM_DOMAIN = process.env.CUSTOM_DOMAIN;
 
 async function ensureDir(dirPath) {
   if (!existsSync(dirPath)) {
@@ -426,6 +427,13 @@ async function main() {
   await writeWorksHtml();
   await writeResearchHtml();
   await writeFile(path.join(PUBLIC_DIR, '.nojekyll'), '');
+  // Handle CNAME for custom domain
+  const rootCname = path.join(ROOT, 'CNAME');
+  if (existsSync(rootCname)) {
+    await copyFile(rootCname, path.join(PUBLIC_DIR, 'CNAME'));
+  } else if (CUSTOM_DOMAIN) {
+    await writeFile(path.join(PUBLIC_DIR, 'CNAME'), CUSTOM_DOMAIN.trim() + '\n');
+  }
 
   // Optional: if landingPageSample.html exists, copy to public/landing-sample.html
   const sample = path.join(ROOT, 'landingPageSample.html');
