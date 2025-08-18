@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+title: Works
+pagination:
+  data: collections.works
+  size: 1000
+  alias: items
+---
+
+<h1>Works</h1>
+<div class="grid cards">
+{% for item in items %}
+  <article class="card">
+    <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
+    <p class="muted">{{ item.data.type | capitalize }}{% if item.data.year %} · {{ item.data.year }}{% endif %}</p>
+    {% if item.data.url %}
+      <p><a href="{{ item.data.url }}" target="_blank" rel="noopener">External link →</a></p>
+    {% endif %}
+    <p>{{ item.templateContent | safe }}</p>
+  </article>
+{% endfor %}
+</div>
+
+
