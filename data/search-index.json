@@ -1851,7 +1851,7 @@
       "roman": "Bákh, adj."
     },
     "pos": "",
-    "text": " \n bakh, adj. \n  \n -karnu, v.t. re. to cut off \n -karnu, v.t. re. to cut off \n 13"
+    "text": " \n bakh, adj. \n  \n -karnu, v.t. re. to cut off \n -karnu, v.t. re. to cut off"
   },
   {
     "id": "manual-00207",
@@ -2823,7 +2823,7 @@
       "roman": "Bheṭá"
     },
     "pos": "n.f.",
-    "text": " \n bheta \n n.f. \n a present made to a deity or ruler \n a present made to a deity or ruler \n -deni, v.t. re. to give or offer a present"
+    "text": " \n bheta \n n.f. \n a present made to a deity or ruler \n a present made to a deity or ruler \n -deni, v.t. re. to give or offer a present - see the preceding"
   },
   {
     "id": "manual-00315",
@@ -4929,7 +4929,7 @@
       "roman": "Chapṇu"
     },
     "pos": "v.t. re.",
-    "text": " \n chapnu \n v.t. re. \n to chew \n to chew \n -e-jogu, -a, f. -i, pl. -e 'fit to chew.'"
+    "text": " \n chapnu \n v.t. re. \n to chew \n to chew \n -e-jogu, -a, f. -i, pl. -e 'fit to chew.' - see chabnu"
   },
   {
     "id": "manual-00549",
@@ -5172,7 +5172,7 @@
       "roman": "Cháw"
     },
     "pos": "n.m.",
-    "text": " \n chaw \n n.m. \n pleasure, ambition \n pleasure, ambition \n -hona, v.s. re. to be ambitious"
+    "text": " \n chaw \n n.m. \n pleasure, ambition \n pleasure, ambition \n -hona, v.s. re. to be ambitious - also chao"
   },
   {
     "id": "manual-00576",
@@ -7117,5 +7117,4874 @@
     },
     "pos": "v.a. re.",
     "text": " \n choknu \n v.a. re. \n to dip, to plunge \n to dip, to plunge \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00792",
+    "head": {
+      "devanagari": "",
+      "roman": "Chokwṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n chokwnu \n v.i. re. \n to be dipped or plunged \n to be dipped or plunged"
+  },
+  {
+    "id": "manual-00793",
+    "head": {
+      "devanagari": "",
+      "roman": "Cholá or -u"
+    },
+    "pos": "n.m.",
+    "text": " \n chola or -u \n n.m. \n a dress, a cloak \n a dress, a cloak \n pl. -e"
+  },
+  {
+    "id": "manual-00794",
+    "head": {
+      "devanagari": "",
+      "roman": "Cholí"
+    },
+    "pos": "n.f.",
+    "text": " \n choli \n n.f. \n a female dress \n a female dress"
+  },
+  {
+    "id": "manual-00795",
+    "head": {
+      "devanagari": "",
+      "roman": "Choltá or -u"
+    },
+    "pos": "n.m.",
+    "text": " \n cholta or -u \n n.m. \n a small dress or cloak \n a small dress or cloak \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00796",
+    "head": {
+      "devanagari": "",
+      "roman": "Chóltu"
+    },
+    "pos": "n.m.",
+    "text": " \n choltu \n n.m. \n a small cloak \n a small cloak"
+  },
+  {
+    "id": "manual-00797",
+    "head": {
+      "devanagari": "",
+      "roman": "Chóňr"
+    },
+    "pos": "n.m.",
+    "text": " \n chonr \n n.m. \n chowry, the tail of the bos grunniens, used to whisk off flies, also as an emblem or insigne of princely rank \n chowry, the tail of the bos grunniens, used to whisk off flies, also as an emblem or insigne of princely rank"
+  },
+  {
+    "id": "manual-00798",
+    "head": {
+      "devanagari": "",
+      "roman": "Chóp"
+    },
+    "pos": "n.f.",
+    "text": " \n chop \n n.f. \n (1) a pole, a tent-pole; (2) the sum of a loan \n (1) a pole, a tent-pole; (2) the sum of a loan"
+  },
+  {
+    "id": "manual-00799",
+    "head": {
+      "devanagari": "",
+      "roman": "Chopar"
+    },
+    "pos": "n.m.",
+    "text": " \n chopar \n n.m. \n butter \n butter"
+  },
+  {
+    "id": "manual-00800",
+    "head": {
+      "devanagari": "",
+      "roman": "Choparṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n choparnu \n v.t. re. \n to rub with butter or oil \n to rub with butter or oil \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00801",
+    "head": {
+      "devanagari": "",
+      "roman": "Chopdár"
+    },
+    "pos": "n.m.",
+    "text": " \n chopdar \n n.m. \n see chhariya \n see chhariya"
+  },
+  {
+    "id": "manual-00802",
+    "head": {
+      "devanagari": "",
+      "roman": "Chór"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n chor \n n.m. and f. \n a thief; a robber \n a thief; a robber \n f. -i, thieving or robbery"
+  },
+  {
+    "id": "manual-00803",
+    "head": {
+      "devanagari": "",
+      "roman": "Chor"
+    },
+    "pos": "n.m.",
+    "text": " \n chor \n n.m. \n a white sorrel \n a white sorrel"
+  },
+  {
+    "id": "manual-00804",
+    "head": {
+      "devanagari": "",
+      "roman": "Chorá"
+    },
+    "pos": "n.m.",
+    "text": " \n chora \n n.m. \n leaking \n leaking \n -lagna, v.s. re. to leak"
+  },
+  {
+    "id": "manual-00805",
+    "head": {
+      "devanagari": "",
+      "roman": "Chorṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n chornu \n v.i. re. \n to steal \n to steal \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00806",
+    "head": {
+      "devanagari": "",
+      "roman": "Choṛṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chornu \n v.t. re. \n to pluck \n to pluck \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00807",
+    "head": {
+      "devanagari": "",
+      "roman": "Choṛṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chornu \n v.t. re. \n to break, to crush \n to break, to crush \n tinven meri dingli chori par, 'he has broken my small stick.'"
+  },
+  {
+    "id": "manual-00808",
+    "head": {
+      "devanagari": "",
+      "roman": "Chorwṇu"
+    },
+    "pos": "v.s. re.",
+    "text": " \n chorwnu \n v.s. re. \n to be concealed or stolen \n to be concealed or stolen"
+  },
+  {
+    "id": "manual-00809",
+    "head": {
+      "devanagari": "",
+      "roman": "Choshá"
+    },
+    "pos": "n.m.",
+    "text": " \n chosha \n n.m. \n a burn \n a burn \n pl. -e"
+  },
+  {
+    "id": "manual-00810",
+    "head": {
+      "devanagari": "",
+      "roman": "Choshṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n choshnu \n v.t. re. \n to burn with fire \n to burn with fire \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00811",
+    "head": {
+      "devanagari": "",
+      "roman": "Choshwṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n choshwnu \n v.i. re. \n to be burnt \n to be burnt \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00812",
+    "head": {
+      "devanagari": "",
+      "roman": "Chóṭ"
+    },
+    "pos": "n.f.",
+    "text": " \n chot \n n.f. \n a hurt \n a hurt \n -deni, v.t. re. to throw away"
+  },
+  {
+    "id": "manual-00813",
+    "head": {
+      "devanagari": "",
+      "roman": "Chothrá or -u"
+    },
+    "pos": "n.m.",
+    "text": " \n chothra or -u \n n.m. \n a deep basket; a basket used to keep grain, etc. \n a deep basket; a basket used to keep grain, etc. \n f. -i, a small basket; pl. -e, baskets"
+  },
+  {
+    "id": "manual-00814",
+    "head": {
+      "devanagari": "",
+      "roman": "Choṭí"
+    },
+    "pos": "n.f.",
+    "text": " \n choti \n n.f. \n (1) a top, a peak; (2) a pigtail \n (1) a top, a peak; (2) a pigtail"
+  },
+  {
+    "id": "manual-00815",
+    "head": {
+      "devanagari": "",
+      "roman": "Chrái"
+    },
+    "pos": "n.f.",
+    "text": " \n chrai \n n.f. \n breadth or width \n breadth or width"
+  },
+  {
+    "id": "manual-00816",
+    "head": {
+      "devanagari": "",
+      "roman": "Chraiṭhá"
+    },
+    "pos": "n.m.",
+    "text": " \n chraitha \n n.m. \n the knee \n the knee \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00817",
+    "head": {
+      "devanagari": "",
+      "roman": "Chrássí"
+    },
+    "pos": "adj.",
+    "text": " \n chrassi \n adj. \n 84 \n 84"
+  },
+  {
+    "id": "manual-00818",
+    "head": {
+      "devanagari": "",
+      "roman": "Chréḷ"
+    },
+    "pos": "n.f.",
+    "text": " \n chrel \n n.f. \n a hag, a slut, the ghost of a woman who dies while pregnant \n a hag, a slut, the ghost of a woman who dies while pregnant"
+  },
+  {
+    "id": "manual-00819",
+    "head": {
+      "devanagari": "",
+      "roman": "Chréoṛí"
+    },
+    "pos": "n.f.",
+    "text": " \n chreori \n n.f. \n twine, to which rhododendron flowers are attached. it is hung on every house at the baisakhi sankrant called bishu. \n twine, to which rhododendron flowers are attached. it is hung on every house at the baisakhi sankrant called bishu."
+  },
+  {
+    "id": "manual-00820",
+    "head": {
+      "devanagari": "",
+      "roman": "Chrerú"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n chreru \n n.m. pl. \n birds \n birds \n chreru bashde lage: 'the birds began to warble.'"
+  },
+  {
+    "id": "manual-00821",
+    "head": {
+      "devanagari": "",
+      "roman": "Chrīň"
+    },
+    "pos": "n.f.",
+    "text": " \n chrin \n n.f. \n a bad smell \n a bad smell"
+  },
+  {
+    "id": "manual-00822",
+    "head": {
+      "devanagari": "",
+      "roman": "Chrírá"
+    },
+    "pos": "n.m.",
+    "text": " \n chrira \n n.m. \n a kind of insect having long hair on the body, long in size, and with many feet \n a kind of insect having long hair on the body, long in size, and with many feet \n pl. -e"
+  },
+  {
+    "id": "manual-00823",
+    "head": {
+      "devanagari": "",
+      "roman": "Chrīṛṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chrirnu \n v.t. re. \n to stretch, to spread \n to stretch, to spread \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00824",
+    "head": {
+      "devanagari": "",
+      "roman": "Chṭikṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n chtiknu \n v.i. re. \n to crack, to jump \n to crack, to jump \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00825",
+    "head": {
+      "devanagari": "",
+      "roman": "Chubhṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chubhnu \n v.t. re. \n to pierce \n to pierce \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00826",
+    "head": {
+      "devanagari": "",
+      "roman": "Chubkí"
+    },
+    "pos": "n.f.",
+    "text": " \n chubki \n n.f. \n a dip \n a dip \n -marni, v.f. re. to take a dip"
+  },
+  {
+    "id": "manual-00827",
+    "head": {
+      "devanagari": "",
+      "roman": "Chubkuwé-náchnu"
+    },
+    "pos": "v.a. re.",
+    "text": " \n chubkuwe-nachnu \n v.a. re. \n to dance to the tune called chubku, also idiomatically, to be much pleased \n to dance to the tune called chubku, also idiomatically, to be much pleased"
+  },
+  {
+    "id": "manual-00828",
+    "head": {
+      "devanagari": "",
+      "roman": "Chugá"
+    },
+    "pos": "n.m.",
+    "text": " \n chuga \n n.m. \n food for birds \n food for birds \n also chug"
+  },
+  {
+    "id": "manual-00829",
+    "head": {
+      "devanagari": "",
+      "roman": "Chusal or huglí"
+    },
+    "pos": "n.f.",
+    "text": " \n chusal or hugli \n n.f. \n a small piece of charcoal or stone placed on the aperture of a pipe to prevent the tobacco from going down into the pipe \n a small piece of charcoal or stone placed on the aperture of a pipe to prevent the tobacco from going down into the pipe"
+  },
+  {
+    "id": "manual-00830",
+    "head": {
+      "devanagari": "",
+      "roman": "Chugh"
+    },
+    "pos": "n.f.",
+    "text": " \n chugh \n n.f. \n a complaint, slander \n a complaint, slander \n -pani, v.t. re. to backbite"
+  },
+  {
+    "id": "manual-00831",
+    "head": {
+      "devanagari": "",
+      "roman": "Chugl-khór"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n chugl-khor \n n.m. and f. \n a backbiter \n a backbiter"
+  },
+  {
+    "id": "manual-00832",
+    "head": {
+      "devanagari": "",
+      "roman": "Chugáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chugawnu \n v.t. re. \n see charawnu \n see charawnu"
+  },
+  {
+    "id": "manual-00833",
+    "head": {
+      "devanagari": "",
+      "roman": "Chugṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chugnu \n v.t. re. \n see charnu \n see charnu"
+  },
+  {
+    "id": "manual-00834",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúhṛá"
+    },
+    "pos": "n.m.",
+    "text": " \n chuhra \n n.m. \n a sweeper \n a sweeper \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00835",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúi-jáṇu"
+    },
+    "pos": "v.s. ir.",
+    "text": " \n chui-janu \n v.s. ir. \n to miss \n to miss"
+  },
+  {
+    "id": "manual-00836",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúj"
+    },
+    "pos": "n.m.",
+    "text": " \n chuj \n n.m. \n a young hawk \n a young hawk"
+  },
+  {
+    "id": "manual-00837",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúk"
+    },
+    "pos": "n.f.",
+    "text": " \n chuk \n n.f. \n (1) an oath on the ruler; (2) a mistake \n (1) an oath on the ruler; (2) a mistake"
+  },
+  {
+    "id": "manual-00838",
+    "head": {
+      "devanagari": "",
+      "roman": "Chukṇu"
+    },
+    "pos": "v.a. re.",
+    "text": " \n chuknu \n v.a. re. \n (1) to take an oath on the ruler; (2) to err, to forget \n (1) to take an oath on the ruler; (2) to err, to forget"
+  },
+  {
+    "id": "manual-00839",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúl"
+    },
+    "pos": "n.f.",
+    "text": " \n chul \n n.f. \n the lower part of a door \n the lower part of a door"
+  },
+  {
+    "id": "manual-00840",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúl"
+    },
+    "pos": "n.f.",
+    "text": " \n chul \n n.f. \n a stove \n a stove"
+  },
+  {
+    "id": "manual-00841",
+    "head": {
+      "devanagari": "",
+      "roman": "Chumak"
+    },
+    "pos": "n.f.",
+    "text": " \n chumak \n n.f. \n a silver mouthpiece for a hubblebubble \n a silver mouthpiece for a hubblebubble"
+  },
+  {
+    "id": "manual-00842",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúňch"
+    },
+    "pos": "n.f.",
+    "text": " \n chunch \n n.f. \n a beak, a bill \n a beak, a bill \n also chunch"
+  },
+  {
+    "id": "manual-00843",
+    "head": {
+      "devanagari": "",
+      "roman": "Chuňchú"
+    },
+    "pos": "n.m.",
+    "text": " \n chunchu \n n.m. \n nipple of the breast; breast \n nipple of the breast; breast"
+  },
+  {
+    "id": "manual-00844",
+    "head": {
+      "devanagari": "",
+      "roman": "Chuňḍí"
+    },
+    "pos": "n.f.",
+    "text": " \n chundi \n n.f. \n the top (of a tree) \n the top (of a tree) \n distich: chia chundie ghugti bushau, bano chundie totu; kali jugo ra pohra laga, dadi lai-gue pota. 'a dove is warbling on the top of a pine, and a parrot on the top of an oak; 'tis sad of this iron age, that a grandson has taken away a grandmother.'"
+  },
+  {
+    "id": "manual-00845",
+    "head": {
+      "devanagari": "",
+      "roman": "Chundú"
+    },
+    "pos": "n.m.",
+    "text": " \n chundu \n n.m. \n a pinch \n a pinch \n -denu, v.a. re. to pinch"
+  },
+  {
+    "id": "manual-00846",
+    "head": {
+      "devanagari": "",
+      "roman": "Chungṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chungnu \n v.t. re. \n to take up, to lift up; to pick \n to take up, to lift up; to pick \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00847",
+    "head": {
+      "devanagari": "",
+      "roman": "Chuňgú or chuňgú-bír"
+    },
+    "pos": "n.m.",
+    "text": " \n chungu or chungu-bir \n n.m. \n a male spirit, under a sorcerer's control, and employed to bring things to him. it also drinks the milk of cows and brings milk, ghi, etc., to its owner. \n a male spirit, under a sorcerer's control, and employed to bring things to him. it also drinks the milk of cows and brings milk, ghi, etc., to its owner. \n used in chamba and the simla hills, respectively"
+  },
+  {
+    "id": "manual-00848",
+    "head": {
+      "devanagari": "",
+      "roman": "Chún-pún"
+    },
+    "pos": "n.m.",
+    "text": " \n chun-pun \n n.m. \n goodness \n goodness"
+  },
+  {
+    "id": "manual-00849",
+    "head": {
+      "devanagari": "",
+      "roman": "Chup"
+    },
+    "pos": "n.m.",
+    "text": " \n chup \n n.m. \n silence \n silence \n -karni, v.i. re. to be silent"
+  },
+  {
+    "id": "manual-00850",
+    "head": {
+      "devanagari": "",
+      "roman": "Chupá or -u"
+    },
+    "pos": "adj.",
+    "text": " \n chupa or -u \n adj. \n silent, quiet, tranquil \n silent, quiet, tranquil \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00851",
+    "head": {
+      "devanagari": "",
+      "roman": "Chupe-rauṇu"
+    },
+    "pos": "v.i. ir.",
+    "text": " \n chupe-raunu \n v.i. ir. \n to keep quiet, to be silent \n to keep quiet, to be silent"
+  },
+  {
+    "id": "manual-00852",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúrá"
+    },
+    "pos": "n.m.",
+    "text": " \n chura \n n.m. \n powder, dust, saw-dust \n powder, dust, saw-dust"
+  },
+  {
+    "id": "manual-00853",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúṛí"
+    },
+    "pos": "n.f. pl.",
+    "text": " \n churi \n n.f. pl. \n bangles made of lac or glass \n bangles made of lac or glass"
+  },
+  {
+    "id": "manual-00854",
+    "head": {
+      "devanagari": "",
+      "roman": "Churk-churk-láṇí or karṇí"
+    },
+    "pos": "v.t. re.",
+    "text": " \n churk-churk-lani or karni \n v.t. re. \n to chew anything hard \n to chew anything hard"
+  },
+  {
+    "id": "manual-00855",
+    "head": {
+      "devanagari": "",
+      "roman": "Churṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n churnu \n v.t. re. \n to crush \n to crush \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00856",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n chunu \n v.i. re. \n to leak \n to leak \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00857",
+    "head": {
+      "devanagari": "",
+      "roman": "Churwṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n churwnu \n v.i. re. \n to be crushed \n to be crushed \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00858",
+    "head": {
+      "devanagari": "",
+      "roman": "Chushṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n chushnu \n v.t. re. \n to suck, to absorb \n to suck, to absorb \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00859",
+    "head": {
+      "devanagari": "",
+      "roman": "Chúṭ"
+    },
+    "pos": "n.f.",
+    "text": " \n chut \n n.f. \n (1) breakage; (2) the act of breaking or decreasing; (3) deficiency \n (1) breakage; (2) the act of breaking or decreasing; (3) deficiency"
+  },
+  {
+    "id": "manual-00860",
+    "head": {
+      "devanagari": "",
+      "roman": "Chutiyá"
+    },
+    "pos": "adj.",
+    "text": " \n chutiya \n adj. \n fool, ignorant \n fool, ignorant \n m. and f. pl. -e"
+  },
+  {
+    "id": "manual-00861",
+    "head": {
+      "devanagari": "",
+      "roman": "Chutṛṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n chutrnu \n v.i. re. \n to be broken \n to be broken"
+  },
+  {
+    "id": "manual-00862",
+    "head": {
+      "devanagari": "",
+      "roman": "Chutṛi-jáṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n chutri-janu \n v.i. re. \n to be broken \n to be broken"
+  },
+  {
+    "id": "manual-00863",
+    "head": {
+      "devanagari": "",
+      "roman": "Chutpaṇá"
+    },
+    "pos": "n.m.",
+    "text": " \n chutpana \n n.m. \n folly \n folly"
+  },
+  {
+    "id": "manual-00864",
+    "head": {
+      "devanagari": "",
+      "roman": "Chwáňní"
+    },
+    "pos": "n.f.",
+    "text": " \n chwanni \n n.f. \n the coin of four annas \n the coin of four annas"
+  },
+  {
+    "id": "manual-00865",
+    "head": {
+      "devanagari": "",
+      "roman": "Chyaúň"
+    },
+    "pos": "n.m.",
+    "text": " \n chyaun \n n.m. \n see cheun \n see cheun"
+  },
+  {
+    "id": "manual-00866",
+    "head": {
+      "devanagari": "",
+      "roman": "Chyáwaṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n chyawan \n n.m. \n a pine-forest \n a pine-forest"
+  },
+  {
+    "id": "manual-00867",
+    "head": {
+      "devanagari": "",
+      "roman": "Chyeṭṭá"
+    },
+    "pos": "adj. m.",
+    "text": " \n chyetta \n adj. m. \n see chetta \n see chetta"
+  },
+  {
+    "id": "manual-00868",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá or -ú"
+    },
+    "pos": "masc. affix",
+    "text": " \n da or -u \n masc. affix \n in, into, within \n in, into, within \n examples: inda dud ni anthi. 'there is no milk in it.' loteda chish ni rauwi. 'there is no water in the jug.' tinde michh bi rau? 'do men live in them?' tindu kun thu? 'who was in that (house)?'"
+  },
+  {
+    "id": "manual-00869",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá"
+    },
+    "pos": "n.f.",
+    "text": " \n da \n n.f. \n a jump, a spring, a bound \n a jump, a spring, a bound"
+  },
+  {
+    "id": "manual-00870",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá'b"
+    },
+    "pos": "n.m.",
+    "text": " \n da'b \n n.m. \n pressure \n pressure \n -dena, v.t. re. to press"
+  },
+  {
+    "id": "manual-00871",
+    "head": {
+      "devanagari": "",
+      "roman": "Dabá"
+    },
+    "pos": "n.m.",
+    "text": " \n daba \n n.m. \n a round wooden box \n a round wooden box \n f. -i, a small round box; pl. -e"
+  },
+  {
+    "id": "manual-00872",
+    "head": {
+      "devanagari": "",
+      "roman": "Dábá"
+    },
+    "pos": "n.m.",
+    "text": " \n daba \n n.m. \n plaster (medical) \n plaster (medical) \n -dena or -lana, v.t. re. to apply a plaster"
+  },
+  {
+    "id": "manual-00873",
+    "head": {
+      "devanagari": "",
+      "roman": "Dabāw"
+    },
+    "pos": "n.m.",
+    "text": " \n dabaw \n n.m. \n pressure \n pressure \n -dena, v.t. re. to press"
+  },
+  {
+    "id": "manual-00874",
+    "head": {
+      "devanagari": "",
+      "roman": "Dabáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dabawnu \n v.t. re. \n to press down \n to press down \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00875",
+    "head": {
+      "devanagari": "",
+      "roman": "Dabṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dabnu \n v.i. re. \n to be pressed \n to be pressed \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00876",
+    "head": {
+      "devanagari": "",
+      "roman": "Dábṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dabnu \n v.t. re. \n to press \n to press \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00877",
+    "head": {
+      "devanagari": "",
+      "roman": "Dábr"
+    },
+    "pos": "n.f.",
+    "text": " \n dabr \n n.f. \n a small pond or tank \n a small pond or tank \n f. -i, a very small pond or temple tank"
+  },
+  {
+    "id": "manual-00878",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá'ch or Drá't"
+    },
+    "pos": "n.m.",
+    "text": " \n da'ch or dra't \n n.m. \n a large sickle \n a large sickle \n f. -i, a small sickle. -tu or -ti, a small sickle to cut grass"
+  },
+  {
+    "id": "manual-00879",
+    "head": {
+      "devanagari": "",
+      "roman": "Dadá"
+    },
+    "pos": "n.m.",
+    "text": " \n dada \n n.m. \n grandfather \n grandfather \n pl. -e; f. -i, grandmother"
+  },
+  {
+    "id": "manual-00880",
+    "head": {
+      "devanagari": "",
+      "roman": "Dadháṇá"
+    },
+    "pos": "n.m.",
+    "text": " \n dadhana \n n.m. \n the melon fruit, tarbuj in hindi \n the melon fruit, tarbuj in hindi"
+  },
+  {
+    "id": "manual-00881",
+    "head": {
+      "devanagari": "",
+      "roman": "Dadiyá"
+    },
+    "pos": "",
+    "text": " \n dadiya \n  \n a term of address; o my friend \n a term of address; o my friend \n f. -i"
+  },
+  {
+    "id": "manual-00882",
+    "head": {
+      "devanagari": "",
+      "roman": "Daf"
+    },
+    "pos": "n.m.",
+    "text": " \n daf \n n.m. \n a kettledrum \n a kettledrum \n -ru, n.m. a kind of small kettledrum"
+  },
+  {
+    "id": "manual-00883",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáflí"
+    },
+    "pos": "n.f.",
+    "text": " \n dafli \n n.f. \n a small recess in a wall \n a small recess in a wall \n syn. tira or tiri"
+  },
+  {
+    "id": "manual-00884",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá'g"
+    },
+    "pos": "n.f.",
+    "text": " \n da'g \n n.f. \n a witch \n a witch \n -lagni, v.s. re. to be influenced by a witch"
+  },
+  {
+    "id": "manual-00885",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá'g"
+    },
+    "pos": "n.m.",
+    "text": " \n da'g \n n.m. \n (1) cremation; (2) a spot \n (1) cremation; (2) a spot \n -dena, v.t. re. to cremate"
+  },
+  {
+    "id": "manual-00886",
+    "head": {
+      "devanagari": "",
+      "roman": "Dagá"
+    },
+    "pos": "n.m.",
+    "text": " \n daga \n n.m. \n pretence, a trick \n pretence, a trick \n -dena, v.t. re. to play a trick"
+  },
+  {
+    "id": "manual-00887",
+    "head": {
+      "devanagari": "",
+      "roman": "Dagáňdrá"
+    },
+    "pos": "n.m.",
+    "text": " \n dagandra \n n.m. \n a kind of disease in which an itching sensation is felt on the body \n a kind of disease in which an itching sensation is felt on the body \n -lana, v.s. re. to suffer from that disease"
+  },
+  {
+    "id": "manual-00888",
+    "head": {
+      "devanagari": "",
+      "roman": "Dageṭú"
+    },
+    "pos": "n.m.",
+    "text": " \n dagetu \n n.m. \n the children of a witch \n the children of a witch \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00889",
+    "head": {
+      "devanagari": "",
+      "roman": "Daghélú"
+    },
+    "pos": "n.m.",
+    "text": " \n daghelu \n n.m. \n heels \n heels"
+  },
+  {
+    "id": "manual-00890",
+    "head": {
+      "devanagari": "",
+      "roman": "Dágí"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n dagi \n n.m. and f. \n a low-caste people who render menial services \n a low-caste people who render menial services \n also koli and daghi"
+  },
+  {
+    "id": "manual-00891",
+    "head": {
+      "devanagari": "",
+      "roman": "Dagle"
+    },
+    "pos": "adj.",
+    "text": " \n dagle \n adj. \n bitter \n bitter \n proverb: hat merie baghela; jatha ban buti bi dagle. 'what is to be said of baghal state; where even the wild plants are bitter.'"
+  },
+  {
+    "id": "manual-00892",
+    "head": {
+      "devanagari": "",
+      "roman": "Dágṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dagnu \n v.t. re. \n (1) to burn; (2) to burn with fire \n (1) to burn; (2) to burn with fire \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00893",
+    "head": {
+      "devanagari": "",
+      "roman": "Dagrasá"
+    },
+    "pos": "n.m.",
+    "text": " \n dagrasa \n n.m. \n a kind of instrument used to cut plants, etc., as fodder for cattle \n a kind of instrument used to cut plants, etc., as fodder for cattle"
+  },
+  {
+    "id": "manual-00894",
+    "head": {
+      "devanagari": "",
+      "roman": "Dagyálí"
+    },
+    "pos": "n.f.",
+    "text": " \n dagyali \n n.f. \n the 14th and 30th, i.e., the chaudas and amavas of the dark half of bhado are termed 'dagyali,' on which days the dags are believed to assemble at the karol mountain in baghat territory. \n the 14th and 30th, i.e., the chaudas and amavas of the dark half of bhado are termed 'dagyali,' on which days the dags are believed to assemble at the karol mountain in baghat territory."
+  },
+  {
+    "id": "manual-00895",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáh"
+    },
+    "pos": "n.m.",
+    "text": " \n dah \n n.m. \n burning \n burning \n -lana, v.i. ir. to cremate"
+  },
+  {
+    "id": "manual-00896",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáh"
+    },
+    "pos": "n.m.",
+    "text": " \n dah \n n.m. \n envy \n envy"
+  },
+  {
+    "id": "manual-00897",
+    "head": {
+      "devanagari": "",
+      "roman": "Dái"
+    },
+    "pos": "n.f.",
+    "text": " \n dai \n n.f. \n (1) a nurse; (2) a sister \n (1) a nurse; (2) a sister \n example: dai ki bolai? 'what do you say, sister?'"
+  },
+  {
+    "id": "manual-00898",
+    "head": {
+      "devanagari": "",
+      "roman": "Daiṁ"
+    },
+    "pos": "n.f.",
+    "text": " \n daim \n n.f. \n a den; a large hole in a rock \n a den; a large hole in a rock"
+  },
+  {
+    "id": "manual-00899",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáiṇ"
+    },
+    "pos": "n.f.",
+    "text": " \n dain \n n.f. \n see da'g \n see da'g"
+  },
+  {
+    "id": "manual-00900",
+    "head": {
+      "devanagari": "",
+      "roman": "Daiňh"
+    },
+    "pos": "n.m.",
+    "text": " \n dainh \n n.m. \n curds; curdled sour milk \n curds; curdled sour milk"
+  },
+  {
+    "id": "manual-00901",
+    "head": {
+      "devanagari": "",
+      "roman": "Daiňṭhí"
+    },
+    "pos": "n.f.",
+    "text": " \n dainthi \n n.f. \n the articles of a dowry \n the articles of a dowry"
+  },
+  {
+    "id": "manual-00902",
+    "head": {
+      "devanagari": "",
+      "roman": "Daiyá"
+    },
+    "pos": "int.",
+    "text": " \n daiya \n int. \n god! my god! \n god! my god!"
+  },
+  {
+    "id": "manual-00903",
+    "head": {
+      "devanagari": "",
+      "roman": "Dák or Dákí"
+    },
+    "pos": "n.f.",
+    "text": " \n dak or daki \n n.f. \n vomit \n vomit \n -awni or -lagni, v.i. re. to vomit"
+  },
+  {
+    "id": "manual-00904",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍák"
+    },
+    "pos": "n.f.",
+    "text": " \n dak \n n.f. \n the mail \n the mail"
+  },
+  {
+    "id": "manual-00905",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍákḍhar"
+    },
+    "pos": "n.m.",
+    "text": " \n dakdhar \n n.m. \n a doctor \n a doctor"
+  },
+  {
+    "id": "manual-00906",
+    "head": {
+      "devanagari": "",
+      "roman": "Dakeṇṇí"
+    },
+    "pos": "n.f.",
+    "text": " \n dakenni \n n.f. \n a kind of small fox \n a kind of small fox \n also dakanni"
+  },
+  {
+    "id": "manual-00907",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍákghar"
+    },
+    "pos": "n.m.",
+    "text": " \n dakghar \n n.m. \n post office \n post office"
+  },
+  {
+    "id": "manual-00908",
+    "head": {
+      "devanagari": "",
+      "roman": "Dakhal"
+    },
+    "pos": "n.m.",
+    "text": " \n dakhal \n n.m. \n interference \n interference \n -dena, v.i. ir. to interfere"
+  },
+  {
+    "id": "manual-00909",
+    "head": {
+      "devanagari": "",
+      "roman": "Dákí"
+    },
+    "pos": "n.f.",
+    "text": " \n daki \n n.f. \n vomit, vomiting \n vomit, vomiting \n -awni, v.s. re. to vomit"
+  },
+  {
+    "id": "manual-00910",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍákiyá"
+    },
+    "pos": "n.m.",
+    "text": " \n dakiya \n n.m. \n a postman \n a postman"
+  },
+  {
+    "id": "manual-00911",
+    "head": {
+      "devanagari": "",
+      "roman": "Dákkh"
+    },
+    "pos": "n.f.",
+    "text": " \n dakkh \n n.f. \n grapes \n grapes \n pl. -o. -lani, v.i. re. to plant grapes"
+  },
+  {
+    "id": "manual-00912",
+    "head": {
+      "devanagari": "",
+      "roman": "Dákkhin"
+    },
+    "pos": "n.f.",
+    "text": " \n dakkhin \n n.f. \n the south \n the south"
+  },
+  {
+    "id": "manual-00913",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáknu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n daknu \n v.i. re. \n to vomit \n to vomit"
+  },
+  {
+    "id": "manual-00914",
+    "head": {
+      "devanagari": "",
+      "roman": "Dal"
+    },
+    "pos": "n.f.",
+    "text": " \n dal \n n.f. \n pulse (cooked or uncooked) \n pulse (cooked or uncooked)"
+  },
+  {
+    "id": "manual-00915",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍál"
+    },
+    "pos": "n.m.",
+    "text": " \n dal \n n.m. \n a tree \n a tree \n f. -i, a small tree or plant; pl. -o"
+  },
+  {
+    "id": "manual-00916",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍálá"
+    },
+    "pos": "n.m.",
+    "text": " \n dala \n n.m. \n cooked corn for cattle \n cooked corn for cattle"
+  },
+  {
+    "id": "manual-00917",
+    "head": {
+      "devanagari": "",
+      "roman": "Daláshá"
+    },
+    "pos": "n.m.",
+    "text": " \n dalasha \n n.m. \n condolence, encouragement \n condolence, encouragement \n -dena, v.t. ar. to condole, to encourage"
+  },
+  {
+    "id": "manual-00918",
+    "head": {
+      "devanagari": "",
+      "roman": "Daláwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dalawnu \n v.t. re. \n to cause to grind coarsely \n to cause to grind coarsely \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00919",
+    "head": {
+      "devanagari": "",
+      "roman": "Dalkí"
+    },
+    "pos": "n.f.",
+    "text": " \n dalki \n n.f. \n meat, flesh \n meat, flesh"
+  },
+  {
+    "id": "manual-00920",
+    "head": {
+      "devanagari": "",
+      "roman": "Dalṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dalnu \n v.t. re. \n to split, to grind coarsely \n to split, to grind coarsely \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00921",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍálṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dalnu \n v.t. re. \n to break, to cut in two \n to break, to cut in two \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00922",
+    "head": {
+      "devanagari": "",
+      "roman": "Daltá"
+    },
+    "pos": "n.m.",
+    "text": " \n dalta \n n.m. \n an esculent root like the potato \n an esculent root like the potato"
+  },
+  {
+    "id": "manual-00923",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍáltá"
+    },
+    "pos": "n.m.",
+    "text": " \n dalta \n n.m. \n a small tree; (2) a kind of tree \n a small tree; (2) a kind of tree \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00924",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍaltí"
+    },
+    "pos": "n.f.",
+    "text": " \n dalti \n n.f. \n torch-wood \n torch-wood"
+  },
+  {
+    "id": "manual-00925",
+    "head": {
+      "devanagari": "",
+      "roman": "Dám"
+    },
+    "pos": "n.m.",
+    "text": " \n dam \n n.m. \n a burn \n a burn \n -dena, v.i. re. to burn"
+  },
+  {
+    "id": "manual-00926",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍam"
+    },
+    "pos": "n.m.",
+    "text": " \n dam \n n.m. \n a box made of bamboo and covered with leather, used for travelling (bashahr) \n a box made of bamboo and covered with leather, used for travelling (bashahr)"
+  },
+  {
+    "id": "manual-00927",
+    "head": {
+      "devanagari": "",
+      "roman": "Damáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n damawnu \n v.t. re. \n to cause to burn \n to cause to burn \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00928",
+    "head": {
+      "devanagari": "",
+      "roman": "Dámṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n damnu \n v.t. re. \n to burn \n to burn \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00929",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáň"
+    },
+    "pos": "n.m.",
+    "text": " \n dan \n n.m. \n a long stick used to pluck walnuts \n a long stick used to pluck walnuts"
+  },
+  {
+    "id": "manual-00930",
+    "head": {
+      "devanagari": "",
+      "roman": "Dán"
+    },
+    "pos": "n.m.",
+    "text": " \n dan \n n.m. \n a donation, a gift \n a donation, a gift \n -dena, v.t. re. to make a gift; -laina, v.t. re. to get a gift; -karna, v.t. re. to offer a gift"
+  },
+  {
+    "id": "manual-00931",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáná"
+    },
+    "pos": "adj.",
+    "text": " \n dana \n adj. \n wise, clever, expert \n wise, clever, expert \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00932",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṇá"
+    },
+    "pos": "n.m.",
+    "text": " \n dana \n n.m. \n a pimple, seed, corn, grain \n a pimple, seed, corn, grain \n pl. -e"
+  },
+  {
+    "id": "manual-00933",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňḍ"
+    },
+    "pos": "n.m.",
+    "text": " \n dand \n n.m. \n tooth or teeth \n tooth or teeth \n pl. or sing. -bhan-ne, v.re. to break one's teeth"
+  },
+  {
+    "id": "manual-00934",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňḍ"
+    },
+    "pos": "n.m.",
+    "text": " \n dand \n n.m. \n a fine, penalty, punishment \n a fine, penalty, punishment"
+  },
+  {
+    "id": "manual-00935",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍaňḍá"
+    },
+    "pos": "n.m.",
+    "text": " \n danda \n n.m. \n (1) a pole; (2) a bachelor \n (1) a pole; (2) a bachelor"
+  },
+  {
+    "id": "manual-00936",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍáňḍí"
+    },
+    "pos": "n.f.",
+    "text": " \n dandi \n n.f. \n (1) a small palanquin; (2) earrings \n (1) a small palanquin; (2) earrings"
+  },
+  {
+    "id": "manual-00937",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňḍṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dandnu \n v.i. re. \n to fine, to punish, to impose a penalty \n to fine, to punish, to impose a penalty"
+  },
+  {
+    "id": "manual-00938",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňgrá"
+    },
+    "pos": "n.m.",
+    "text": " \n dangra \n n.m. \n a small weapon like an axe \n a small weapon like an axe"
+  },
+  {
+    "id": "manual-00939",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňgú"
+    },
+    "pos": "n.m.",
+    "text": " \n dangu \n n.m. \n a gatekeeper (used in mandi state) \n a gatekeeper (used in mandi state)"
+  },
+  {
+    "id": "manual-00940",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňgrú"
+    },
+    "pos": "n.m.",
+    "text": " \n dangru \n n.m. \n see dangra \n see dangra"
+  },
+  {
+    "id": "manual-00941",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṇo"
+    },
+    "pos": "n.m.",
+    "text": " \n dano \n n.m. \n a demon, a ghost \n a demon, a ghost"
+  },
+  {
+    "id": "manual-00942",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá'ṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n da'nu \n v.t. re. \n to bend down \n to bend down \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00943",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n danu \n v.t. re. \n to stretch, to spread \n to stretch, to spread \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00944",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňwáň"
+    },
+    "pos": "n.m.",
+    "text": " \n danwan \n n.m. \n a sinew \n a sinew \n pl. -en"
+  },
+  {
+    "id": "manual-00945",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáňwṭhe"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n danwthe \n n.m. pl. \n see chilra \n see chilra"
+  },
+  {
+    "id": "manual-00946",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáo or Daw"
+    },
+    "pos": "n.f.",
+    "text": " \n dao or daw \n n.f. \n a chance \n a chance"
+  },
+  {
+    "id": "manual-00947",
+    "head": {
+      "devanagari": "",
+      "roman": "Dapét"
+    },
+    "pos": "n.m.",
+    "text": " \n dapet \n n.m. \n a blow \n a blow"
+  },
+  {
+    "id": "manual-00948",
+    "head": {
+      "devanagari": "",
+      "roman": "Dar"
+    },
+    "pos": "n.f.",
+    "text": " \n dar \n n.f. \n fear, fright \n fear, fright \n -lagni, v.i. re. to fear"
+  },
+  {
+    "id": "manual-00949",
+    "head": {
+      "devanagari": "",
+      "roman": "Dá'r"
+    },
+    "pos": "n.m.",
+    "text": " \n da'r \n n.m. \n timber \n timber"
+  },
+  {
+    "id": "manual-00950",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍár"
+    },
+    "pos": "n.f.",
+    "text": " \n dar \n n.f. \n a flock of birds, such as wild pigeons \n a flock of birds, such as wild pigeons"
+  },
+  {
+    "id": "manual-00951",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍár"
+    },
+    "pos": "n.m.",
+    "text": " \n dar \n n.m. \n grinding the teeth \n grinding the teeth \n -dukane, v.a. re. to feel that longing"
+  },
+  {
+    "id": "manual-00952",
+    "head": {
+      "devanagari": "",
+      "roman": "Daráiṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n darain \n n.m. \n an inflated skin used for crossing a river \n an inflated skin used for crossing a river \n syn. sarnai"
+  },
+  {
+    "id": "manual-00953",
+    "head": {
+      "devanagari": "",
+      "roman": "Daráwṇá"
+    },
+    "pos": "adj.",
+    "text": " \n darawna \n adj. \n fearful \n fearful \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00954",
+    "head": {
+      "devanagari": "",
+      "roman": "Daráwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n darawnu \n v.t. re. \n to cause to fear, to create fear \n to cause to fear, to create fear \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00955",
+    "head": {
+      "devanagari": "",
+      "roman": "Darí"
+    },
+    "pos": "n.f.",
+    "text": " \n dari \n n.f. \n a durree \n a durree"
+  },
+  {
+    "id": "manual-00956",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṛí"
+    },
+    "pos": "n.f.",
+    "text": " \n dari \n n.f. \n the beard \n the beard"
+  },
+  {
+    "id": "manual-00957",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṛiyá"
+    },
+    "pos": "",
+    "text": " \n dariya \n  \n o my dear \n o my dear \n m.; f. -e"
+  },
+  {
+    "id": "manual-00958",
+    "head": {
+      "devanagari": "",
+      "roman": "Daṛkṇu"
+    },
+    "pos": "v.a. re.",
+    "text": " \n darknu \n v.a. re. \n to crack \n to crack \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00959",
+    "head": {
+      "devanagari": "",
+      "roman": "Darṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n darnu \n v.t. re. \n to take away \n to take away \n used in balsan"
+  },
+  {
+    "id": "manual-00960",
+    "head": {
+      "devanagari": "",
+      "roman": "Darpók"
+    },
+    "pos": "adj.",
+    "text": " \n darpok \n adj. \n coward \n coward \n alike in all genders"
+  },
+  {
+    "id": "manual-00961",
+    "head": {
+      "devanagari": "",
+      "roman": "Dárú"
+    },
+    "pos": "n.m.",
+    "text": " \n daru \n n.m. \n gunpowder \n gunpowder"
+  },
+  {
+    "id": "manual-00962",
+    "head": {
+      "devanagari": "",
+      "roman": "Darú"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n daru \n n.m. and f. \n one who fears \n one who fears"
+  },
+  {
+    "id": "manual-00963",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṛú"
+    },
+    "pos": "n.m.",
+    "text": " \n daru \n n.m. \n pomegranate fruit \n pomegranate fruit \n -ra-dal, n.m. the pomegranate tree"
+  },
+  {
+    "id": "manual-00964",
+    "head": {
+      "devanagari": "",
+      "roman": "Daryáw or dráw"
+    },
+    "pos": "n.m.",
+    "text": " \n daryaw or draw \n n.m. \n a river \n a river"
+  },
+  {
+    "id": "manual-00965",
+    "head": {
+      "devanagari": "",
+      "roman": "Dásá"
+    },
+    "pos": "n.m.",
+    "text": " \n dasa \n n.m. \n a long beam \n a long beam \n also chewal"
+  },
+  {
+    "id": "manual-00966",
+    "head": {
+      "devanagari": "",
+      "roman": "Dash"
+    },
+    "pos": "adj.",
+    "text": " \n dash \n adj. \n ten \n ten \n -wan, adj. the tenth"
+  },
+  {
+    "id": "manual-00967",
+    "head": {
+      "devanagari": "",
+      "roman": "Dashá"
+    },
+    "pos": "n.f.",
+    "text": " \n dasha \n n.f. \n fate \n fate \n buri dasha, n.f. bad luck"
+  },
+  {
+    "id": "manual-00968",
+    "head": {
+      "devanagari": "",
+      "roman": "Dasháňḍá"
+    },
+    "pos": "adj.",
+    "text": " \n dashanda \n adj. \n a fool \n a fool \n m.; f. -i, pl. -e. pande khe dashanda. 'a fool before a learned man.'"
+  },
+  {
+    "id": "manual-00969",
+    "head": {
+      "devanagari": "",
+      "roman": "Dashmí"
+    },
+    "pos": "n.f.",
+    "text": " \n dashmi \n n.f. \n the tenth day of the bright or dark half of a month \n the tenth day of the bright or dark half of a month"
+  },
+  {
+    "id": "manual-00970",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṭ"
+    },
+    "pos": "n.m.",
+    "text": " \n dat \n n.m. \n a threatening or warning \n a threatening or warning"
+  },
+  {
+    "id": "manual-00971",
+    "head": {
+      "devanagari": "",
+      "roman": "Dáṭṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n datnu \n v.t. re. \n to threaten, to warn \n to threaten, to warn \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00972",
+    "head": {
+      "devanagari": "",
+      "roman": "Daudá"
+    },
+    "pos": "n.m.",
+    "text": " \n dauda \n n.m. \n a water place made for putting children to sleep in shade in summer so that a trickle of water gently falls on their heads \n a water place made for putting children to sleep in shade in summer so that a trickle of water gently falls on their heads \n also doda"
+  },
+  {
+    "id": "manual-00973",
+    "head": {
+      "devanagari": "",
+      "roman": "Dauṇé"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n daune \n n.m. pl. \n a kind of food \n a kind of food"
+  },
+  {
+    "id": "manual-00974",
+    "head": {
+      "devanagari": "",
+      "roman": "Dauṛ"
+    },
+    "pos": "n.f.",
+    "text": " \n daur \n n.f. \n a run \n a run"
+  },
+  {
+    "id": "manual-00975",
+    "head": {
+      "devanagari": "",
+      "roman": "Daur"
+    },
+    "pos": "n.m.",
+    "text": " \n daur \n n.m. \n fear, terror \n fear, terror \n -lagna, v.i. re. to fear. kyun daur ni? 'there is no fear.'"
+  },
+  {
+    "id": "manual-00976",
+    "head": {
+      "devanagari": "",
+      "roman": "Dauṛáshṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n daurashnu \n v.t. re. \n to cause to run \n to cause to run \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00977",
+    "head": {
+      "devanagari": "",
+      "roman": "Dauṛṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n daurnu \n v.i. re. \n to run, to walk with hasty steps \n to run, to walk with hasty steps \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00978",
+    "head": {
+      "devanagari": "",
+      "roman": "Dawá"
+    },
+    "pos": "n.f.",
+    "text": " \n dawa \n n.f. \n benevolence, tenderness \n benevolence, tenderness"
+  },
+  {
+    "id": "manual-00979",
+    "head": {
+      "devanagari": "",
+      "roman": "Dawí"
+    },
+    "pos": "n.f.",
+    "text": " \n dawi \n n.f. \n see dar \n see dar"
+  },
+  {
+    "id": "manual-00980",
+    "head": {
+      "devanagari": "",
+      "roman": "De"
+    },
+    "pos": "particle",
+    "text": " \n de \n particle \n see das \n see das"
+  },
+  {
+    "id": "manual-00981",
+    "head": {
+      "devanagari": "",
+      "roman": "Debí"
+    },
+    "pos": "n.f.",
+    "text": " \n debi \n n.f. \n a goddess \n a goddess \n -ri, n.f. a small temple"
+  },
+  {
+    "id": "manual-00982",
+    "head": {
+      "devanagari": "",
+      "roman": "Debtá"
+    },
+    "pos": "n.m.",
+    "text": " \n debta \n n.m. \n see deo \n see deo"
+  },
+  {
+    "id": "manual-00983",
+    "head": {
+      "devanagari": "",
+      "roman": "Dehú"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n dehu \n n.m. and f. \n a giver, a donor \n a giver, a donor"
+  },
+  {
+    "id": "manual-00984",
+    "head": {
+      "devanagari": "",
+      "roman": "Déḍh"
+    },
+    "pos": "adj.",
+    "text": " \n dedh \n adj. \n see der \n see der"
+  },
+  {
+    "id": "manual-00985",
+    "head": {
+      "devanagari": "",
+      "roman": "Dég"
+    },
+    "pos": "n.f.",
+    "text": " \n deg \n n.f. \n a cauldron, a boiler \n a cauldron, a boiler"
+  },
+  {
+    "id": "manual-00986",
+    "head": {
+      "devanagari": "",
+      "roman": "De-chálṇá"
+    },
+    "pos": "v.i. re.",
+    "text": " \n de-chalna \n v.i. re. \n to give away \n to give away \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00987",
+    "head": {
+      "devanagari": "",
+      "roman": "Dei-jáṇu"
+    },
+    "pos": "v.t. ir.",
+    "text": " \n dei-janu \n v.t. ir. \n to give away \n to give away \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00988",
+    "head": {
+      "devanagari": "",
+      "roman": "Dekhde-ákhi-kharṇí"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dekhde-akhi-kharni \n v.i. re. \n to tire the eyes with looking \n to tire the eyes with looking"
+  },
+  {
+    "id": "manual-00989",
+    "head": {
+      "devanagari": "",
+      "roman": "Dekhi-á, dekhi-ro"
+    },
+    "pos": "p.p.",
+    "text": " \n dekhi-a, dekhi-ro \n p.p. \n having seen \n having seen"
+  },
+  {
+    "id": "manual-00990",
+    "head": {
+      "devanagari": "",
+      "roman": "Déṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n den \n n.m. \n a debt \n a debt \n -dari, n.f. a debt"
+  },
+  {
+    "id": "manual-00991",
+    "head": {
+      "devanagari": "",
+      "roman": "Deṇu"
+    },
+    "pos": "v.t. ir.",
+    "text": " \n denu \n v.t. ir. \n to give, bestow upon \n to give, bestow upon \n f. -i, pl. -e. also dewnu"
+  },
+  {
+    "id": "manual-00992",
+    "head": {
+      "devanagari": "",
+      "roman": "Deo"
+    },
+    "pos": "n.m.",
+    "text": " \n deo \n n.m. \n a deity, a village god \n a deity, a village god \n -lu or -la, adj. m., f. -li, pl. -le. pertaining to a deity"
+  },
+  {
+    "id": "manual-00993",
+    "head": {
+      "devanagari": "",
+      "roman": "Deolá, -u"
+    },
+    "pos": "adj.",
+    "text": " \n deola, -u \n adj. \n relating to a deity \n relating to a deity \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00994",
+    "head": {
+      "devanagari": "",
+      "roman": "Deoṛá or -á"
+    },
+    "pos": "n.m.",
+    "text": " \n deora or -a \n n.m. \n a small temple of a deity \n a small temple of a deity \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-00995",
+    "head": {
+      "devanagari": "",
+      "roman": "Deoṭhá"
+    },
+    "pos": "n.m.",
+    "text": " \n deotha \n n.m. \n a term for the grain given to a village deity. two pathas per lih of land (8 bighas) is given for the village deity. \n a term for the grain given to a village deity. two pathas per lih of land (8 bighas) is given for the village deity."
+  },
+  {
+    "id": "manual-00996",
+    "head": {
+      "devanagari": "",
+      "roman": "Deoṭhaṇ"
+    },
+    "pos": "n.f.",
+    "text": " \n deothan \n n.f. \n a festival observed on the 11th of the bright half of kartik \n a festival observed on the 11th of the bright half of kartik"
+  },
+  {
+    "id": "manual-00997",
+    "head": {
+      "devanagari": "",
+      "roman": "Deoṭí"
+    },
+    "pos": "n.f.",
+    "text": " \n deoti \n n.f. \n a goddess \n a goddess"
+  },
+  {
+    "id": "manual-00998",
+    "head": {
+      "devanagari": "",
+      "roman": "Déṛ"
+    },
+    "pos": "adj.",
+    "text": " \n der \n adj. \n one and a half \n one and a half \n also dedh or durh"
+  },
+  {
+    "id": "manual-00999",
+    "head": {
+      "devanagari": "",
+      "roman": "Derá or -u"
+    },
+    "pos": "n.m.",
+    "text": " \n dera or -u \n n.m. \n (1) a lodging, a dwelling; (2) a small tent \n (1) a lodging, a dwelling; (2) a small tent"
+  },
+  {
+    "id": "manual-01000",
+    "head": {
+      "devanagari": "",
+      "roman": "Désh"
+    },
+    "pos": "n.m.",
+    "text": " \n desh \n n.m. \n a country \n a country"
+  },
+  {
+    "id": "manual-01001",
+    "head": {
+      "devanagari": "",
+      "roman": "Déshkaṭ or déshkaṭ"
+    },
+    "pos": "n.f.",
+    "text": " \n deshkat or deshkat \n n.f. \n banishment, deportation \n banishment, deportation \n -deni, v.t. ir. to exile, to banish, to deport"
+  },
+  {
+    "id": "manual-01002",
+    "head": {
+      "devanagari": "",
+      "roman": "Déss"
+    },
+    "pos": "n.m.",
+    "text": " \n dess \n n.m. \n a day \n a day \n -ru, n.m. pl. short days; -are, n.pl. long days"
+  },
+  {
+    "id": "manual-01003",
+    "head": {
+      "devanagari": "",
+      "roman": "Déso"
+    },
+    "pos": "n.m.",
+    "text": " \n deso \n n.m. \n a country, a place, a room \n a country, a place, a room"
+  },
+  {
+    "id": "manual-01004",
+    "head": {
+      "devanagari": "",
+      "roman": "Déshí"
+    },
+    "pos": "adj.",
+    "text": " \n deshi \n adj. \n of one's own country, a native \n of one's own country, a native"
+  },
+  {
+    "id": "manual-01005",
+    "head": {
+      "devanagari": "",
+      "roman": "Déur"
+    },
+    "pos": "n.m.",
+    "text": " \n deur \n n.m. \n husband's brother \n husband's brother"
+  },
+  {
+    "id": "manual-01006",
+    "head": {
+      "devanagari": "",
+      "roman": "Dewṇu"
+    },
+    "pos": "v.a. re.",
+    "text": " \n dewnu \n v.a. re. \n to go \n to go"
+  },
+  {
+    "id": "manual-01007",
+    "head": {
+      "devanagari": "",
+      "roman": "Dewi-jáṇu"
+    },
+    "pos": "v.s. re.",
+    "text": " \n dewi-janu \n v.s. re. \n to go away \n to go away"
+  },
+  {
+    "id": "manual-01008",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍgáňḍiá"
+    },
+    "pos": "n.m.",
+    "text": " \n dgandia \n n.m. \n see dagandra \n see dagandra"
+  },
+  {
+    "id": "manual-01009",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhá"
+    },
+    "pos": "n.f.",
+    "text": " \n dha \n n.f. \n a sad or mourning keen \n a sad or mourning keen \n -deni, v.i. ir. to keen for anyone's death"
+  },
+  {
+    "id": "manual-01010",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhab"
+    },
+    "pos": "n.m.",
+    "text": " \n dhab \n n.m. \n manner \n manner"
+  },
+  {
+    "id": "manual-01011",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhabáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhabawnu \n v.t. re. \n to cause to settle \n to cause to settle \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01012",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhablú"
+    },
+    "pos": "n.m.",
+    "text": " \n dhablu \n n.m. \n a white blanket \n a white blanket \n f. -i, a small blanket"
+  },
+  {
+    "id": "manual-01013",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhabṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dhabnu \n v.i. re. \n to settle, to be all right \n to settle, to be all right \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01014",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍhábṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhabnu \n v.t. re. \n to mix water in watery curds \n to mix water in watery curds"
+  },
+  {
+    "id": "manual-01015",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhafér"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n dhafer \n n.m. pl. \n a blow \n a blow \n -ba'ne, v.t. ir. to give a blow. (also draffar)"
+  },
+  {
+    "id": "manual-01016",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhágá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhaga \n n.m. \n thread \n thread \n pl. -e"
+  },
+  {
+    "id": "manual-01017",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhágule"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n dhagule \n n.m. pl. \n bracelets \n bracelets"
+  },
+  {
+    "id": "manual-01018",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaiṇ or dhaiṇí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhain or dhaini \n n.f. \n a daughter \n a daughter"
+  },
+  {
+    "id": "manual-01019",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhajá"
+    },
+    "pos": "n.f.",
+    "text": " \n dhaja \n n.f. \n a flag \n a flag"
+  },
+  {
+    "id": "manual-01020",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhá'k"
+    },
+    "pos": "n.m.",
+    "text": " \n dha'k \n n.m. \n a rock, a precipice \n a rock, a precipice \n also dhank. -ru, n.f. a small precipice"
+  },
+  {
+    "id": "manual-01021",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhakh"
+    },
+    "pos": "adj.",
+    "text": " \n dhakh \n adj. \n a little quantity \n a little quantity"
+  },
+  {
+    "id": "manual-01022",
+    "head": {
+      "devanagari": "",
+      "roman": "Dháká"
+    },
+    "pos": "n.m.",
+    "text": " \n dhaka \n n.m. \n jolt, push, shove \n jolt, push, shove \n -dena, v.t. re. to push, to shove"
+  },
+  {
+    "id": "manual-01023",
+    "head": {
+      "devanagari": "",
+      "roman": "Dháká"
+    },
+    "pos": "n.m.",
+    "text": " \n dhaka \n n.m. \n a cover, a lid \n a cover, a lid \n -dena, v.i. re. to cover"
+  },
+  {
+    "id": "manual-01024",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhakam-dhaká"
+    },
+    "pos": "n.m.",
+    "text": " \n dhakam-dhaka \n n.m. \n a violent shove or jolt \n a violent shove or jolt"
+  },
+  {
+    "id": "manual-01025",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhakaṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n dhakan \n n.m. \n a cover, a lid, a pot-lid \n a cover, a lid, a pot-lid"
+  },
+  {
+    "id": "manual-01026",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhakiyáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhakiyawnu \n v.t. re. \n to cause to jolt \n to cause to jolt \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01027",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhakṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhaknu \n v.t. re. \n to cover \n to cover \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01028",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhákṛí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhakri \n n.f. \n a small precipice \n a small precipice"
+  },
+  {
+    "id": "manual-01029",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhákṇú"
+    },
+    "pos": "n.m.",
+    "text": " \n dhaknu \n n.m. \n see dhakri \n see dhakri"
+  },
+  {
+    "id": "manual-01030",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhákulí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhakuli \n n.f. \n a drum like an hour glass \n a drum like an hour glass"
+  },
+  {
+    "id": "manual-01031",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhákurí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhakuri \n n.f. \n a small ridge \n a small ridge"
+  },
+  {
+    "id": "manual-01032",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhákú"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n dhaku \n n.m. and f. \n monkeys \n monkeys \n pl. (so called because they live among precipices)"
+  },
+  {
+    "id": "manual-01033",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhá'l"
+    },
+    "pos": "n.f.",
+    "text": " \n dha'l \n n.f. \n abortion \n abortion \n -jani, v.s. ir. to produce abortion"
+  },
+  {
+    "id": "manual-01034",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhál"
+    },
+    "pos": "n.f.",
+    "text": " \n dhal \n n.f. \n (1) a salutation. (2) a tax on land levied to pay tribute (used in mahlog). \n (1) a salutation. (2) a tax on land levied to pay tribute (used in mahlog). \n -karni, v.t. ir. to bow down. dhe thakra, miyanji jai pars rama, pairi pai! 'o thakur, i beg to salute you, o miyan, i salute you, o pars ram, i bow down to you.' a hail!"
+  },
+  {
+    "id": "manual-01035",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhálá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhala \n n.m. \n a peak, the top of a hill \n a peak, the top of a hill"
+  },
+  {
+    "id": "manual-01036",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhalde-áwṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dhalde-awnu \n v.i. re. \n to decay \n to decay \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01037",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhalṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dhalnu \n v.i. re. \n (1) to set in; (2) to be melted \n (1) to set in; (2) to be melted \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01038",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhálṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhalnu \n v.t. re. \n to cause to melt \n to cause to melt"
+  },
+  {
+    "id": "manual-01039",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhálṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dhalnu \n v.i. re. \n (1) to be poured down; (2) to fall down \n (1) to be poured down; (2) to fall down"
+  },
+  {
+    "id": "manual-01040",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhám"
+    },
+    "pos": "n.f.",
+    "text": " \n dham \n n.f. \n a grand feast in which rice and meat are distributed \n a grand feast in which rice and meat are distributed \n -deni, v.t. re. (1) to give a grand feast; (2) to applaud."
+  },
+  {
+    "id": "manual-01041",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhamáká"
+    },
+    "pos": "n.m.",
+    "text": " \n dhamaka \n n.m. \n a loud sound \n a loud sound"
+  },
+  {
+    "id": "manual-01042",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhamká"
+    },
+    "pos": "n.m.",
+    "text": " \n dhamka \n n.m. \n (1) a sound; (2) a fright \n (1) a sound; (2) a fright"
+  },
+  {
+    "id": "manual-01043",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhamkáw"
+    },
+    "pos": "n.m.",
+    "text": " \n dhamkaw \n n.m. \n threatening \n threatening \n -dena, v.t. ir. to threaten"
+  },
+  {
+    "id": "manual-01044",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhamkáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhamkawnu \n v.t. re. \n to threaten \n to threaten \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01045",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhamkí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhamki \n n.f. \n a threat or threatening \n a threat or threatening"
+  },
+  {
+    "id": "manual-01046",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhan"
+    },
+    "pos": "n.m.",
+    "text": " \n dhan \n n.m. \n riches, wealth \n riches, wealth"
+  },
+  {
+    "id": "manual-01047",
+    "head": {
+      "devanagari": "",
+      "roman": "Dháṇ"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n dhan \n n.m. pl. \n (1) rice seed; (2) paddy \n (1) rice seed; (2) paddy \n -bone, v.i. re. to sow rice"
+  },
+  {
+    "id": "manual-01048",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhan-báchhṛí"
+    },
+    "pos": "n.f. pl.",
+    "text": " \n dhan-bachhri \n n.f. pl. \n winged ants \n winged ants \n their wings grow in the rice-sowing season (march), hence the name."
+  },
+  {
+    "id": "manual-01049",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhandá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhanda \n n.m. \n work, an engagement \n work, an engagement \n -karna, v.i. re. to do a work; -lana, v.t. re. to be engaged."
+  },
+  {
+    "id": "manual-01050",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhang"
+    },
+    "pos": "n.m.",
+    "text": " \n dhang \n n.m. \n a gadfly \n a gadfly"
+  },
+  {
+    "id": "manual-01051",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhang"
+    },
+    "pos": "n.m.",
+    "text": " \n dhang \n n.m. \n a manner or mode \n a manner or mode \n -lana, v.i. re. to devise a plan; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01052",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhangiyá"
+    },
+    "pos": "adj. m.",
+    "text": " \n dhangiya \n adj. m. \n cunning, deep \n cunning, deep"
+  },
+  {
+    "id": "manual-01053",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaṇiyá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhaniya \n n.m. \n see bihan \n see bihan"
+  },
+  {
+    "id": "manual-01054",
+    "head": {
+      "devanagari": "",
+      "roman": "Dháňkh"
+    },
+    "pos": "n.m.",
+    "text": " \n dhankh \n n.m. \n see dha'k \n see dha'k"
+  },
+  {
+    "id": "manual-01055",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaňkhái"
+    },
+    "pos": "n.m.",
+    "text": " \n dhankhai \n n.m. \n a wilderness \n a wilderness"
+  },
+  {
+    "id": "manual-01056",
+    "head": {
+      "devanagari": "",
+      "roman": "Dháňsí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhansi \n n.f. \n a grain measure equal to 2 sers and 6 chhitaks (2 pathas make 1 dhansi) \n a grain measure equal to 2 sers and 6 chhitaks (2 pathas make 1 dhansi) \n used in kullu"
+  },
+  {
+    "id": "manual-01057",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaṇáṭhú"
+    },
+    "pos": "n.f.",
+    "text": " \n dhanathu \n n.f. \n wool-carding bow \n wool-carding bow"
+  },
+  {
+    "id": "manual-01058",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaṇu"
+    },
+    "pos": "n.m.",
+    "text": " \n dhanu \n n.m. \n the weapon, bow \n the weapon, bow"
+  },
+  {
+    "id": "manual-01059",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhár"
+    },
+    "pos": "n.f.",
+    "text": " \n dhar \n n.f. \n (1) a ridge; (2) a pouring; (3) an edge \n (1) a ridge; (2) a pouring; (3) an edge"
+  },
+  {
+    "id": "manual-01060",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaṛ"
+    },
+    "pos": "n.m.",
+    "text": " \n dhar \n n.m. \n a body without its head \n a body without its head"
+  },
+  {
+    "id": "manual-01061",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhárá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhara \n n.m. \n a robbery \n a robbery \n -parna, v.s. re. to rob"
+  },
+  {
+    "id": "manual-01062",
+    "head": {
+      "devanagari": "",
+      "roman": "Dharam"
+    },
+    "pos": "n.m.",
+    "text": " \n dharam \n n.m. \n virtue, goodness, duty \n virtue, goodness, duty"
+  },
+  {
+    "id": "manual-01063",
+    "head": {
+      "devanagari": "",
+      "roman": "Dharápṭú"
+    },
+    "pos": "n.m.",
+    "text": " \n dharaptu \n n.m. \n an assistant clerk (used in mandi state) \n an assistant clerk (used in mandi state)"
+  },
+  {
+    "id": "manual-01064",
+    "head": {
+      "devanagari": "",
+      "roman": "Dharmaurá"
+    },
+    "pos": "n.m.",
+    "text": " \n dharmaura \n n.m. \n an earthen pot filled with water, and a little milk, hung on a tree or house for 10 days after a death. it has a small hole at the bottom through which the water drips and is refilled every morning. \n an earthen pot filled with water, and a little milk, hung on a tree or house for 10 days after a death. it has a small hole at the bottom through which the water drips and is refilled every morning."
+  },
+  {
+    "id": "manual-01065",
+    "head": {
+      "devanagari": "",
+      "roman": "Dharṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dharnu \n v.t. re. \n to put, to keep, to place \n to put, to keep, to place \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01066",
+    "head": {
+      "devanagari": "",
+      "roman": "Dharoṛ or dhróṛ"
+    },
+    "pos": "n.f.",
+    "text": " \n dharor or dhror \n n.f. \n a pledge \n a pledge"
+  },
+  {
+    "id": "manual-01067",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhárádhár"
+    },
+    "pos": "adv.",
+    "text": " \n dharadhar \n adv. \n by way of the ridge \n by way of the ridge"
+  },
+  {
+    "id": "manual-01068",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhárṭhá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhartha \n n.m. \n a small ridge \n a small ridge \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01069",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhárṭí"
+    },
+    "pos": "n.f.",
+    "text": " \n dharti \n n.f. \n see dhartha \n see dhartha"
+  },
+  {
+    "id": "manual-01070",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhartí"
+    },
+    "pos": "n.f.",
+    "text": " \n dharti \n n.f. \n the earth \n the earth"
+  },
+  {
+    "id": "manual-01071",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhashṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhashnu \n v.t. re. \n to plunge in \n to plunge in"
+  },
+  {
+    "id": "manual-01072",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhasrálá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhasrala \n n.m. \n a loud noise or sound \n a loud noise or sound"
+  },
+  {
+    "id": "manual-01073",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhat"
+    },
+    "pos": "n.f.",
+    "text": " \n dhat \n n.f. \n passion \n passion"
+  },
+  {
+    "id": "manual-01074",
+    "head": {
+      "devanagari": "",
+      "roman": "Dháṭu or dháṭhu"
+    },
+    "pos": "n.m.",
+    "text": " \n dhatu or dhathu \n n.m. \n a kerchief worn on the head by females \n a kerchief worn on the head by females \n madhan, theog, balsan, kumharsain, bashahr and kullu"
+  },
+  {
+    "id": "manual-01075",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaulá or -u"
+    },
+    "pos": "adj.",
+    "text": " \n dhaula or -u \n adj. \n see chita \n see chita \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01076",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhauṇ-ṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhaun-nu \n v.t. re. \n to earn \n to earn \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01077",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaúňsá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhaunsa \n n.m. \n a large kettledrum which is sounded on horseback on the marriage of a chief \n a large kettledrum which is sounded on horseback on the marriage of a chief \n also dhonsu"
+  },
+  {
+    "id": "manual-01078",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaúňṭhí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhaunthi \n n.f. \n a small bow, used to card wool \n a small bow, used to card wool"
+  },
+  {
+    "id": "manual-01079",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhaurí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhauri \n n.f. \n the hide of an ox or buffalo \n the hide of an ox or buffalo"
+  },
+  {
+    "id": "manual-01080",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhauwáṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhauwanu \n v.t. re. \n to cause or allow to earn \n to cause or allow to earn"
+  },
+  {
+    "id": "manual-01081",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhawá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhawa \n n.m. \n an invasion \n an invasion"
+  },
+  {
+    "id": "manual-01082",
+    "head": {
+      "devanagari": "",
+      "roman": "Dheká"
+    },
+    "pos": "n.m.",
+    "text": " \n dheka \n n.m. \n a fool \n a fool \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01083",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhelá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhela \n n.m. \n half-a-pice \n half-a-pice \n f. -i, half-a-rupee, eight annas"
+  },
+  {
+    "id": "manual-01084",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhé'ṇ"
+    },
+    "pos": "n.f.",
+    "text": " \n dhe'n \n n.f. \n (1) a cow; (2) a donation \n (1) a cow; (2) a donation"
+  },
+  {
+    "id": "manual-01085",
+    "head": {
+      "devanagari": "",
+      "roman": "Dheoṭá"
+    },
+    "pos": "n.m.",
+    "text": " \n dheota \n n.m. \n a maternal grandson, a daughter's son \n a maternal grandson, a daughter's son \n f. -i, a maternal granddaughter, a daughter's daughter"
+  },
+  {
+    "id": "manual-01086",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍher"
+    },
+    "pos": "n.m.",
+    "text": " \n dher \n n.m. \n a heap, a mass \n a heap, a mass \n -lagnu, v.i. re. to be heaped"
+  },
+  {
+    "id": "manual-01087",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍherá"
+    },
+    "pos": "adv.",
+    "text": " \n dhera \n adv. \n wait a little \n wait a little"
+  },
+  {
+    "id": "manual-01088",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhi \n n.f. \n a daughter \n a daughter"
+  },
+  {
+    "id": "manual-01089",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhij"
+    },
+    "pos": "n.f.",
+    "text": " \n dhij \n n.f. \n belief, confidence \n belief, confidence \n -rakhni, v.t. re. to have patience, or reliance"
+  },
+  {
+    "id": "manual-01090",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhijáwṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n dhijawnu \n v.i. re. \n to make believe \n to make believe \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01091",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhijṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhijnu \n v.t. re. \n to believe, to trust \n to believe, to trust \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01092",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhikki"
+    },
+    "pos": "n.f.",
+    "text": " \n dhikki \n n.f. \n the hiccough \n the hiccough \n -lagni, v.s. re. to hiccough"
+  },
+  {
+    "id": "manual-01093",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhímá or -u"
+    },
+    "pos": "adj.",
+    "text": " \n dhima or -u \n adj. \n mild, tender \n mild, tender \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01094",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhiňḍhrá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhindhra \n n.m. \n a kind of food made of esculent roots mixed with gram flour and cooked in vapour \n a kind of food made of esculent roots mixed with gram flour and cooked in vapour \n pl. -e"
+  },
+  {
+    "id": "manual-01095",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhíngá-dhíngí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhinga-dhingi \n n.f. \n violence, force \n violence, force"
+  },
+  {
+    "id": "manual-01096",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhíngá-dhíngiyé"
+    },
+    "pos": "adv.",
+    "text": " \n dhinga-dhingiye \n adv. \n forcibly \n forcibly"
+  },
+  {
+    "id": "manual-01097",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhiňkó"
+    },
+    "pos": "n.f. pl.",
+    "text": " \n dhinko \n n.f. pl. \n humblings \n humblings"
+  },
+  {
+    "id": "manual-01098",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhiňkó"
+    },
+    "pos": "n.f. pl.",
+    "text": " \n dhinko \n n.f. pl. \n beseeching \n beseeching"
+  },
+  {
+    "id": "manual-01099",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhírá"
+    },
+    "pos": "adv.",
+    "text": " \n dhira \n adv. \n in a waiting manner \n in a waiting manner \n -ho, 'wait a little'"
+  },
+  {
+    "id": "manual-01100",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhíraj"
+    },
+    "pos": "n.m.",
+    "text": " \n dhiraj \n n.m. \n patience \n patience \n -dharnu, v.t. re. to be patient"
+  },
+  {
+    "id": "manual-01101",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhishṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhishnu \n v.t. re. \n to see \n to see \n f. -i, pl. -e. also dishnu"
+  },
+  {
+    "id": "manual-01102",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhiyé"
+    },
+    "pos": "",
+    "text": " \n dhiye \n  \n a polite phrase used in addressing boys \n a polite phrase used in addressing boys"
+  },
+  {
+    "id": "manual-01103",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúňichhá, -u"
+    },
+    "pos": "adj.",
+    "text": " \n dhunichha, -u \n adj. \n brown \n brown \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01104",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhobbí"
+    },
+    "pos": "n.m.",
+    "text": " \n dhobbi \n n.m. \n a washerman \n a washerman \n f. -an, the washerman's wife; -tu, n.m. the son of a washerman; f. -i, the daughter of a washerman."
+  },
+  {
+    "id": "manual-01105",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhofá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhofa \n n.m. \n see dhoka \n see dhoka"
+  },
+  {
+    "id": "manual-01106",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍhoh or -á"
+    },
+    "pos": "n.m.",
+    "text": " \n dhoh or -a \n n.m. \n a place \n a place"
+  },
+  {
+    "id": "manual-01107",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhoká"
+    },
+    "pos": "n.m.",
+    "text": " \n dhoka \n n.m. \n misunderstanding \n misunderstanding \n -khana, v.i. re. to misunderstand. (also dhofa)"
+  },
+  {
+    "id": "manual-01108",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍho'l"
+    },
+    "pos": "n.m.",
+    "text": " \n dho'l \n n.m. \n a drum \n a drum \n -bajawnu, v.t. re. to beat a drum"
+  },
+  {
+    "id": "manual-01109",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhoňsá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhonsa \n n.m. \n see dhaunsa \n see dhaunsa"
+  },
+  {
+    "id": "manual-01110",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhóňsí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhonsi \n n.f. \n a grain measure equal to 9 sers (two kansis make one dhonsi) \n a grain measure equal to 9 sers (two kansis make one dhonsi) \n used in kullu"
+  },
+  {
+    "id": "manual-01111",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhoṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhonu \n v.t. re. \n to wash \n to wash \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01112",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍhoṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhonu \n v.t. re. \n to carry \n to carry \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01113",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhorá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhora \n n.m. \n management \n management \n also skeru"
+  },
+  {
+    "id": "manual-01114",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhoṭ"
+    },
+    "pos": "n.f.",
+    "text": " \n dhot \n n.f. \n a piece of cloth worn between the legs \n a piece of cloth worn between the legs"
+  },
+  {
+    "id": "manual-01115",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhow"
+    },
+    "pos": "",
+    "text": " \n dhow \n  \n see dhoh \n see dhoh"
+  },
+  {
+    "id": "manual-01116",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhowá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhowa \n n.m. \n a place, a room \n a place, a room"
+  },
+  {
+    "id": "manual-01117",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhowáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhowawnu \n v.t. re. \n to cause to carry \n to cause to carry \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01118",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhrágul"
+    },
+    "pos": "n.m.",
+    "text": " \n dhragul \n n.m. \n the air that blows on a ridge \n the air that blows on a ridge"
+  },
+  {
+    "id": "manual-01119",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhrárí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhrari \n n.f. \n a wild plant which bears white flowers and produces a cotton-like substance, which when dry is used for tinder \n a wild plant which bears white flowers and produces a cotton-like substance, which when dry is used for tinder"
+  },
+  {
+    "id": "manual-01120",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúr"
+    },
+    "pos": "n.f.",
+    "text": " \n dhur \n n.f. \n the female organ \n the female organ"
+  },
+  {
+    "id": "manual-01121",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúňshlú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dhunshlu or -a \n adj. \n grey (in colour) \n grey (in colour) \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01122",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúḷ"
+    },
+    "pos": "n.f.",
+    "text": " \n dhul \n n.f. \n dust \n dust"
+  },
+  {
+    "id": "manual-01123",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúm-dhám"
+    },
+    "pos": "n.m.",
+    "text": " \n dhum-dham \n n.m. \n pomp \n pomp"
+  },
+  {
+    "id": "manual-01124",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúmṛú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dhumru or -a \n adj. \n see dhunshlu \n see dhunshlu \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01125",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhuṇáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dhunawnu \n v.t. re. \n to cause to shiver \n to cause to shiver"
+  },
+  {
+    "id": "manual-01126",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhuṇ-fírí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhun-firi \n n.f. \n a kind of plant used as a vegetable \n a kind of plant used as a vegetable"
+  },
+  {
+    "id": "manual-01127",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhuṇ-ṇu"
+    },
+    "pos": "v.i. and t. re.",
+    "text": " \n dhun-nu \n v.i. and t. re. \n (1) to shiver; (2) to churn \n (1) to shiver; (2) to churn"
+  },
+  {
+    "id": "manual-01128",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúň-wáň"
+    },
+    "pos": "n.m.",
+    "text": " \n dhun-wan \n n.m. \n smoke \n smoke"
+  },
+  {
+    "id": "manual-01129",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúp"
+    },
+    "pos": "n.f.",
+    "text": " \n dhup \n n.f. \n incense \n incense"
+  },
+  {
+    "id": "manual-01130",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúr"
+    },
+    "pos": "n.f.",
+    "text": " \n dhur \n n.f. \n (1) the uppermost part of a roof; (2) a peak; (3) direction \n (1) the uppermost part of a roof; (2) a peak; (3) direction"
+  },
+  {
+    "id": "manual-01131",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúr"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n dhur \n n.m. pl. \n the four quarters or directions \n the four quarters or directions \n chau dhure 'in the four directions.'"
+  },
+  {
+    "id": "manual-01132",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhúrí or dhúrú"
+    },
+    "pos": "adv.",
+    "text": " \n dhuri or dhuru \n adv. \n all over the country \n all over the country"
+  },
+  {
+    "id": "manual-01133",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhurpat"
+    },
+    "pos": "n.m.",
+    "text": " \n dhurpat \n n.m. \n a plank used for teaching letters, written with red powder, to boys \n a plank used for teaching letters, written with red powder, to boys"
+  },
+  {
+    "id": "manual-01134",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhushlí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhushli \n n.f. \n mismanagement \n mismanagement"
+  },
+  {
+    "id": "manual-01135",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhuwá"
+    },
+    "pos": "n.f.",
+    "text": " \n dhuwa \n n.f. \n see dhuni \n see dhuni"
+  },
+  {
+    "id": "manual-01136",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhuwáň"
+    },
+    "pos": "n.m.",
+    "text": " \n dhuwan \n n.m. \n smoke \n smoke \n -lagna, v.i. re. to feel smoke"
+  },
+  {
+    "id": "manual-01137",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhwálá"
+    },
+    "pos": "n.m.",
+    "text": " \n dhwala \n n.m. \n a kind of tax, levied at one rupee per landholder (used in koti) \n a kind of tax, levied at one rupee per landholder (used in koti)"
+  },
+  {
+    "id": "manual-01138",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhwálí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhwali \n n.f. \n (1) a descent, down-hill; (2) a tax (see dhwala) \n (1) a descent, down-hill; (2) a tax (see dhwala)"
+  },
+  {
+    "id": "manual-01139",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhyár"
+    },
+    "pos": "n.m.",
+    "text": " \n dhyar \n n.m. \n a borrowing \n a borrowing \n -denu, v.t. re. to make a loan; -lenu, v.t. ar. to borrow"
+  },
+  {
+    "id": "manual-01140",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhyáwí"
+    },
+    "pos": "n.f.",
+    "text": " \n dhyawi \n n.f. \n a milkmaid \n a milkmaid"
+  },
+  {
+    "id": "manual-01141",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhyán"
+    },
+    "pos": "n.m.",
+    "text": " \n dhyan \n n.m. \n meditation \n meditation \n -lanu, v.i. re. to meditate"
+  },
+  {
+    "id": "manual-01142",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhyáṇ"
+    },
+    "pos": "n.f.",
+    "text": " \n dhyan \n n.f. \n see dhain \n see dhain"
+  },
+  {
+    "id": "manual-01143",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhyáṛá"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n dhyara \n n.m. pl. \n the day \n the day \n -u. -i, n.f. daily rations"
+  },
+  {
+    "id": "manual-01144",
+    "head": {
+      "devanagari": "",
+      "roman": "Dhyáṛí-dhyáṛí"
+    },
+    "pos": "adv.",
+    "text": " \n dhyari-dhyari \n adv. \n every day \n every day"
+  },
+  {
+    "id": "manual-01145",
+    "head": {
+      "devanagari": "",
+      "roman": "Diálí"
+    },
+    "pos": "n.f.",
+    "text": " \n diali \n n.f. \n the diwali festival \n the diwali festival"
+  },
+  {
+    "id": "manual-01146",
+    "head": {
+      "devanagari": "",
+      "roman": "Dib"
+    },
+    "pos": "n.m.",
+    "text": " \n dib \n n.m. \n an oath \n an oath \n -denu, v.a. re. to give an oath; -lenu, v.i. ir. to take an oath"
+  },
+  {
+    "id": "manual-01147",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍibr"
+    },
+    "pos": "n.m.",
+    "text": " \n dibr \n n.m. \n a pond \n a pond \n -i, n.f. a small tank"
+  },
+  {
+    "id": "manual-01148",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍibrú"
+    },
+    "pos": "n.m.",
+    "text": " \n dibru \n n.m. \n a small vessel used to cook in \n a small vessel used to cook in \n f. -i"
+  },
+  {
+    "id": "manual-01149",
+    "head": {
+      "devanagari": "",
+      "roman": "Díhṇu"
+    },
+    "pos": "v.a. re.",
+    "text": " \n dihnu \n v.a. re. \n to snow \n to snow \n also dinhnu"
+  },
+  {
+    "id": "manual-01150",
+    "head": {
+      "devanagari": "",
+      "roman": "Dik"
+    },
+    "pos": "n.m.",
+    "text": " \n dik \n n.m. \n trouble \n trouble"
+  },
+  {
+    "id": "manual-01151",
+    "head": {
+      "devanagari": "",
+      "roman": "Dikú"
+    },
+    "pos": "n.m.",
+    "text": " \n diku \n n.m. \n snowfall \n snowfall \n -lagnu, v.s. re. to fall, of snow. verse: diku loga jahruwe, jhota kata badaruwe. 'it began to snow at jahru, and a male buffalo was sacrificed by the badaru people.' (jahru is a place in simla; badaru is a sept of kanets in that state)"
+  },
+  {
+    "id": "manual-01152",
+    "head": {
+      "devanagari": "",
+      "roman": "Dil"
+    },
+    "pos": "n.m.",
+    "text": " \n dil \n n.m. \n the heart, mind \n the heart, mind \n -denu, v.i. ir. to give one's heart; -lanu, v.i. ir. to be attentive; -dekhnu, v.t. re. to examine one's heart; -o-du honu, v.s. re. to be disheartened."
+  },
+  {
+    "id": "manual-01153",
+    "head": {
+      "devanagari": "",
+      "roman": "Dilrí"
+    },
+    "pos": "adj. f.",
+    "text": " \n dilri \n adj. f. \n a cow or buffalo having horns which point towards the ground \n a cow or buffalo having horns which point towards the ground"
+  },
+  {
+    "id": "manual-01154",
+    "head": {
+      "devanagari": "",
+      "roman": "Dím"
+    },
+    "pos": "n.m.",
+    "text": " \n dim \n n.m. \n a temple of a deity \n a temple of a deity \n -ri, n.f. a small temple"
+  },
+  {
+    "id": "manual-01155",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍiňg"
+    },
+    "pos": "n.m.",
+    "text": " \n ding \n n.m. \n a stick, a bar \n a stick, a bar \n -e, adv. with a stick"
+  },
+  {
+    "id": "manual-01156",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍiňglí"
+    },
+    "pos": "n.f.",
+    "text": " \n dingli \n n.f. \n a small stick \n a small stick \n also dingta"
+  },
+  {
+    "id": "manual-01157",
+    "head": {
+      "devanagari": "",
+      "roman": "Diňwáň"
+    },
+    "pos": "n.m.",
+    "text": " \n dinwan \n n.m. \n the man who speaks on behalf of a deity \n the man who speaks on behalf of a deity \n also diwan or dewa"
+  },
+  {
+    "id": "manual-01158",
+    "head": {
+      "devanagari": "",
+      "roman": "Diňwaṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n dinwan \n n.m. \n snowfall \n snowfall"
+  },
+  {
+    "id": "manual-01159",
+    "head": {
+      "devanagari": "",
+      "roman": "Diň-uk"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n din-uk \n n.m. pl. \n white-ants \n white-ants"
+  },
+  {
+    "id": "manual-01160",
+    "head": {
+      "devanagari": "",
+      "roman": "Díň-wíň"
+    },
+    "pos": "n.f.",
+    "text": " \n din-win \n n.f. \n the wife of a dinwan \n the wife of a dinwan"
+  },
+  {
+    "id": "manual-01161",
+    "head": {
+      "devanagari": "",
+      "roman": "Dishṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dishnu \n v.t. re. \n see dhishnu \n see dhishnu"
+  },
+  {
+    "id": "manual-01162",
+    "head": {
+      "devanagari": "",
+      "roman": "Ditá or -u"
+    },
+    "pos": "v.p.t.",
+    "text": " \n dita or -u \n v.p.t. \n gave \n gave \n m.; f. -i, pl. -e. see donu. also dia."
+  },
+  {
+    "id": "manual-01163",
+    "head": {
+      "devanagari": "",
+      "roman": "Díúň-ṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n diun-nu \n v.i. re. \n to snow \n to snow"
+  },
+  {
+    "id": "manual-01164",
+    "head": {
+      "devanagari": "",
+      "roman": "Diutí"
+    },
+    "pos": "n.f.",
+    "text": " \n diuti \n n.f. \n a small earthen lamp \n a small earthen lamp \n n.m. -tu"
+  },
+  {
+    "id": "manual-01165",
+    "head": {
+      "devanagari": "",
+      "roman": "Diut"
+    },
+    "pos": "n.m.",
+    "text": " \n diut \n n.m. \n a lamp or lamp-stand \n a lamp or lamp-stand"
+  },
+  {
+    "id": "manual-01166",
+    "head": {
+      "devanagari": "",
+      "roman": "Diwh"
+    },
+    "pos": "n.f.",
+    "text": " \n diwh \n n.f. \n a firefly \n a firefly \n also dyuwli"
+  },
+  {
+    "id": "manual-01167",
+    "head": {
+      "devanagari": "",
+      "roman": "Diwá"
+    },
+    "pos": "n.m.",
+    "text": " \n diwa \n n.m. \n a lamp (of earth) \n a lamp (of earth)"
+  },
+  {
+    "id": "manual-01168",
+    "head": {
+      "devanagari": "",
+      "roman": "Diwáň"
+    },
+    "pos": "n.m.",
+    "text": " \n diwan \n n.m. \n see dinwan \n see dinwan"
+  },
+  {
+    "id": "manual-01169",
+    "head": {
+      "devanagari": "",
+      "roman": "Díwí"
+    },
+    "pos": "n.f.",
+    "text": " \n diwi \n n.f. \n a small lamp lighted with clarified butter at a religious ceremony \n a small lamp lighted with clarified butter at a religious ceremony"
+  },
+  {
+    "id": "manual-01170",
+    "head": {
+      "devanagari": "",
+      "roman": "Diwṭ"
+    },
+    "pos": "n.m.",
+    "text": " \n diwt \n n.m. \n a lamp-stand \n a lamp-stand"
+  },
+  {
+    "id": "manual-01171",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍláňgá"
+    },
+    "pos": "adj. m.",
+    "text": " \n dlanga \n adj. m. \n a pine or cedar tree having two long branches \n a pine or cedar tree having two long branches \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01172",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍlícha"
+    },
+    "pos": "n.m.",
+    "text": " \n dlicha \n n.m. \n a rug, a carpet \n a rug, a carpet"
+  },
+  {
+    "id": "manual-01173",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍlúchá"
+    },
+    "pos": "n.m.",
+    "text": " \n dlucha \n n.m. \n a torch (of torch-wood) \n a torch (of torch-wood)"
+  },
+  {
+    "id": "manual-01174",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍṇáu"
+    },
+    "pos": "n.m.",
+    "text": " \n dnau \n n.m. \n a kind of wild cat \n a kind of wild cat"
+  },
+  {
+    "id": "manual-01175",
+    "head": {
+      "devanagari": "",
+      "roman": "Do"
+    },
+    "pos": "adj.",
+    "text": " \n do \n adj. \n two \n two"
+  },
+  {
+    "id": "manual-01176",
+    "head": {
+      "devanagari": "",
+      "roman": "Dobá"
+    },
+    "pos": "n.m.",
+    "text": " \n doba \n n.m. \n destruction, ruining \n destruction, ruining"
+  },
+  {
+    "id": "manual-01177",
+    "head": {
+      "devanagari": "",
+      "roman": "Dobṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dobnu \n v.t. re. \n to destroy \n to destroy"
+  },
+  {
+    "id": "manual-01178",
+    "head": {
+      "devanagari": "",
+      "roman": "Dobṛú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dobru or -a \n adj. \n of twofold nature \n of twofold nature \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01179",
+    "head": {
+      "devanagari": "",
+      "roman": "Do'chí"
+    },
+    "pos": "n.f.",
+    "text": " \n do'chi \n n.f. \n a hamlet \n a hamlet \n -lagni, v.i. re. to look after two villages"
+  },
+  {
+    "id": "manual-01180",
+    "head": {
+      "devanagari": "",
+      "roman": "Doḍá"
+    },
+    "pos": "n.m.",
+    "text": " \n doda \n n.m. \n a soap-nut \n a soap-nut \n -e-ra-da'l, n.m. the soap-nut tree"
+  },
+  {
+    "id": "manual-01181",
+    "head": {
+      "devanagari": "",
+      "roman": "Dófá"
+    },
+    "pos": "n.m.",
+    "text": " \n dofa \n n.m. \n see dhofa \n see dhofa"
+  },
+  {
+    "id": "manual-01182",
+    "head": {
+      "devanagari": "",
+      "roman": "Doh"
+    },
+    "pos": "n.m.",
+    "text": " \n doh \n n.m. \n enmity \n enmity"
+  },
+  {
+    "id": "manual-01183",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohá"
+    },
+    "pos": "n.m.",
+    "text": " \n doha \n n.m. \n (1) a couplet; (2) poetry \n (1) a couplet; (2) poetry"
+  },
+  {
+    "id": "manual-01184",
+    "head": {
+      "devanagari": "",
+      "roman": "Doháí"
+    },
+    "pos": "n.f.",
+    "text": " \n dohai \n n.f. \n exclamation for justice \n exclamation for justice"
+  },
+  {
+    "id": "manual-01185",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohaṛ"
+    },
+    "pos": "n.f.",
+    "text": " \n dohar \n n.f. \n a sheet of cloth \n a sheet of cloth"
+  },
+  {
+    "id": "manual-01186",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohí"
+    },
+    "pos": "n.m.",
+    "text": " \n dohi \n n.m. \n enmity (used in kuthar) \n enmity (used in kuthar)"
+  },
+  {
+    "id": "manual-01187",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohrá, -u"
+    },
+    "pos": "adj.",
+    "text": " \n dohra, -u \n adj. \n double \n double \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01188",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohrí"
+    },
+    "pos": "n.f.",
+    "text": " \n dohri \n n.f. \n a blanket \n a blanket"
+  },
+  {
+    "id": "manual-01189",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohrí-purṇí"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dohri-purni \n v.t. re. \n to cross or penetrate \n to cross or penetrate"
+  },
+  {
+    "id": "manual-01190",
+    "head": {
+      "devanagari": "",
+      "roman": "Dohṛú"
+    },
+    "pos": "n.m.",
+    "text": " \n dohru \n n.m. \n a large blanket \n a large blanket"
+  },
+  {
+    "id": "manual-01191",
+    "head": {
+      "devanagari": "",
+      "roman": "Dokh"
+    },
+    "pos": "n.m.",
+    "text": " \n dokh \n n.m. \n see dosh \n see dosh"
+  },
+  {
+    "id": "manual-01192",
+    "head": {
+      "devanagari": "",
+      "roman": "Do'l"
+    },
+    "pos": "n.m.",
+    "text": " \n do'l \n n.m. \n swinging \n swinging"
+  },
+  {
+    "id": "manual-01193",
+    "head": {
+      "devanagari": "",
+      "roman": "Ḍól"
+    },
+    "pos": "n.m.",
+    "text": " \n dol \n n.m. \n a bucket. \n a bucket. \n -ar or -e, with a bucket"
+  },
+  {
+    "id": "manual-01194",
+    "head": {
+      "devanagari": "",
+      "roman": "Dolá"
+    },
+    "pos": "n.m.",
+    "text": " \n dola \n n.m. \n a kind of palanquin for a bride \n a kind of palanquin for a bride \n f. -i, a small palanquin"
+  },
+  {
+    "id": "manual-01195",
+    "head": {
+      "devanagari": "",
+      "roman": "Dolrí"
+    },
+    "pos": "n.f.",
+    "text": " \n dolri \n n.f. \n an ornament, a garland \n an ornament, a garland"
+  },
+  {
+    "id": "manual-01196",
+    "head": {
+      "devanagari": "",
+      "roman": "Doň-né"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n don-ne \n n.m. pl. \n a kind of food \n a kind of food"
+  },
+  {
+    "id": "manual-01197",
+    "head": {
+      "devanagari": "",
+      "roman": "Doň-rú"
+    },
+    "pos": "n.m.",
+    "text": " \n don-ru \n n.m. \n a small drum of the hour-glass shape \n a small drum of the hour-glass shape"
+  },
+  {
+    "id": "manual-01198",
+    "head": {
+      "devanagari": "",
+      "roman": "Doṛṭú or doṛṭí"
+    },
+    "pos": "n.m. or f.",
+    "text": " \n dortu or dorti \n n.m. or f. \n a small field \n a small field"
+  },
+  {
+    "id": "manual-01199",
+    "head": {
+      "devanagari": "",
+      "roman": "Dóṛú"
+    },
+    "pos": "n.m.",
+    "text": " \n doru \n n.m. \n (1) a field; (2) an ornament of women \n (1) a field; (2) an ornament of women"
+  },
+  {
+    "id": "manual-01200",
+    "head": {
+      "devanagari": "",
+      "roman": "Do'ṭí"
+    },
+    "pos": "n.f.",
+    "text": " \n do'ti \n n.f. \n a very small plot of land \n a very small plot of land \n baro hath doti--tharo hath mor. 'a little field 6 yards long, and a smoothing plough 9 yards wide.'"
+  },
+  {
+    "id": "manual-01201",
+    "head": {
+      "devanagari": "",
+      "roman": "Do'ṭu"
+    },
+    "pos": "n.m.",
+    "text": " \n do'tu \n n.m. \n a small field \n a small field \n also doti, n.f."
+  },
+  {
+    "id": "manual-01202",
+    "head": {
+      "devanagari": "",
+      "roman": "Doṭṭai"
+    },
+    "pos": "adv.",
+    "text": " \n dottai \n adv. \n to-morrow \n to-morrow \n se awna a dottai, 'he is to come to-morrow.'"
+  },
+  {
+    "id": "manual-01203",
+    "head": {
+      "devanagari": "",
+      "roman": "Doṭṭé"
+    },
+    "pos": "adv.",
+    "text": " \n dotte \n adv. \n to-morrow \n to-morrow"
+  },
+  {
+    "id": "manual-01204",
+    "head": {
+      "devanagari": "",
+      "roman": "Dpóhr"
+    },
+    "pos": "n.m.",
+    "text": " \n dpohr \n n.m. \n midday \n midday \n -hona, v.i. re. to become midday"
+  },
+  {
+    "id": "manual-01205",
+    "head": {
+      "devanagari": "",
+      "roman": "Dráṇi"
+    },
+    "pos": "n.f.",
+    "text": " \n drani \n n.f. \n the wife of one's husband's younger brother \n the wife of one's husband's younger brother \n also dreni"
+  },
+  {
+    "id": "manual-01206",
+    "head": {
+      "devanagari": "",
+      "roman": "Drá't"
+    },
+    "pos": "n.m.",
+    "text": " \n dra't \n n.m. \n a long kind of sickle used to cut thorns \n a long kind of sickle used to cut thorns \n f. -i, a sickle used to cut grass. (syn. da'ch) (the vowel 'a' is prolated)"
+  },
+  {
+    "id": "manual-01207",
+    "head": {
+      "devanagari": "",
+      "roman": "Dráṭí"
+    },
+    "pos": "n.f.",
+    "text": " \n drati \n n.f. \n see da'ch \n see da'ch"
+  },
+  {
+    "id": "manual-01208",
+    "head": {
+      "devanagari": "",
+      "roman": "Dréṇí"
+    },
+    "pos": "n.f.",
+    "text": " \n dreni \n n.f. \n see drani \n see drani"
+  },
+  {
+    "id": "manual-01209",
+    "head": {
+      "devanagari": "",
+      "roman": "Drés"
+    },
+    "pos": "n.f.",
+    "text": " \n dres \n n.f. \n a chintz \n a chintz"
+  },
+  {
+    "id": "manual-01210",
+    "head": {
+      "devanagari": "",
+      "roman": "Droṭú"
+    },
+    "pos": "n.m.",
+    "text": " \n drotu \n n.m. \n earrings \n earrings"
+  },
+  {
+    "id": "manual-01211",
+    "head": {
+      "devanagari": "",
+      "roman": "Drub"
+    },
+    "pos": "n.f.",
+    "text": " \n drub \n n.f. \n see jub \n see jub"
+  },
+  {
+    "id": "manual-01212",
+    "head": {
+      "devanagari": "",
+      "roman": "Drubdá"
+    },
+    "pos": "n.f.",
+    "text": " \n drubda \n n.f. \n doubt \n doubt"
+  },
+  {
+    "id": "manual-01213",
+    "head": {
+      "devanagari": "",
+      "roman": "Dseḷú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dselu or -a \n adj. \n that which is not level \n that which is not level \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01214",
+    "head": {
+      "devanagari": "",
+      "roman": "Dsúṇí"
+    },
+    "pos": "n.f.",
+    "text": " \n dsuni \n n.f. \n a festival observed on the 11th of the bright half of asharh \n a festival observed on the 11th of the bright half of asharh"
+  },
+  {
+    "id": "manual-01215",
+    "head": {
+      "devanagari": "",
+      "roman": "Dúhṇá"
+    },
+    "pos": "n.m.",
+    "text": " \n duhna \n n.m. \n a milking pot \n a milking pot"
+  },
+  {
+    "id": "manual-01216",
+    "head": {
+      "devanagari": "",
+      "roman": "Dúj"
+    },
+    "pos": "n.f.",
+    "text": " \n duj \n n.f. \n the second day of the bright or dark half of a month \n the second day of the bright or dark half of a month \n bhain-duj. a festival which takes place on the second of the bright half of kartik. one's sister is visited and food taken from her hands, presents given according to one's means."
+  },
+  {
+    "id": "manual-01217",
+    "head": {
+      "devanagari": "",
+      "roman": "Dujá or -u"
+    },
+    "pos": "adj.",
+    "text": " \n duja or -u \n adj. \n second \n second \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01218",
+    "head": {
+      "devanagari": "",
+      "roman": "Dujíé"
+    },
+    "pos": "adv.",
+    "text": " \n dujie \n adv. \n secondly \n secondly"
+  },
+  {
+    "id": "manual-01219",
+    "head": {
+      "devanagari": "",
+      "roman": "Dukh"
+    },
+    "pos": "n.m.",
+    "text": " \n dukh \n n.m. \n trouble \n trouble \n -honu, v.i. re. to be troubled"
+  },
+  {
+    "id": "manual-01220",
+    "head": {
+      "devanagari": "",
+      "roman": "Dukháwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dukhawnu \n v.t. re. \n to put to trouble \n to put to trouble"
+  },
+  {
+    "id": "manual-01221",
+    "head": {
+      "devanagari": "",
+      "roman": "Dukhí or dukhiyá"
+    },
+    "pos": "adj.",
+    "text": " \n dukhi or dukhiya \n adj. \n troubled \n troubled"
+  },
+  {
+    "id": "manual-01222",
+    "head": {
+      "devanagari": "",
+      "roman": "Dukhṇá"
+    },
+    "pos": "n.m. pl.",
+    "text": " \n dukhna \n n.m. pl. \n an ulcer, a blister, ailment \n an ulcer, a blister, ailment \n -e"
+  },
+  {
+    "id": "manual-01223",
+    "head": {
+      "devanagari": "",
+      "roman": "Dukhṇú"
+    },
+    "pos": "n.m.",
+    "text": " \n dukhnu \n n.m. \n (1) a blister, an ulcer; (2) an ailment \n (1) a blister, an ulcer; (2) an ailment \n -karna, v.i. re. to ail"
+  },
+  {
+    "id": "manual-01224",
+    "head": {
+      "devanagari": "",
+      "roman": "Dulchá"
+    },
+    "pos": "n.m.",
+    "text": " \n dulcha \n n.m. \n a torch of torchwood \n a torch of torchwood \n f. -i, a small torch"
+  },
+  {
+    "id": "manual-01225",
+    "head": {
+      "devanagari": "",
+      "roman": "Dúm"
+    },
+    "pos": "n.m.",
+    "text": " \n dum \n n.m. \n the name of a village deity \n the name of a village deity"
+  },
+  {
+    "id": "manual-01226",
+    "head": {
+      "devanagari": "",
+      "roman": "Dumṛá"
+    },
+    "pos": "n.m.",
+    "text": " \n dumra \n n.m. \n a low caste \n a low caste \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01227",
+    "head": {
+      "devanagari": "",
+      "roman": "Duňḍs"
+    },
+    "pos": "n.m.",
+    "text": " \n dunds \n n.m. \n a dead fœtus \n a dead fœtus"
+  },
+  {
+    "id": "manual-01228",
+    "head": {
+      "devanagari": "",
+      "roman": "Duňgú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dungu or -a \n adj. \n deep \n deep \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01229",
+    "head": {
+      "devanagari": "",
+      "roman": "Duňkaṛ"
+    },
+    "pos": "n.m.",
+    "text": " \n dunkar \n n.m. \n a precipice \n a precipice"
+  },
+  {
+    "id": "manual-01230",
+    "head": {
+      "devanagari": "",
+      "roman": "Duṇkú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dunku or -a \n adj. \n doubled \n doubled \n -karno, v.t. re. to make two-fold"
+  },
+  {
+    "id": "manual-01231",
+    "head": {
+      "devanagari": "",
+      "roman": "Duṇú or -á"
+    },
+    "pos": "adj.",
+    "text": " \n dunu or -a \n adj. \n doubled, twofold \n doubled, twofold \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01232",
+    "head": {
+      "devanagari": "",
+      "roman": "Dúṇú"
+    },
+    "pos": "n.m.",
+    "text": " \n dunu \n n.m. \n a kind of wild onion \n a kind of wild onion"
+  },
+  {
+    "id": "manual-01233",
+    "head": {
+      "devanagari": "",
+      "roman": "Dupaṭṭá"
+    },
+    "pos": "n.m.",
+    "text": " \n dupatta \n n.m. \n a sheet of cloth \n a sheet of cloth"
+  },
+  {
+    "id": "manual-01234",
+    "head": {
+      "devanagari": "",
+      "roman": "Dupó'hr"
+    },
+    "pos": "n.f.",
+    "text": " \n dupo'hr \n n.f. \n midday \n midday"
+  },
+  {
+    "id": "manual-01235",
+    "head": {
+      "devanagari": "",
+      "roman": "Dúṛh"
+    },
+    "pos": "adj.",
+    "text": " \n durh \n adj. \n see der \n see der"
+  },
+  {
+    "id": "manual-01236",
+    "head": {
+      "devanagari": "",
+      "roman": "Dúr"
+    },
+    "pos": "adj.",
+    "text": " \n dur \n adj. \n far away; n.m. distance \n far away; n.m. distance"
+  },
+  {
+    "id": "manual-01237",
+    "head": {
+      "devanagari": "",
+      "roman": "Durb"
+    },
+    "pos": "n.m.",
+    "text": " \n durb \n n.m. \n a grain measure. 100 khanshas make one durb. \n a grain measure. 100 khanshas make one durb."
+  },
+  {
+    "id": "manual-01238",
+    "head": {
+      "devanagari": "",
+      "roman": "Durbhág"
+    },
+    "pos": "n.m.",
+    "text": " \n durbhag \n n.m. \n misfortune, loss \n misfortune, loss \n -dena, v.t. re. to complain"
+  },
+  {
+    "id": "manual-01239",
+    "head": {
+      "devanagari": "",
+      "roman": "Durkaṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n durkanu \n v.i. re. \n to run on \n to run on \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01240",
+    "head": {
+      "devanagari": "",
+      "roman": "Durr"
+    },
+    "pos": "phrase",
+    "text": " \n durr \n phrase \n a cross word, to say 'be off' \n a cross word, to say 'be off'"
+  },
+  {
+    "id": "manual-01241",
+    "head": {
+      "devanagari": "",
+      "roman": "Dusheṭṭá"
+    },
+    "pos": "adj.",
+    "text": " \n dushetta \n adj. \n sloping \n sloping \n m.; f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01242",
+    "head": {
+      "devanagari": "",
+      "roman": "Dusillá"
+    },
+    "pos": "n.m.",
+    "text": " \n dusilla \n n.m. \n two ears of wheat or barley on one stalk, supposed to be an ill omen \n two ears of wheat or barley on one stalk, supposed to be an ill omen"
+  },
+  {
+    "id": "manual-01243",
+    "head": {
+      "devanagari": "",
+      "roman": "Duwálṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n duwalnu \n v.t. re. \n to enter \n to enter"
+  },
+  {
+    "id": "manual-01244",
+    "head": {
+      "devanagari": "",
+      "roman": "Dwádash"
+    },
+    "pos": "n.f.",
+    "text": " \n dwadash \n n.f. \n the twelfth day of the bright or dark half of a month \n the twelfth day of the bright or dark half of a month"
+  },
+  {
+    "id": "manual-01245",
+    "head": {
+      "devanagari": "",
+      "roman": "Dwánní"
+    },
+    "pos": "n.f.",
+    "text": " \n dwanni \n n.f. \n the coin of 2 annas \n the coin of 2 annas"
+  },
+  {
+    "id": "manual-01246",
+    "head": {
+      "devanagari": "",
+      "roman": "Dwár"
+    },
+    "pos": "n.m.",
+    "text": " \n dwar \n n.m. \n a cave \n a cave"
+  },
+  {
+    "id": "manual-01247",
+    "head": {
+      "devanagari": "",
+      "roman": "Dwár"
+    },
+    "pos": "n.m.",
+    "text": " \n dwar \n n.m. \n doors \n doors"
+  },
+  {
+    "id": "manual-01248",
+    "head": {
+      "devanagari": "",
+      "roman": "Dwá't"
+    },
+    "pos": "n.f.",
+    "text": " \n dwa't \n n.f. \n inkstand \n inkstand \n syn. masajan"
+  },
+  {
+    "id": "manual-01249",
+    "head": {
+      "devanagari": "",
+      "roman": "Dyálá"
+    },
+    "pos": "n.m.",
+    "text": " \n dyala \n n.m. \n a play in which fire is burnt \n a play in which fire is burnt"
+  },
+  {
+    "id": "manual-01250",
+    "head": {
+      "devanagari": "",
+      "roman": "Dyálí"
+    },
+    "pos": "n.f.",
+    "text": " \n dyali \n n.f. \n see diali \n see diali"
+  },
+  {
+    "id": "manual-01251",
+    "head": {
+      "devanagari": "",
+      "roman": "Dyáṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n dyanu \n v.t. re. \n to cause to give \n to cause to give"
+  },
+  {
+    "id": "manual-01252",
+    "head": {
+      "devanagari": "",
+      "roman": "Dyáwaṛ, dyáwaṛí"
+    },
+    "pos": "n.m., n.f.",
+    "text": " \n dyawar, dyawari \n n.m., n.f. \n he or she whose mother is the concubine to a chief \n he or she whose mother is the concubine to a chief"
+  },
+  {
+    "id": "manual-01253",
+    "head": {
+      "devanagari": "",
+      "roman": "Dyár"
+    },
+    "pos": "n.m.",
+    "text": " \n dyar \n n.m. \n cedar tree \n cedar tree"
+  },
+  {
+    "id": "manual-01254",
+    "head": {
+      "devanagari": "",
+      "roman": "Dyúwlí"
+    },
+    "pos": "n.f.",
+    "text": " \n dyuwli \n n.f. \n the fire-fly \n the fire-fly"
+  },
+  {
+    "id": "manual-01255",
+    "head": {
+      "devanagari": "",
+      "roman": "E"
+    },
+    "pos": "suffix",
+    "text": " \n e \n suffix \n a termination to nouns and pronouns which denotes the plural \n a termination to nouns and pronouns which denotes the plural \n as: e,li= this, e,le= these."
+  },
+  {
+    "id": "manual-01256",
+    "head": {
+      "devanagari": "",
+      "roman": "E"
+    },
+    "pos": "vocative particle",
+    "text": " \n e \n vocative particle \n used in addressing anyone \n used in addressing anyone \n e tu ore hando, 'o sir, come here.'"
+  },
+  {
+    "id": "manual-01257",
+    "head": {
+      "devanagari": "",
+      "roman": "Ebé"
+    },
+    "pos": "adv.",
+    "text": " \n ebe \n adv. \n now \n now \n ebe ka kari? 'what's to be done now?'"
+  },
+  {
+    "id": "manual-01258",
+    "head": {
+      "devanagari": "",
+      "roman": "Ebú"
+    },
+    "pos": "adv.",
+    "text": " \n ebu \n adv. \n just now \n just now \n se dewa ebu. 'he has gone just now.'"
+  },
+  {
+    "id": "manual-01259",
+    "head": {
+      "devanagari": "",
+      "roman": "Ejí"
+    },
+    "pos": "phrase",
+    "text": " \n eji \n phrase \n sir, o madam \n sir, o madam"
+  },
+  {
+    "id": "manual-01260",
+    "head": {
+      "devanagari": "",
+      "roman": "Ek"
+    },
+    "pos": "adj.",
+    "text": " \n ek \n adj. \n one \n one \n mun foba ek rupaiya. 'i got one rupee.'"
+  },
+  {
+    "id": "manual-01261",
+    "head": {
+      "devanagari": "",
+      "roman": "Ekhó"
+    },
+    "pos": "pro.",
+    "text": " \n ekho \n pro. \n some \n some \n see ek"
+  },
+  {
+    "id": "manual-01262",
+    "head": {
+      "devanagari": "",
+      "roman": "Ekí"
+    },
+    "pos": "adj.",
+    "text": " \n eki \n adj. \n only one \n only one \n eki jane eti khedai. 'send one man here.'"
+  },
+  {
+    "id": "manual-01263",
+    "head": {
+      "devanagari": "",
+      "roman": "Eki-bárí"
+    },
+    "pos": "adv.",
+    "text": " \n eki-bari \n adv. \n once; at one time \n once; at one time"
+  },
+  {
+    "id": "manual-01264",
+    "head": {
+      "devanagari": "",
+      "roman": "Én"
+    },
+    "pos": "n.m.",
+    "text": " \n en \n n.m. \n see ain \n see ain \n used in baghal, kumharsain and nalagarh"
+  },
+  {
+    "id": "manual-01265",
+    "head": {
+      "devanagari": "",
+      "roman": "Erá"
+    },
+    "pos": "adv.",
+    "text": " \n era \n adv. \n see ishu \n see ishu"
+  },
+  {
+    "id": "manual-01266",
+    "head": {
+      "devanagari": "",
+      "roman": "Ere"
+    },
+    "pos": "phrase",
+    "text": " \n ere \n phrase \n o you \n o you"
+  },
+  {
+    "id": "manual-01267",
+    "head": {
+      "devanagari": "",
+      "roman": "E-re-lá"
+    },
+    "pos": "phrase",
+    "text": " \n e-re-la \n phrase \n o you sir \n o you sir"
+  },
+  {
+    "id": "manual-01268",
+    "head": {
+      "devanagari": "",
+      "roman": "Erká or -u"
+    },
+    "pos": "n.m.",
+    "text": " \n erka or -u \n n.m. \n see ishu \n see ishu \n m.; f. -i, pl. -e. (balsan and madhan)"
+  },
+  {
+    "id": "manual-01269",
+    "head": {
+      "devanagari": "",
+      "roman": "E-ro-lá"
+    },
+    "pos": "adv.",
+    "text": " \n e-ro-la \n adv. \n this side \n this side"
+  },
+  {
+    "id": "manual-01270",
+    "head": {
+      "devanagari": "",
+      "roman": "Es"
+    },
+    "pos": "pro.",
+    "text": " \n es \n pro. \n (1) him or her; (2) to this \n (1) him or her; (2) to this \n m. and f. (also eskhe)"
+  },
+  {
+    "id": "manual-01271",
+    "head": {
+      "devanagari": "",
+      "roman": "Esí"
+    },
+    "pos": "adv.",
+    "text": " \n esi \n adv. \n by this way \n by this way"
+  },
+  {
+    "id": "manual-01272",
+    "head": {
+      "devanagari": "",
+      "roman": "Esrú or -á"
+    },
+    "pos": "pro.",
+    "text": " \n esru or -a \n pro. \n of this \n of this \n m.; f. -i, pl. -e, of these"
+  },
+  {
+    "id": "manual-01273",
+    "head": {
+      "devanagari": "",
+      "roman": "Etaj"
+    },
+    "pos": "adv.",
+    "text": " \n etaj \n adv. \n see ethi \n see ethi"
+  },
+  {
+    "id": "manual-01274",
+    "head": {
+      "devanagari": "",
+      "roman": "Ethí or -á"
+    },
+    "pos": "adv.",
+    "text": " \n ethi or -a \n adv. \n here, at this place \n here, at this place"
+  },
+  {
+    "id": "manual-01275",
+    "head": {
+      "devanagari": "",
+      "roman": "Eti or -á"
+    },
+    "pos": "adv.",
+    "text": " \n eti or -a \n adv. \n here, at this place \n here, at this place"
+  },
+  {
+    "id": "manual-01276",
+    "head": {
+      "devanagari": "",
+      "roman": "Ethya-ágé"
+    },
+    "pos": "adv.",
+    "text": " \n ethya-age \n adv. \n hereafter, in the future \n hereafter, in the future"
+  },
+  {
+    "id": "manual-01277",
+    "head": {
+      "devanagari": "",
+      "roman": "Fábṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n fabnu \n v.i. re. \n (1) to get; (2) to meet \n (1) to get; (2) to meet \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01278",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáḍḍí"
+    },
+    "pos": "adj.",
+    "text": " \n faddi \n adj. \n the last \n the last"
+  },
+  {
+    "id": "manual-01279",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáḍí"
+    },
+    "pos": "n.m.",
+    "text": " \n fadi \n n.m. \n one whose turn is last on a walnut-game \n one whose turn is last on a walnut-game"
+  },
+  {
+    "id": "manual-01280",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáfrá"
+    },
+    "pos": "n.m.",
+    "text": " \n fafra \n n.m. \n a kind of coarse corn \n a kind of coarse corn"
+  },
+  {
+    "id": "manual-01281",
+    "head": {
+      "devanagari": "",
+      "roman": "Fá'g"
+    },
+    "pos": "n.m.",
+    "text": " \n fa'g \n n.m. \n the holi festival of the hindus \n the holi festival of the hindus"
+  },
+  {
+    "id": "manual-01282",
+    "head": {
+      "devanagari": "",
+      "roman": "Fággaṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n faggan \n n.m. \n the 10th hindu month, corresponding to february \n the 10th hindu month, corresponding to february"
+  },
+  {
+    "id": "manual-01283",
+    "head": {
+      "devanagari": "",
+      "roman": "Fai"
+    },
+    "pos": "n.f.",
+    "text": " \n fai \n n.f. \n a hanging \n a hanging"
+  },
+  {
+    "id": "manual-01284",
+    "head": {
+      "devanagari": "",
+      "roman": "Fair"
+    },
+    "pos": "n.f.",
+    "text": " \n fair \n n.f. \n the sound of a gun \n the sound of a gun \n -karni, v.t. re. to fire"
+  },
+  {
+    "id": "manual-01285",
+    "head": {
+      "devanagari": "",
+      "roman": "Faiwtá"
+    },
+    "pos": "n.m.",
+    "text": " \n faiwta \n n.m. \n a kind of jackal \n a kind of jackal \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01286",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáká"
+    },
+    "pos": "n.m.",
+    "text": " \n faka \n n.m. \n a mouthful of roasted gram \n a mouthful of roasted gram \n -marne, v.t. re. to chuck roasted grains into the mouth"
+  },
+  {
+    "id": "manual-01287",
+    "head": {
+      "devanagari": "",
+      "roman": "Fakhír"
+    },
+    "pos": "n.m.",
+    "text": " \n fakhir \n n.m. \n a mendicant \n a mendicant"
+  },
+  {
+    "id": "manual-01288",
+    "head": {
+      "devanagari": "",
+      "roman": "Fákí"
+    },
+    "pos": "n.f.",
+    "text": " \n faki \n n.f. \n complaint \n complaint"
+  },
+  {
+    "id": "manual-01289",
+    "head": {
+      "devanagari": "",
+      "roman": "Fal"
+    },
+    "pos": "n.m.",
+    "text": " \n fal \n n.m. \n (1) a fruit; (2) the result \n (1) a fruit; (2) the result"
+  },
+  {
+    "id": "manual-01290",
+    "head": {
+      "devanagari": "",
+      "roman": "Fál, fálí"
+    },
+    "pos": "n.m. and f.",
+    "text": " \n fal, fali \n n.m. and f. \n vomit \n vomit \n -awna or -awni, v.i. re. to vomit"
+  },
+  {
+    "id": "manual-01291",
+    "head": {
+      "devanagari": "",
+      "roman": "Falá"
+    },
+    "pos": "n.m.",
+    "text": " \n fala \n n.m. \n a plank \n a plank \n f. -i, a small plank; pl. -e"
+  },
+  {
+    "id": "manual-01292",
+    "head": {
+      "devanagari": "",
+      "roman": "Fálá"
+    },
+    "pos": "n.m.",
+    "text": " \n fala \n n.m. \n a share (of a plough) \n a share (of a plough)"
+  },
+  {
+    "id": "manual-01293",
+    "head": {
+      "devanagari": "",
+      "roman": "Falí"
+    },
+    "pos": "n.f.",
+    "text": " \n fali \n n.f. \n (1) a bean; (2) a small board \n (1) a bean; (2) a small board"
+  },
+  {
+    "id": "manual-01294",
+    "head": {
+      "devanagari": "",
+      "roman": "Falṭá"
+    },
+    "pos": "n.m.",
+    "text": " \n falta \n n.m. \n a small plank \n a small plank \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01295",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṇ"
+    },
+    "pos": "n.m.",
+    "text": " \n fan \n n.m. \n the extended hood of a cobra \n the extended hood of a cobra"
+  },
+  {
+    "id": "manual-01296",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṇá'r"
+    },
+    "pos": "n.m.",
+    "text": " \n fana'r \n n.m. \n a cobra \n a cobra"
+  },
+  {
+    "id": "manual-01297",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáňḍ"
+    },
+    "pos": "n.f.",
+    "text": " \n fand \n n.f. \n subscription \n subscription \n -pani, v.a. re. to subscribe"
+  },
+  {
+    "id": "manual-01298",
+    "head": {
+      "devanagari": "",
+      "roman": "Fandá"
+    },
+    "pos": "n.m.",
+    "text": " \n fanda \n n.m. \n a noose, a snare \n a noose, a snare"
+  },
+  {
+    "id": "manual-01299",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáňḍkí"
+    },
+    "pos": "n.f.",
+    "text": " \n fandki \n n.f. \n a present of edibles \n a present of edibles"
+  },
+  {
+    "id": "manual-01300",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáňḍṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n fandnu \n v.t. re. \n to divide, to distribute \n to divide, to distribute \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01301",
+    "head": {
+      "devanagari": "",
+      "roman": "Faňg"
+    },
+    "pos": "n.m.",
+    "text": " \n fang \n n.m. \n a jest \n a jest \n pl. -o"
+  },
+  {
+    "id": "manual-01302",
+    "head": {
+      "devanagari": "",
+      "roman": "Faňg-faráh"
+    },
+    "pos": "adj.",
+    "text": " \n fang-farah \n adj. \n cunning, deep \n cunning, deep"
+  },
+  {
+    "id": "manual-01303",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáň-in-yáṇ"
+    },
+    "pos": "n.f.",
+    "text": " \n fan-in-yan \n n.f. \n a kiss \n a kiss \n -leni, v.t. re. to kiss; -deni, v.t. re. to give a kiss"
+  },
+  {
+    "id": "manual-01304",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáṇ-ṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n fan-nu \n v.t. re. \n to card (wool) \n to card (wool)"
+  },
+  {
+    "id": "manual-01305",
+    "head": {
+      "devanagari": "",
+      "roman": "Far"
+    },
+    "pos": "n.f.",
+    "text": " \n far \n n.f. \n the sound of a bird's flight \n the sound of a bird's flight"
+  },
+  {
+    "id": "manual-01306",
+    "head": {
+      "devanagari": "",
+      "roman": "Faraňgí"
+    },
+    "pos": "n.m.",
+    "text": " \n farangi \n n.m. \n a european \n a european"
+  },
+  {
+    "id": "manual-01307",
+    "head": {
+      "devanagari": "",
+      "roman": "Faráwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n farawnu \n v.t. re. \n to cause to slit \n to cause to slit \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01308",
+    "head": {
+      "devanagari": "",
+      "roman": "Fard"
+    },
+    "pos": "n.f.",
+    "text": " \n fard \n n.f. \n a list \n a list"
+  },
+  {
+    "id": "manual-01309",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṛd"
+    },
+    "pos": "n.f.",
+    "text": " \n fard \n n.f. \n crookedness; -a, adj. crooked \n crookedness; -a, adj. crooked"
+  },
+  {
+    "id": "manual-01310",
+    "head": {
+      "devanagari": "",
+      "roman": "Fardú"
+    },
+    "pos": "n.m.",
+    "text": " \n fardu \n n.m. \n a hare \n a hare"
+  },
+  {
+    "id": "manual-01311",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṛí"
+    },
+    "pos": "n.f.",
+    "text": " \n fari \n n.f. \n the lungs \n the lungs"
+  },
+  {
+    "id": "manual-01312",
+    "head": {
+      "devanagari": "",
+      "roman": "Fark"
+    },
+    "pos": "n.m.",
+    "text": " \n fark \n n.m. \n difference \n difference \n -parnu, v.s. re. to find a difference; -deonu, v.i. re. to differ; -honu, v.i. re. to be different; -lagnu, v.i. re. to seem different"
+  },
+  {
+    "id": "manual-01313",
+    "head": {
+      "devanagari": "",
+      "roman": "Farká"
+    },
+    "pos": "n.m.",
+    "text": " \n farka \n n.m. \n the lap \n the lap \n -pana, v.t. re. to receive in one's lap. (also farku)"
+  },
+  {
+    "id": "manual-01314",
+    "head": {
+      "devanagari": "",
+      "roman": "Farkáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n farkawnu \n v.t. re. \n to cast, to throw \n to cast, to throw \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01315",
+    "head": {
+      "devanagari": "",
+      "roman": "Farkṇu"
+    },
+    "pos": "v.a. re.",
+    "text": " \n farknu \n v.a. re. \n to throb \n to throb \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01316",
+    "head": {
+      "devanagari": "",
+      "roman": "Farkuwé"
+    },
+    "pos": "adv.",
+    "text": " \n farkuwe \n adv. \n in the lap \n in the lap"
+  },
+  {
+    "id": "manual-01317",
+    "head": {
+      "devanagari": "",
+      "roman": "Farnáí"
+    },
+    "pos": "n.f.",
+    "text": " \n farnai \n n.f. \n a large saw \n a large saw"
+  },
+  {
+    "id": "manual-01318",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáṛṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n farnu \n v.t. re. \n to tear, to slit, to break \n to tear, to slit, to break"
+  },
+  {
+    "id": "manual-01319",
+    "head": {
+      "devanagari": "",
+      "roman": "Farráṭá"
+    },
+    "pos": "n.m.",
+    "text": " \n farrata \n n.m. \n a sound of flying \n a sound of flying"
+  },
+  {
+    "id": "manual-01320",
+    "head": {
+      "devanagari": "",
+      "roman": "Farrú"
+    },
+    "pos": "n.m.",
+    "text": " \n farru \n n.m. \n a hare \n a hare"
+  },
+  {
+    "id": "manual-01321",
+    "head": {
+      "devanagari": "",
+      "roman": "Fárshí"
+    },
+    "pos": "n.f.",
+    "text": " \n farshi \n n.f. \n (1) the persian language; (2) an artificial speech \n (1) the persian language; (2) an artificial speech"
+  },
+  {
+    "id": "manual-01322",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṛuwá"
+    },
+    "pos": "n.m.",
+    "text": " \n faruwa \n n.m. \n a mattock, a hoe \n a mattock, a hoe"
+  },
+  {
+    "id": "manual-01323",
+    "head": {
+      "devanagari": "",
+      "roman": "Fasháwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n fashawnu \n v.t. re. \n (1) to cause to entangle; (2) to put to trouble \n (1) to cause to entangle; (2) to put to trouble \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01324",
+    "head": {
+      "devanagari": "",
+      "roman": "Fashṇu"
+    },
+    "pos": "v.i. re.",
+    "text": " \n fashnu \n v.i. re. \n to entangle, to ensnare, to entrap \n to entangle, to ensnare, to entrap \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01325",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṭ"
+    },
+    "pos": "n.m.",
+    "text": " \n fat \n n.m. \n the act of cutting off with a sword \n the act of cutting off with a sword"
+  },
+  {
+    "id": "manual-01326",
+    "head": {
+      "devanagari": "",
+      "roman": "Fá't"
+    },
+    "pos": "n.m.",
+    "text": " \n fa't \n n.m. \n the width of a river \n the width of a river"
+  },
+  {
+    "id": "manual-01327",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṭáwṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n fatawnu \n v.t. re. \n to cause to break \n to cause to break \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01328",
+    "head": {
+      "devanagari": "",
+      "roman": "Faṭ-báí"
+    },
+    "pos": "n.m.",
+    "text": " \n fat-bai \n n.m. \n one who slays a goat or sheep \n one who slays a goat or sheep"
+  },
+  {
+    "id": "manual-01329",
+    "head": {
+      "devanagari": "",
+      "roman": "Fatebád"
+    },
+    "pos": "n.f.",
+    "text": " \n fatebad \n n.f. \n prosperity \n prosperity"
+  },
+  {
+    "id": "manual-01330",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáṭhṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n fathnu \n v.t. re. \n to seize, to put to trouble \n to seize, to put to trouble \n f. -i, pl. -e"
+  },
+  {
+    "id": "manual-01331",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáṭí or pháṭí"
+    },
+    "pos": "n.f.",
+    "text": " \n fati or phati \n n.f. \n (1) a term used for a group of from 15 to 20 hamlets (used in kullu); (2) -hundi, adj. broken \n (1) a term used for a group of from 15 to 20 hamlets (used in kullu); (2) -hundi, adj. broken"
+  },
+  {
+    "id": "manual-01332",
+    "head": {
+      "devanagari": "",
+      "roman": "Fáṭṇu"
+    },
+    "pos": "v.t. re.",
+    "text": " \n fatnu \n v.t. re. \n to break \n to break \n f. -i, pl. -e"
   }
 ]

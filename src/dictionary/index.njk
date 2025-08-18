@@ -21,6 +21,14 @@ title: Dictionary
   </div>
 
 <div id="list" class="grid"></div>
+<noscript>
+  <p class="muted">JavaScript is required for instant search. Below is a static list.</p>
+  <ul>
+    {% for e in dictionary | slice(0,100) %}
+      <li>{{ e.head.roman or e.head.devanagari }} — {{ (e.senses and e.senses[0].definition) or '' }}</li>
+    {% endfor %}
+  </ul>
+</noscript>
 <dialog id="detail">
   <article class="card" style="max-width:720px">
     <h3 id="d-head"></h3>
@@ -55,11 +63,31 @@ function norm(s){return (s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'')
 
 async function load(){
   const prefix = document.documentElement.dataset.prefix || '/';
-  const [data, idx] = await Promise.all([
-    fetch(prefix + 'data/dictionary.json').then(r=>r.json()).catch(()=>[]),
-    fetch(prefix + 'data/search-index.json').then(r=>r.json()).catch(()=>[])
-  ]);
-  entries = data; index = idx;
+  try {
+    const data = await fetch(prefix + 'data/dictionary.json').then(r=>r.json());
+    entries = Array.isArray(data) ? data : [];
+    // Simple inline text index to keep client smaller and avoid extra network fetch
+    index = entries.map(e => ({
+      id: e.id,
+      pos: e.pos || '',
+      text: norm([
+        e?.head?.devanagari || '',
+        e?.head?.roman || '',
+        ...(Array.isArray(e.senses) ? e.senses.flatMap(s => [s.gloss_en||'', s.definition||'', ...(Array.isArray(s.examples)? s.examples.flatMap(x=>[x.en||'', x.siraji||'']):[])]) : [])
+      ].join(' \n '))
+    }));
+  } catch (e) {
+    // Fallback to data embedded at build time (Eleventy data cascade)
+    entries = {{ dictionary | dump | safe }};
+    index = entries.map(e => ({
+      id: e.id,
+      pos: e.pos || '',
+      text: norm([
+        e?.head?.devanagari || '', e?.head?.roman || '',
+        ...(Array.isArray(e.senses) ? e.senses.flatMap(s => [s.gloss_en||'', s.definition||'']) : [])
+      ].join(' \n '))
+    }));
+  }
   render(filter(''));
 }
 
