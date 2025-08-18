@@ -125,6 +125,7 @@ async function writeIndexHtml(entries) {
         <p>Search the dictionary or browse works. Data comes from <code>mainDictionary.csv</code>.</p>
         <div class="search">
           <input id="q" type="search" placeholder="Search words, definitions…" autofocus />
+          <div class="search-controls"><label><input type="checkbox" id="charMode" /> Character match (min 3 chars)</label></div>
         </div>
         <div id="results" class="results"></div>
       </section>
@@ -178,6 +179,7 @@ async function writeDictionaryHtml(entries) {
     <main class="container">
       <section class="search">
         <input id="q" type="search" placeholder="Search words, definitions…" />
+        <div class="search-controls"><label><input type="checkbox" id="charMode" /> Character match (min 3 chars)</label></div>
         <div id="results" class="results"></div>
       </section>
       <div class="az-nav">${nav}</div>
@@ -186,6 +188,14 @@ async function writeDictionaryHtml(entries) {
     <nav class="az-float" aria-label="Jump to letter">
       ${buckets.map(([k]) => `<a href="#sec-${k}">${k}</a>`).join('')}
     </nav>
+    <script>
+      (function(){
+        const f = document.querySelector('.az-float');
+        function onScroll(){ if(!f) return; f.classList.toggle('show', window.scrollY > 240); }
+        onScroll();
+        window.addEventListener('scroll', onScroll, { passive: true });
+      })();
+    </script>
     <script type="module" src="../assets/search.js"></script>
   </body>
   </html>`;
@@ -297,6 +307,7 @@ body{margin:0;background:var(--bg);color:var(--text);font:16px system-ui,-apple-
 .container{max-width:960px;margin:0 auto;padding:1rem}
 .hero{padding:2rem 0}
 input[type=search]{width:100%;padding:.75rem 1rem;border-radius:.5rem;border:1px solid #334155;background:#0b1220;color:var(--text)}
+.search-controls{margin-top:.5rem;color:var(--muted);font-size:.9rem}
 .results{margin-top:1rem;display:grid;gap:.75rem}
 .result{padding:1rem;border:1px solid #1f2937;border-radius:.5rem;background:var(--panel)}
 .result .word{font-weight:600}
@@ -309,7 +320,8 @@ input[type=search]{width:100%;padding:.75rem 1rem;border-radius:.5rem;border:1px
 .ex,.ety{color:var(--muted);margin:.25rem 0}
 .az-nav{display:flex;flex-wrap:wrap;gap:.25rem;margin:1rem 0}
 .az-nav a{color:var(--muted);text-decoration:none;padding:.25rem .5rem;border:1px solid #1f2937;border-radius:.25rem}
-.az-float{position:fixed;right:12px;top:80px;display:flex;flex-direction:column;gap:4px;background:rgba(17,24,39,.6);backdrop-filter:saturate(120%) blur(6px);padding:6px;border-radius:8px;border:1px solid #1f2937;max-height:80vh;overflow:auto}
+.az-float{position:fixed;right:12px;top:80px;display:none;flex-direction:column;gap:4px;background:rgba(17,24,39,.6);backdrop-filter:saturate(120%) blur(6px);padding:6px;border-radius:8px;border:1px solid #1f2937;max-height:80vh;overflow:auto}
+.az-float.show{display:flex}
 .az-float a{color:#cbd5e1;text-decoration:none;font-size:12px;padding:2px 6px;border-radius:4px}
 .az-float a:hover{background:rgba(34,211,238,.15)}
 .prose-custom{color:#cbd5e1}
@@ -329,6 +341,7 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     "import lunr from 'https://cdn.jsdelivr.net/npm/lunr/+esm';",
     '',
     'const q = document.getElementById(\'q\');',
+    'const charMode = document.getElementById(\'charMode\');',
     'const resultsEl = document.getElementById(\'results\');',
     'let idx, docs;',
     '',
@@ -357,6 +370,18 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     'function onSearch() {',
     '  const term = q.value.trim();',
     "  if (!term) { resultsEl.innerHTML=''; return; }",
+    '  if (charMode && charMode.checked) {',
+    '    if (term.length < 3) { resultsEl.innerHTML = \'<div class="result">Type at least 3 characters for character match.</div>\'; return; }',
+    '    const low = term.toLowerCase();',
+    '    const out = [];',
+    '    for (const e of docs.values()) {',
+    '      const hay = (e.Word + " " + (e.Definition||"") + " " + (e.Examples_and_Notes||"")).toLowerCase();',
+    '      if (hay.includes(low)) out.push({ score: 1, doc: e });',
+    '      if (out.length >= 50) break;',
+    '    }',
+    '    render(out);',
+    '    return;',
+    '  }',
     '  const hits = idx.search(term).slice(0, 25);',
     '  const items = hits.map(function(h){ return { score: h.score, doc: docs.get(h.ref) }; }).filter(Boolean);',
     '  render(items);',
@@ -364,6 +389,7 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     '',
     'loadData();',
     "q && q.addEventListener('input', onSearch);",
+    "charMode && charMode.addEventListener('change', onSearch);",
   ];
   const searchJs = searchJsLines.join('\n');
   await writeFile(path.join(ASSETS_DIR, 'styles.css'), css, 'utf8');
