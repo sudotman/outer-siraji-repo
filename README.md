@@ -47,3 +47,72 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
 - site code: mit (unless noted otherwise).
 - content and data: see per-file attributions; some items may be public-domain or cc-licensed.
 
+
+
+It is not a formal pronunciation key but rather a list of examples that show how certain sounds are represented, often with their Devanagari script equivalents. Below is the extracted and cleaned-up information from that page.
+
+## Guide from Page 6
+This page provides examples to help understand the sounds and orthography used in the dictionary:
+
+ā as in Bishar (बिषर) and Bhyansar (भ्यांसर).
+
+āṅ as in Bhan (भान) Small coins.
+
+āṇḍ as in chandal (चाण्डाल) A wicked man.
+
+aiṅ as in Chains (भैंस) A buffalo.
+
+auṅ as in Kayň (कौङ) A Lotus.
+
+ḍh as in Kahunga (कढंगण) not well shaped.
+
+ch as in chachenu (चचेणु) To cry or scream.
+
+e as in Ser (सेर) = time.
+
+é as in Kafér (कफेर) Difficulty.
+
+o as in Goli (गोलि) I Apes II A bullet.
+
+ó as in Berī (बेड़ी) I Iron fetters II A boat.
+
+a as in Abalṛī (अबलड़ी) A small skin bag.
+
+o as in Kḍolī (क्डोली) Bread made of Koda.
+
+ṛn as in Barḍnu (बरड्णु) To walk, to go on.
+
+eṅ as in Keṅsī (केंन्सी) on which day?
+
+yā as in Byātr (ब्यात्र) A kind of tree.
+
+o as in Gór (गोर) = A Lizard.
+
+th as in Bātho (बाठो) A mad spirit which causes sickness.
+
+tā as in Katāī (कताई) The act of spinning.
+
+chā as in Kachāī (कचाई) The act of cutting.
+
+ū as in Būg (बूग) A cover.
+
+ā'k as in Bulā'k (कुलाक) A nose ring.
+
+wā as in Diwāň (दिवाण) The man who speaks on behalf of a deity.
+
+gl as in Āglā (आगला) The former.
+
+āṭ as in Bāṭ (बाट) A path.
+
+## Structure of the Dictionary Entries
+Following the guide, the main dictionary starts on page 8. The entries are structured in a consistent format:
+
+Word: The main entry word in the Pahari dialect, presented in bold.
+
+Part of Speech: An abbreviation for the word's grammatical function (e.g., n.m. for masculine noun, adj. for adjective, v.t. re. for transitive verb).
+
+Etymology: The origin of the word, if known, is given in parentheses, usually with the source language abbreviated (e.g., (S. ...) for Sanskrit, (H. ...) for Hindi).
+
+Definition: The English meaning of the word.
+
+Notes & Examples: Occasionally, an example of its use in a phrase or additional context is provided.
