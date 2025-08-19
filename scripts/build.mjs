@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFile, writeFile, mkdir, copyFile } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, copyFile, readdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { parse } from 'csv-parse/sync';
@@ -247,38 +247,193 @@ async function writeWorksHtml() {
 }
 
 async function writeResearchHtml() {
-  const researchDir = path.join(PUBLIC_DIR, 'research');
-  await ensureDir(researchDir);
+  // New research hub with per-topic pages
+  const researchPublicDir = path.join(PUBLIC_DIR, 'research');
+  await ensureDir(researchPublicDir);
   const contentDir = path.join(ROOT, 'content');
   await ensureDir(contentDir);
-  const researchSource = path.join(contentDir, 'research.html');
+  const researchContentDir = path.join(contentDir, 'research');
+  await ensureDir(researchContentDir);
 
-  let articleHtml = '';
-  if (existsSync(researchSource)) {
-    articleHtml = await readFile(researchSource, 'utf8');
-  } else {
-    // One-time migration: try to extract from landingPageSample.html
-    const sample = path.join(ROOT, 'landingPageSample.html');
-    if (existsSync(sample)) {
-      const content = await readFile(sample, 'utf8');
-      const startIdx = content.indexOf('<article');
-      const endIdx = content.indexOf('</article>');
-      if (startIdx !== -1 && endIdx !== -1) {
-        articleHtml = content.slice(startIdx, endIdx + '</article>'.length);
-      }
-    }
-    if (!articleHtml) {
-      articleHtml = '<article><h2>pahari Research</h2><p>Add your research content in content/research.html.</p></article>';
-    }
-    await writeFile(researchSource, articleHtml, 'utf8');
+  // Helper to make a safe slug
+  function slugify(s) {
+    return (
+      String(s || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '') || 'topic'
+    );
   }
 
-  const html = `<!DOCTYPE html>
+  // Load or create research config
+  const configPath = path.join(researchContentDir, 'index.json');
+  let config;
+  if (existsSync(configPath)) {
+    try {
+      const raw = await readFile(configPath, 'utf8');
+      config = JSON.parse(raw);
+    } catch {
+      config = { topics: [] };
+    }
+  } else {
+    // Bootstrap from legacy content/research.html if present
+    const legacy = path.join(contentDir, 'research.html');
+    let legacyHtml = '';
+    if (existsSync(legacy)) {
+      legacyHtml = await readFile(legacy, 'utf8');
+    } else {
+      // Fallback: attempt extraction from landing sample
+      const sample = path.join(ROOT, 'landingPageSample.html');
+      if (existsSync(sample)) {
+        const content = await readFile(sample, 'utf8');
+        const startIdx = content.indexOf('<article');
+        const endIdx = content.indexOf('</article>');
+        if (startIdx !== -1 && endIdx !== -1) {
+          legacyHtml = content.slice(startIdx, endIdx + '</article>'.length);
+        }
+      }
+    }
+    if (!legacyHtml) {
+      legacyHtml = '<article><h2>Outer Siraji — Research</h2><p>Add your research content in content/research/outer-siraji/index.html.</p></article>';
+    }
+    const defaultTopicDir = path.join(researchContentDir, 'outer-siraji');
+    await ensureDir(defaultTopicDir);
+    await writeFile(path.join(defaultTopicDir, 'index.html'), legacyHtml, 'utf8');
+    config = {
+      topics: [
+        {
+          id: 'outer-siraji',
+          title: 'Outer Siraji',
+          description: 'A linguistic and sociolinguistic profile with maps and references.',
+          hero: 'assets/outerSirajiSelection.jpeg'
+        }
+      ]
+    };
+    await writeFile(configPath, JSON.stringify(config, null, 2), 'utf8');
+  }
+
+  // Normalize topics list, discover titles if missing
+  const topics = Array.isArray(config?.topics) ? config.topics : [];
+  for (const t of topics) {
+    t.id = slugify(t.id || t.title);
+    // Ensure source html exists
+    const htmlDir = path.join(researchContentDir, t.id);
+    const htmlPathA = path.join(htmlDir, 'index.html');
+    const htmlPathB = path.join(researchContentDir, `${t.id}.html`);
+    let htmlExists = existsSync(htmlPathA) || existsSync(htmlPathB);
+    if (!htmlExists) {
+      const placeholder = `<article><h2>${t.title || 'Research'}</h2><p>Write content at content/research/${t.id}/index.html.</p></article>`;
+      await ensureDir(htmlDir);
+      await writeFile(htmlPathA, placeholder, 'utf8');
+      htmlExists = true;
+    }
+    // Derive title/summary from HTML if not provided
+    try {
+      const htmlPath = existsSync(htmlPathA) ? htmlPathA : htmlPathB;
+      const raw = await readFile(htmlPath, 'utf8');
+      if (!t.title) {
+        const m = raw.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || raw.match(/<h2[^>]*>([\s\S]*?)<\/h2>/i);
+        t.title = m ? String(m[1]).replace(/<[^>]+>/g, '').trim() : t.id;
+      }
+      if (!t.description) {
+        const p = raw.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+        t.description = p ? String(p[1]).replace(/<[^>]+>/g, '').trim().slice(0, 200) : '';
+      }
+    } catch {}
+  }
+
+  // Helper: copy hero/asset to topic public folder
+  async function copyHeroIfPresent(topic) {
+    if (!topic.hero) return null;
+    const topicPublicDir = path.join(researchPublicDir, topic.id);
+    const dest = path.join(topicPublicDir, topic.hero);
+    const destDir = path.dirname(dest);
+    await ensureDir(destDir);
+    const candidates = [
+      path.join(researchContentDir, topic.id, topic.hero),
+      path.join(ROOT, path.basename(topic.hero))
+    ];
+    for (const src of candidates) {
+      if (existsSync(src)) {
+        await copyFile(src, dest);
+        return dest;
+      }
+    }
+    return null;
+  }
+
+  // Helper: copy all files from content/research/<id>/assets to public/research/<id>/assets
+  async function copyAssetsDir(topicId) {
+    const srcDir = path.join(researchContentDir, topicId, 'assets');
+    if (!existsSync(srcDir)) return [];
+    const dstDir = path.join(researchPublicDir, topicId, 'assets');
+    await ensureDir(dstDir);
+    const files = await readdir(srcDir);
+    const out = [];
+    for (const f of files) {
+      const s = path.join(srcDir, f);
+      const d = path.join(dstDir, f);
+      await copyFile(s, d);
+      out.push(`assets/${f}`);
+    }
+    return out;
+  }
+
+  // Build topic pages
+  for (const topic of topics) {
+    const htmlPath = existsSync(path.join(researchContentDir, topic.id, 'index.html'))
+      ? path.join(researchContentDir, topic.id, 'index.html')
+      : path.join(researchContentDir, `${topic.id}.html`);
+    const articleHtml = await readFile(htmlPath, 'utf8');
+    const topicPublicDir = path.join(researchPublicDir, topic.id);
+    await ensureDir(topicPublicDir);
+    await copyAssetsDir(topic.id);
+    await copyHeroIfPresent(topic);
+
+    const topicHtml = `<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>pahari Research</title>
+    <title>${topic.title} · Research · pahari</title>
+    <link rel="stylesheet" href="../../assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1><a href="../../index.html">pahari</a> · Research · ${topic.title}</h1>
+      <nav>
+        <a href="../../index.html">Home</a>
+        <a href="../../dictionary/index.html">Dictionary</a>
+        <a href="../index.html" aria-current="page">Research</a>
+        <a href="../../appendix/index.html">Appendix</a>
+        <a href="../../works/index.html">Works</a>
+        <a href="https://github.com/sudotman/outer-siraji-repo" target="_blank" rel="noopener">Contribute</a>
+      </nav>
+    </header>
+    <main class="container">
+      ${topic.hero ? `<img class="hero-image" src="./${topic.hero}" alt="${topic.title} infographic" />` : ''}
+      <p class="meta"><a href="../index.html">← Back to Research</a></p>
+      <div class="prose-custom">${articleHtml}</div>
+    </main>
+  </body>
+  </html>`;
+    await writeFile(path.join(topicPublicDir, 'index.html'), topicHtml, 'utf8');
+  }
+
+  // Build research hub page
+  const cards = topics
+    .map((t) => {
+      const img = t.hero ? `<img class="thumb" src="./${t.id}/${t.hero}" alt="${t.title}" />` : '';
+      return `<article class="card">${img}<h3>${t.title}</h3><p>${t.description || ''}</p><p><a class="chip" href="./${t.id}/index.html">Open</a></p></article>`;
+    })
+    .join('\n');
+
+  const hubHtml = `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Research · pahari</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
@@ -294,14 +449,15 @@ async function writeResearchHtml() {
       </nav>
     </header>
     <main class="container">
-      <h2>pahari Research</h2>
-      <div class="prose-custom">
-        ${articleHtml}
-      </div>
+      <section class="hero">
+        <h2>Dialect selection</h2>
+        <p>Choose a topic to explore in-depth research, maps, and infographics.</p>
+      </section>
+      <div class="card-grid">${cards}</div>
     </main>
   </body>
   </html>`;
-  await writeFile(path.join(researchDir, 'index.html'), html, 'utf8');
+  await writeFile(path.join(researchPublicDir, 'index.html'), hubHtml, 'utf8');
 }
 
 async function writeAppendixHtml() {
@@ -395,6 +551,9 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
 .pill{display:inline-block;background:#0b1220;border:1px solid #334155;color:#cbd5e1;padding:.1rem .5rem;border-radius:999px;font-size:.75rem;margin-right:.5rem}
 .meta{color:var(--muted);font-size:.85rem}
 .prewrap{white-space:pre-wrap}
+/* Research imagery */
+.thumb{width:100%;height:180px;object-fit:cover;border-radius:.5rem;margin-bottom:.5rem;border:1px solid #1f2937}
+.hero-image{width:100%;max-height:520px;object-fit:contain;background:#0b1220;border:1px solid #1f2937;border-radius:.5rem;margin:1rem 0}
 `;
   const searchJsLines = [
     "import lunr from 'https://cdn.jsdelivr.net/npm/lunr/+esm';",
