@@ -1,0 +1,999 @@
+﻿orth,ipa,devanagari,note,sample_count
+r,r,र,per-letter fallback,783
+h,h,ह,per-letter fallback,631
+i,i,इ,per-letter fallback,394
+n,n,न,per-letter fallback,381
+u,u,उ,per-letter fallback,351
+t,t,त,per-letter fallback,304
+l,l,ल,per-letter fallback,263
+K,k,क,per-letter fallback,261
+k,k,क,per-letter fallback,236
+d,d,द,per-letter fallback,214
+nu,nu,नउ,per-letter fallback,182
+Kh,kʰ,ख,cluster rule,140
+N,n,न,per-letter fallback,139
+T,t,त,per-letter fallback,127
+wnu,wnu,वनउ,per-letter fallback,120
+D,d,द,per-letter fallback,114
+g,ɡ,ग,per-letter fallback,111
+G,ɡ,ग,per-letter fallback,111
+ri,ri,रइ,per-letter fallback,107
+kh,kʰ,ख,cluster rule,97
+R,r,र,per-letter fallback,74
+hi,hi,हइ,per-letter fallback,72
+L,l,ल,per-letter fallback,65
+li,li,लइ,per-letter fallback,61
+Dh,d̪ʱ,ध,cluster rule,61
+rnu,rnu,रनउ,per-letter fallback,57
+in,in,इन,per-letter fallback,57
+H,h,ह,per-letter fallback,52
+ra,ra,रअ,per-letter fallback,50
+Th,t̪ʰ,थ,cluster rule,49
+ni,ni,नइ,per-letter fallback,46
+w,w,व,per-letter fallback,46
+ng,ŋ,ङ,cluster rule,44
+hu,hu,हउ,per-letter fallback,43
+ru,ru,रउ,per-letter fallback,43
+ha,ha,हअ,per-letter fallback,40
+ti,ti,तइ,per-letter fallback,39
+ir,ir,इर,per-letter fallback,37
+un,un,उन,per-letter fallback,36
+la,la,लअ,per-letter fallback,33
+hnu,hnu,हनउ,per-letter fallback,31
+nd,nd,नद,per-letter fallback,31
+knu,knu,कनउ,per-letter fallback,29
+ur,ur,उर,per-letter fallback,26
+gh,ɡʱ,घ,cluster rule,26
+anu,anu,अनउ,per-letter fallback,24
+Gh,ɡʱ,घ,cluster rule,24
+lnu,lnu,लनउ,per-letter fallback,22
+dh,d̪ʱ,ध,cluster rule,22
+rn,rn,रन,per-letter fallback,22
+awnu,awnu,अवनउ,per-letter fallback,21
+ul,ul,उल,per-letter fallback,21
+U,u,उ,per-letter fallback,20
+tu,tu,तउ,per-letter fallback,19
+ki,ki,कइ,per-letter fallback,19
+ta,ta,तअ,per-letter fallback,18
+kr,kr,कर,per-letter fallback,17
+il,il,इल,per-letter fallback,17
+lu,lu,लउ,per-letter fallback,17
+'l,'l,ल,per-letter fallback,17
+uk,uk,उक,per-letter fallback,16
+tnu,tnu,तनउ,per-letter fallback,16
+hundu,hundu,हउनदउ,per-letter fallback,16
+an,an,अन,per-letter fallback,15
+rawnu,rawnu,रअवनउ,per-letter fallback,15
+ut,ut,उत,per-letter fallback,15
+Ni,ni,नइ,per-letter fallback,15
+hr,hr,हर,per-letter fallback,14
+na,na,नअ,per-letter fallback,14
+di,di,दइ,per-letter fallback,14
+',',,per-letter fallback,13
+nt,nt,नत,per-letter fallback,13
+y,j,य,per-letter fallback,13
+ku,ku,कउ,per-letter fallback,13
+nh,nh,नह,per-letter fallback,13
+Ti,ti,तइ,per-letter fallback,13
+ar,ar,अर,per-letter fallback,12
+iri,iri,इरइ,per-letter fallback,12
+hl,hl,हल,per-letter fallback,12
+uni,uni,उनइ,per-letter fallback,12
+'r,'r,र,per-letter fallback,12
+it,it,इत,per-letter fallback,12
+Tr,tr,तर,per-letter fallback,12
+ura,ura,उरअ,per-letter fallback,11
+ind,ind,इनद,per-letter fallback,11
+hri,hri,हरइ,per-letter fallback,11
+ud,ud,उद,per-letter fallback,11
+r k,r k,रक,per-letter fallback,11
+wi,wi,वइ,per-letter fallback,11
+rd,rd,रद,per-letter fallback,11
+Gu,ɡu,गउ,per-letter fallback,11
+Ka,ka,कअ,per-letter fallback,11
+Kr,kr,कर,per-letter fallback,11
+gi,ɡi,गइ,per-letter fallback,10
+ndr,ndr,नदर,per-letter fallback,10
+nk,nk,नक,per-letter fallback,10
+hk,hk,हक,per-letter fallback,10
+al,al,अल,per-letter fallback,10
+tt,tt,तत,per-letter fallback,10
+unu,unu,उनउ,per-letter fallback,10
+uri,uri,उरइ,per-letter fallback,10
+ik,ik,इक,per-letter fallback,10
+Da,da,दअ,per-letter fallback,10
+gr,ɡr,गर,per-letter fallback,10
+hara,hara,हअरअ,per-letter fallback,9
+ka,ka,कअ,per-letter fallback,9
+khi,kʰi,खइ,cluster+fallback,9
+und,und,उनद,per-letter fallback,9
+ht,ht,हत,per-letter fallback,9
+Du,du,दउ,per-letter fallback,9
+rk,rk,रक,per-letter fallback,9
+Ha,ha,हअ,per-letter fallback,9
+tr,tr,तर,per-letter fallback,9
+Khr,kʰr,खर,cluster+fallback,9
+A,a,अ,per-letter fallback,8
+han,han,हअन,per-letter fallback,8
+thi,t̪ʰi,थइ,cluster+fallback,8
+hir,hir,हइर,per-letter fallback,8
+'t,'t,त,per-letter fallback,8
+khu,kʰu,खउ,cluster+fallback,8
+wa,wa,वअ,per-letter fallback,8
+gnu,ɡnu,गनउ,per-letter fallback,8
+Hi,hi,हइ,per-letter fallback,8
+khr,kʰr,खर,cluster+fallback,8
+Ku,ku,कउ,per-letter fallback,8
+da,da,दअ,per-letter fallback,7
+hai,hai,हअइ,per-letter fallback,7
+nr,nr,नर,per-letter fallback,7
+ltu,ltu,लतउ,per-letter fallback,7
+kri,kri,करइ,per-letter fallback,7
+id,id,इद,per-letter fallback,7
+ukh,ukʰ,उख,cluster+fallback,7
+ndi,ndi,नदइ,per-letter fallback,6
+ya,ja,यअ,per-letter fallback,6
+tk,tk,तक,per-letter fallback,6
+tta,tta,ततअ,per-letter fallback,6
+hunda,hunda,हउनदअ,per-letter fallback,6
+uwnu,uwnu,उवनउ,per-letter fallback,6
+ak,ak,अक,per-letter fallback,6
+kl,kl,कल,per-letter fallback,6
+hit,hit,हइत,per-letter fallback,6
+ini,ini,इनइ,per-letter fallback,6
+'k,'k,क,per-letter fallback,6
+hin,hin,हइन,per-letter fallback,6
+nda,nda,नदअ,per-letter fallback,6
+'n,'n,न,per-letter fallback,6
+Dhi,d̪ʱi,धइ,cluster+fallback,6
+ngi,ŋi,ङइ,cluster+fallback,6
+rh,rh,रह,per-letter fallback,6
+I,i,इ,per-letter fallback,6
+yin,jin,यइन,per-letter fallback,6
+tri,tri,तरइ,per-letter fallback,6
+Khi,kʰi,खइ,cluster+fallback,6
+uh,uh,उह,per-letter fallback,6
+Nh,nh,नह,per-letter fallback,6
+hil,hil,हइल,per-letter fallback,6
+nn,nn,नन,per-letter fallback,5
+hra,hra,हरअ,per-letter fallback,5
+hag,haɡ,हअग,per-letter fallback,5
+hawnu,hawnu,हअवनउ,per-letter fallback,5
+dhu,d̪ʱu,धउ,cluster+fallback,5
+har,har,हअर,per-letter fallback,5
+thnu,t̪ʰnu,थनउ,cluster+fallback,5
+rt,rt,रत,per-letter fallback,5
+ih,ih,इह,per-letter fallback,5
+iya,ija,इयअ,per-letter fallback,5
+ug,uɡ,उग,per-letter fallback,5
+rni,rni,रनइ,per-letter fallback,5
+Di,di,दइ,per-letter fallback,5
+hru,hru,हरउ,per-letter fallback,5
+Ga,ɡa,गअ,per-letter fallback,5
+dnu,dnu,दनउ,per-letter fallback,5
+Gi,ɡi,गइ,per-letter fallback,5
+Gra,ɡra,गरअ,per-letter fallback,5
+Lu,lu,लउ,per-letter fallback,5
+Kal,kal,कअल,per-letter fallback,5
+lt,lt,लत,per-letter fallback,5
+Khl,kʰl,खल,cluster+fallback,5
+Khur,kʰur,खउर,cluster+fallback,5
+Ki,ki,कइ,per-letter fallback,5
+rg,rɡ,रग,per-letter fallback,5
+lh,lh,लह,per-letter fallback,5
+Nr,nr,नर,per-letter fallback,5
+tl,tl,तल,per-letter fallback,5
+Ri,ri,रइ,per-letter fallback,5
+Ru,ru,रउ,per-letter fallback,5
+Tu,tu,तउ,per-letter fallback,5
+ghu,ɡʱu,घउ,cluster+fallback,5
+dk,dk,दक,per-letter fallback,4
+dri,dri,दरइ,per-letter fallback,4
+ari,ari,अरइ,per-letter fallback,4
+ukhi,ukʰi,उखइ,cluster+fallback,4
+akh,akʰ,अख,cluster+fallback,4
+kil,kil,कइल,per-letter fallback,4
+kra,kra,करअ,per-letter fallback,4
+lla,lla,ललअ,per-letter fallback,4
+tha,t̪ʰa,थअ,cluster+fallback,4
+hukh,hukʰ,हउख,cluster+fallback,4
+ikh,ikʰ,इख,cluster+fallback,4
+hka,hka,हकअ,per-letter fallback,4
+aka,aka,अकअ,per-letter fallback,4
+kawnu,kawnu,कअवनउ,per-letter fallback,4
+aw,aw,अव,per-letter fallback,4
+hik,hik,हइक,per-letter fallback,4
+ing,iŋ,इङ,cluster+fallback,4
+irnu,irnu,इरनउ,per-letter fallback,4
+lti,lti,लतइ,per-letter fallback,4
+rti,rti,रतइ,per-letter fallback,4
+Dhur,d̪ʱur,धउर,cluster+fallback,4
+Dhun,d̪ʱun,धउन,cluster+fallback,4
+Dhu,d̪ʱu,धउ,cluster+fallback,4
+wan,wan,वअन,per-letter fallback,4
+hli,hli,हलइ,per-letter fallback,4
+rtu,rtu,रतउ,per-letter fallback,4
+khir,kʰir,खइर,cluster+fallback,4
+gu,ɡu,गउ,per-letter fallback,4
+lni,lni,लनइ,per-letter fallback,4
+Gha,ɡʱa,घअ,cluster+fallback,4
+ngh,ŋh,ङह,cluster+fallback,4
+Gul,ɡul,गउल,per-letter fallback,4
+Guwa,ɡuwa,गउवअ,per-letter fallback,4
+dd,dd,दद,per-letter fallback,4
+gni,ɡni,गनइ,per-letter fallback,4
+nyin,ɲin,ञइन,cluster+fallback,4
+In,in,इन,per-letter fallback,4
+hur,hur,हउर,per-letter fallback,4
+udh,ud̪ʱ,उध,cluster+fallback,4
+rkh,rkʰ,रख,cluster+fallback,4
+Kd,kd,कद,per-letter fallback,4
+r kh,r kʰ,रख,cluster+fallback,4
+Kun,kun,कउन,per-letter fallback,4
+kw,kw,कव,per-letter fallback,4
+Li,li,लइ,per-letter fallback,4
+du,du,दउ,per-letter fallback,4
+hn,hn,हन,per-letter fallback,4
+Nih,nih,नइह,per-letter fallback,4
+Tin,tin,तइन,per-letter fallback,4
+Ag,aɡ,अग,per-letter fallback,3
+gg,ɡɡ,गग,per-letter fallback,3
+ila,ila,इलअ,per-letter fallback,3
+An,an,अन,per-letter fallback,3
+ndh,nd̪ʱ,नध,cluster+fallback,3
+Ani,ani,अनइ,per-letter fallback,3
+nw,nw,नव,per-letter fallback,3
+kla,kla,कलअ,per-letter fallback,3
+rki,rki,रकइ,per-letter fallback,3
+hanu,hanu,हअनउ,per-letter fallback,3
+dar,dar,दअर,per-letter fallback,3
+dha,d̪ʱa,धअ,cluster+fallback,3
+dru,dru,दरउ,per-letter fallback,3
+ria,ria,रइअ,per-letter fallback,3
+lana,lana,लअनअ,per-letter fallback,3
+gawnu,ɡawnu,गअवनउ,per-letter fallback,3
+had,had,हअद,per-letter fallback,3
+halu,halu,हअलउ,per-letter fallback,3
+handa,handa,हअनदअ,per-letter fallback,3
+hati,hati,हअतइ,per-letter fallback,3
+nru,nru,नरउ,per-letter fallback,3
+hul,hul,हउल,per-letter fallback,3
+hulnu,hulnu,हउलनउ,per-letter fallback,3
+hun,hun,हउन,per-letter fallback,3
+hy,hj,हय,per-letter fallback,3
+hyan,hjan,हयअन,per-letter fallback,3
+hya,hja,हयअ,per-letter fallback,3
+ig,iɡ,इग,per-letter fallback,3
+ndri,ndri,नदरइ,per-letter fallback,3
+iu,iu,इउ,per-letter fallback,3
+rag,raɡ,रअग,per-letter fallback,3
+kt,kt,कत,per-letter fallback,3
+ad,ad,अद,per-letter fallback,3
+kk,kk,कक,per-letter fallback,3
+rhnu,rhnu,रहनउ,per-letter fallback,3
+lwnu,lwnu,लवनउ,per-letter fallback,3
+at,at,अत,per-letter fallback,3
+hiknu,hiknu,हइकनउ,per-letter fallback,3
+hw,hw,हव,per-letter fallback,3
+inwnu,inwnu,इनवनउ,per-letter fallback,3
+ga,ɡa,गअ,per-letter fallback,3
+lta,lta,लतअ,per-letter fallback,3
+rin,rin,रइन,per-letter fallback,3
+ugh,uɡʱ,उघ,cluster+fallback,3
+ui,ui,उइ,per-letter fallback,3
+urk,urk,उरक,per-letter fallback,3
+Dak,dak,दअक,per-letter fallback,3
+lawnu,lawnu,लअवनउ,per-letter fallback,3
+Dan,dan,दअन,per-letter fallback,3
+rknu,rknu,रकनउ,per-letter fallback,3
+ld,ld,लद,per-letter fallback,3
+ula,ula,उलअ,per-letter fallback,3
+Din,din,दइन,per-letter fallback,3
+Dr,dr,दर,per-letter fallback,3
+Dur,dur,दउर,per-letter fallback,3
+rka,rka,रकअ,per-letter fallback,3
+ruwa,ruwa,रउवअ,per-letter fallback,3
+tawnu,tawnu,तअवनउ,per-letter fallback,3
+ai,ai,अइ,per-letter fallback,3
+uli,uli,उलइ,per-letter fallback,3
+utnu,utnu,उतनउ,per-letter fallback,3
+Gad,ɡad,गअद,per-letter fallback,3
+nawnu,nawnu,नअवनउ,per-letter fallback,3
+'d,'d,द,per-letter fallback,3
+Lun,lun,लउन,per-letter fallback,3
+r hi,r hi,रहइ,per-letter fallback,3
+itnu,itnu,इतनउ,per-letter fallback,3
+iw,iw,इव,per-letter fallback,3
+tir,tir,तइर,per-letter fallback,3
+uth,ut̪ʰ,उथ,cluster+fallback,3
+uti,uti,उतइ,per-letter fallback,3
+dr,dr,दर,per-letter fallback,3
+Khir,kʰir,खइर,cluster+fallback,3
+Khul,kʰul,खउल,cluster+fallback,3
+Kil,kil,कइल,per-letter fallback,3
+wla,wla,वलअ,per-letter fallback,3
+hund,hund,हउनद,per-letter fallback,3
+inu,inu,इनउ,per-letter fallback,3
+rig,riɡ,रइग,per-letter fallback,3
+Rh,rh,रह,per-letter fallback,3
+hing,hiŋ,हइङ,cluster+fallback,3
+ruwnu,ruwnu,रउवनउ,per-letter fallback,3
+Tik,tik,तइक,per-letter fallback,3
+Til,til,तइल,per-letter fallback,3
+Ut,ut,उत,per-letter fallback,3
+W,w,व,per-letter fallback,3
+lit,lit,लइत,per-letter fallback,3
+Ad,ad,अद,per-letter fallback,2
+agr,aɡr,अगर,per-letter fallback,2
+kht,kʰt,खत,cluster+fallback,2
+Alu,alu,अलउ,per-letter fallback,2
+ndha,nd̪ʱa,नधअ,cluster+fallback,2
+nri,nri,नरइ,per-letter fallback,2
+Ari,ari,अरइ,per-letter fallback,2
+ukha,ukʰa,उखअ,cluster+fallback,2
+haw,haw,हअव,per-letter fallback,2
+dhnu,d̪ʱnu,धनउ,cluster+fallback,2
+ahnu,ahnu,अहनउ,per-letter fallback,2
+rat,rat,रअत,per-letter fallback,2
+ithnu,it̪ʰnu,इथनउ,cluster+fallback,2
+ky,kj,कय,per-letter fallback,2
+thu,t̪ʰu,थउ,cluster+fallback,2
+hain,hain,हअइन,per-letter fallback,2
+hala,hala,हअलअ,per-letter fallback,2
+lk,lk,लक,per-letter fallback,2
+lli,lli,ललइ,per-letter fallback,2
+hand,hand,हअनद,per-letter fallback,2
+hang,haŋ,हअङ,cluster+fallback,2
+hatu,hatu,हअतउ,per-letter fallback,2
+hau,hau,हअउ,per-letter fallback,2
+haun,haun,हअउन,per-letter fallback,2
+hla,hla,हलअ,per-letter fallback,2
+kha,kʰa,खअ,cluster+fallback,2
+c,k,क,per-letter fallback,2
+igh,iɡʱ,इघ,cluster+fallback,2
+inda,inda,इनदअ,per-letter fallback,2
+ulak,ulak,उलअक,per-letter fallback,2
+liya,lija,लइयअ,per-letter fallback,2
+idya,idja,इदयअ,per-letter fallback,2
+'ti,'ti,तइ,per-letter fallback,2
+wara,wara,वअरअ,per-letter fallback,2
+uda,uda,उदअ,per-letter fallback,2
+yali,jali,यअलइ,per-letter fallback,2
+utra,utra,उतरअ,per-letter fallback,2
+ah,ah,अह,per-letter fallback,2
+aki,aki,अकइ,per-letter fallback,2
+ala,ala,अलअ,per-letter fallback,2
+nal,nal,नअल,per-letter fallback,2
+a'n,a'n,अन,per-letter fallback,2
+and,and,अनद,per-letter fallback,2
+ran,ran,रअन,per-letter fallback,2
+tiknu,tiknu,तइकनउ,per-letter fallback,2
+atnu,atnu,अतनउ,per-letter fallback,2
+wr,wr,वर,per-letter fallback,2
+hadnu,hadnu,हअदनउ,per-letter fallback,2
+ha'l,ha'l,हअल,per-letter fallback,2
+hilnu,hilnu,हइलनउ,per-letter fallback,2
+hirki,hirki,हइरकइ,per-letter fallback,2
+kuw,kuw,कउव,per-letter fallback,2
+hunwnu,hunwnu,हउनवनउ,per-letter fallback,2
+hutnu,hutnu,हउतनउ,per-letter fallback,2
+hyura,hjura,हयउरअ,per-letter fallback,2
+ita,ita,इतअ,per-letter fallback,2
+rwnu,rwnu,रवनउ,per-letter fallback,2
+hwnu,hwnu,हवनउ,per-letter fallback,2
+rai,rai,रअइ,per-letter fallback,2
+ugnu,uɡnu,उगनउ,per-letter fallback,2
+uknu,uknu,उकनउ,per-letter fallback,2
+undi,undi,उनदइ,per-letter fallback,2
+undu,undu,उनदउ,per-letter fallback,2
+ungu,uŋu,उङउ,cluster+fallback,2
+lani,lani,लअनइ,per-letter fallback,2
+urnu,urnu,उरनउ,per-letter fallback,2
+Da',da',दअ,per-letter fallback,2
+Da'g,da'ɡ,दअग,per-letter fallback,2
+Dah,dah,दअह,per-letter fallback,2
+inh,inh,इनह,per-letter fallback,2
+nni,nni,ननइ,per-letter fallback,2
+lki,lki,लकइ,per-letter fallback,2
+Dana,dana,दअनअ,per-letter fallback,2
+Dand,dand,दअनद,per-letter fallback,2
+Dar,dar,दअर,per-letter fallback,2
+Daru,daru,दअरउ,per-letter fallback,2
+r d,r d,रद,per-letter fallback,2
+Dha,d̪ʱa,धअ,cluster+fallback,2
+Dhaka,d̪ʱaka,धअकअ,cluster+fallback,2
+Dhalnu,d̪ʱalnu,धअलनउ,cluster+fallback,2
+Dhan,d̪ʱan,धअन,cluster+fallback,2
+rala,rala,रअलअ,per-letter fallback,2
+Dhinga,d̪ʱiŋa,धइङअ,cluster+fallback,2
+Dhink,d̪ʱink,धइनक,cluster+fallback,2
+hlu,hlu,हलउ,per-letter fallback,2
+Dhyan,d̪ʱjan,धयअन,cluster+fallback,2
+lri,lri,लरइ,per-letter fallback,2
+Dru,dru,दरउ,per-letter fallback,2
+Dunu,dunu,दउनउ,per-letter fallback,2
+Dwar,dwar,दवअर,per-letter fallback,2
+ag,aɡ,अग,per-letter fallback,2
+a'g,a'ɡ,अग,per-letter fallback,2
+ali,ali,अलइ,per-letter fallback,2
+arnu,arnu,अरनउ,per-letter fallback,2
+a't,a't,अत,per-letter fallback,2
+ati,ati,अतइ,per-letter fallback,2
+wanu,wanu,वअनउ,per-letter fallback,2
+hknu,hknu,हकनउ,per-letter fallback,2
+itt,itt,इतत,per-letter fallback,2
+Gadi,ɡadi,गअदइ,per-letter fallback,2
+lg,lɡ,लग,per-letter fallback,2
+rwi,rwi,रवइ,per-letter fallback,2
+r g,r ɡ,रग,per-letter fallback,2
+Ghar,ɡʱar,घअर,cluster+fallback,2
+Ghat,ɡʱat,घअत,cluster+fallback,2
+Gin,ɡin,गइन,per-letter fallback,2
+Giri,ɡiri,गइरइ,per-letter fallback,2
+rila,rila,रइलअ,per-letter fallback,2
+r G,r ɡ,रग,per-letter fallback,2
+Gr,ɡr,गर,per-letter fallback,2
+Gun,ɡun,गउन,per-letter fallback,2
+r h,r h,रह,per-letter fallback,2
+lka,lka,लकअ,per-letter fallback,2
+lwa,lwa,लवअ,per-letter fallback,2
+Lugru,luɡru,लउगरउ,per-letter fallback,2
+Luknu,luknu,लउकनउ,per-letter fallback,2
+Luku,luku,लउकउ,per-letter fallback,2
+luku,luku,लउकउ,per-letter fallback,2
+Luktli,luktli,लउकतलइ,per-letter fallback,2
+Lund,lund,लउनद,per-letter fallback,2
+Lunkr,lunkr,लउनकर,per-letter fallback,2
+Lw,lw,लव,per-letter fallback,2
+ia,ia,इअ,per-letter fallback,2
+hurnu,hurnu,हउरनउ,per-letter fallback,2
+ngawnu,ŋawnu,ङअवनउ,cluster+fallback,2
+ngni,ŋni,ङनइ,cluster+fallback,2
+nguni,ŋuni,ङउनइ,cluster+fallback,2
+ngnu,ŋnu,ङनउ,cluster+fallback,2
+Hur,hur,हउर,per-letter fallback,2
+Hyun,hjun,हयउन,per-letter fallback,2
+aga,aɡa,अगअ,per-letter fallback,2
+yal,jal,यअल,per-letter fallback,2
+ani,ani,अनइ,per-letter fallback,2
+'ru,'ru,रउ,per-letter fallback,2
+hutth,hutt̪ʰ,हउतथ,cluster+fallback,2
+hwar,hwar,हवअर,per-letter fallback,2
+iknu,iknu,इकनउ,per-letter fallback,2
+iku,iku,इकउ,per-letter fallback,2
+awu,awu,अवउ,per-letter fallback,2
+itu,itu,इतउ,per-letter fallback,2
+yun,jun,यउन,per-letter fallback,2
+rir,rir,रइर,per-letter fallback,2
+inth,int̪ʰ,इनथ,cluster+fallback,2
+uhr,uhr,उहर,per-letter fallback,2
+ili,ili,इलइ,per-letter fallback,2
+r ku,r ku,रकउ,per-letter fallback,2
+wli,wli,वलइ,per-letter fallback,2
+Kdi,kdi,कदइ,per-letter fallback,2
+lwi,lwi,लवइ,per-letter fallback,2
+lr,lr,लर,per-letter fallback,2
+nti,nti,नतइ,per-letter fallback,2
+wni,wni,वनइ,per-letter fallback,2
+Khil,kʰil,खइल,cluster+fallback,2
+Khind,kʰind,खइनद,cluster+fallback,2
+Khindi,kʰindi,खइनदइ,cluster+fallback,2
+Khrid,kʰrid,खरइद,cluster+fallback,2
+nth,nt̪ʰ,नथ,cluster+fallback,2
+Khud,kʰud,खउद,cluster+fallback,2
+Khund,kʰund,खउनद,cluster+fallback,2
+Kin,kin,कइन,per-letter fallback,2
+wt,wt,वत,per-letter fallback,2
+rhi,rhi,रहइ,per-letter fallback,2
+tru,tru,तरउ,per-letter fallback,2
+htu,htu,हतउ,per-letter fallback,2
+Kund,kund,कउनद,per-letter fallback,2
+Kunk,kunk,कउनक,per-letter fallback,2
+Kw,kw,कव,per-letter fallback,2
+khnu,kʰnu,खनउ,cluster+fallback,2
+Lh,lh,लह,per-letter fallback,2
+Lhu,lhu,लहउ,per-letter fallback,2
+Likh,likʰ,लइख,cluster+fallback,2
+nhn,nhn,नहन,per-letter fallback,2
+ith,it̪ʰ,इथ,cluster+fallback,2
+kni,kni,कनइ,per-letter fallback,2
+undri,undri,उनदरइ,per-letter fallback,2
+unn,unn,उनन,per-letter fallback,2
+wk,wk,वक,per-letter fallback,2
+wul,wul,वउल,per-letter fallback,2
+Nhr,nhr,नहर,per-letter fallback,2
+Nry,nrj,नरय,per-letter fallback,2
+Ny,ɲ,ञ,cluster rule,2
+nih,nih,नइह,per-letter fallback,2
+nkh,nkʰ,नख,cluster+fallback,2
+wn,wn,वन,per-letter fallback,2
+Rirk,rirk,रइरक,per-letter fallback,2
+Rit,rit,रइत,per-letter fallback,2
+hunht,hunht,हउनहत,per-letter fallback,2
+idh,id̪ʱ,इध,cluster+fallback,2
+inwni,inwni,इनवनइ,per-letter fallback,2
+urg,urɡ,उरग,per-letter fallback,2
+khtu,kʰtu,खतउ,cluster+fallback,2
+khl,kʰl,खल,cluster+fallback,2
+wl,wl,वल,per-letter fallback,2
+luwnu,luwnu,लउवनउ,per-letter fallback,2
+kuwnu,kuwnu,कउवनउ,per-letter fallback,2
+Tir,tir,तइर,per-letter fallback,2
+Tiri,tiri,तइरइ,per-letter fallback,2
+Tl,tl,तल,per-letter fallback,2
+Ukh,ukʰ,उख,cluster+fallback,2
+irn,irn,इरन,per-letter fallback,2
+gw,ɡw,गव,per-letter fallback,2
+tid,tid,तइद,per-letter fallback,2
+dih,dih,दइह,per-letter fallback,2
+dhw,d̪ʱw,धव,cluster+fallback,2
+huk,huk,हउक,per-letter fallback,2
+huri,huri,हउरइ,per-letter fallback,2
+kud,kud,कउद,per-letter fallback,2
+kuk,kuk,कउक,per-letter fallback,2
+tit,tit,तइत,per-letter fallback,2
+nuh,nuh,नउह,per-letter fallback,2
+til,til,तइल,per-letter fallback,2
+uru,uru,उरउ,per-letter fallback,2
+dda,dda,ददअ,per-letter fallback,1
+Adhu,ad̪ʱu,अधउ,cluster+fallback,1
+r Adh,r ad̪ʱ,रअध,cluster+fallback,1
+Adh,ad̪ʱ,अध,cluster+fallback,1
+Aga,aɡa,अगअ,per-letter fallback,1
+rdan,rdan,रदअन,per-letter fallback,1
+Agg,aɡɡ,अगग,per-letter fallback,1
+Agr,aɡr,अगर,per-letter fallback,1
+Ah,ah,अह,per-letter fallback,1
+Ahlu,ahlu,अहलउ,per-letter fallback,1
+inthnu,int̪ʰnu,इनथनउ,cluster+fallback,1
+kkh,kkʰ,कख,cluster+fallback,1
+gawna,ɡawna,गअवनअ,per-letter fallback,1
+dhundh,d̪ʱund̪ʱ,धउनध,cluster+fallback,1
+takhnu,takʰnu,तअखनउ,cluster+fallback,1
+Ant,ant,अनत,per-letter fallback,1
+Ar,ar,अर,per-letter fallback,1
+Ara,ara,अरअ,per-letter fallback,1
+rha,rha,रहअ,per-letter fallback,1
+Aru,aru,अरउ,per-letter fallback,1
+hiya,hija,हइयअ,per-letter fallback,1
+ath,at̪ʰ,अथ,cluster+fallback,1
+thwara,t̪ʰwara,थवअरअ,cluster+fallback,1
+Aw,aw,अव,per-letter fallback,1
+Awi,awi,अवइ,per-letter fallback,1
+wun,wun,वउन,per-letter fallback,1
+wru,wru,वरउ,per-letter fallback,1
+annu,annu,अननउ,per-letter fallback,1
+hawun,hawun,हअवउन,per-letter fallback,1
+daru,daru,दअरउ,per-letter fallback,1
+dhawnu,d̪ʱawnu,धअवनउ,cluster+fallback,1
+dhku,d̪ʱku,धकउ,cluster+fallback,1
+dli,dli,दलइ,per-letter fallback,1
+dlina,dlina,दलइनअ,per-letter fallback,1
+dra,dra,दरअ,per-letter fallback,1
+adu,adu,अदउ,per-letter fallback,1
+duk,duk,दउक,per-letter fallback,1
+agu,aɡu,अगउ,per-letter fallback,1
+gana,ɡana,गअनअ,per-letter fallback,1
+gar,ɡar,गअर,per-letter fallback,1
+garu,ɡaru,गअरउ,per-letter fallback,1
+agi,aɡi,अगइ,per-letter fallback,1
+gt,ɡt,गत,per-letter fallback,1
+gti,ɡti,गतइ,per-letter fallback,1
+aih,aih,अइह,per-letter fallback,1
+lan,lan,लअन,per-letter fallback,1
+ailli,ailli,अइललइ,per-letter fallback,1
+andk,andk,अनदक,per-letter fallback,1
+andku,andku,अनदकउ,per-letter fallback,1
+ntri,ntri,नतरइ,per-letter fallback,1
+uwa,uwa,उवअ,per-letter fallback,1
+akkh,akkʰ,अकख,cluster+fallback,1
+akth,akt̪ʰ,अकथ,cluster+fallback,1
+khiya,kʰija,खइयअ,cluster+fallback,1
+khy,kʰj,खय,cluster+fallback,1
+uwan,uwan,उवअन,per-letter fallback,1
+aklu,aklu,अकलउ,per-letter fallback,1
+kratha,krat̪ʰa,करअथअ,cluster+fallback,1
+ktu,ktu,कतउ,per-letter fallback,1
+lah,lah,लअह,per-letter fallback,1
+ttu,ttu,ततउ,per-letter fallback,1
+hadu,hadu,हअदउ,per-letter fallback,1
+uw,uw,उव,per-letter fallback,1
+hagnu,haɡnu,हअगनउ,per-letter fallback,1
+lawa,lawa,लअवअ,per-letter fallback,1
+halnu,halnu,हअलनउ,per-letter fallback,1
+handnu,handnu,हअनदनउ,per-letter fallback,1
+hankhri,hankʰri,हअनखरइ,cluster+fallback,1
+hari,hari,हअरइ,per-letter fallback,1
+ruwanu,ruwanu,रउवअनउ,per-letter fallback,1
+hakh,hakʰ,हअख,cluster+fallback,1
+hat,hat,हअत,per-letter fallback,1
+ha't,ha't,हअत,per-letter fallback,1
+tangru,taŋru,तअङरउ,cluster+fallback,1
+hath,hat̪ʰ,हअथ,cluster+fallback,1
+ndar,ndar,नदअर,per-letter fallback,1
+ndari,ndari,नदअरइ,per-letter fallback,1
+hikh,hikʰ,हइख,cluster+fallback,1
+hirnu,hirnu,हइरनउ,per-letter fallback,1
+hithka,hit̪ʰka,हइथकअ,cluster+fallback,1
+hithla,hit̪ʰla,हइथलअ,cluster+fallback,1
+ntha,nt̪ʰa,नथअ,cluster+fallback,1
+ngrnu,ŋrnu,ङरनउ,cluster+fallback,1
+hryun,hrjun,हरयउन,per-letter fallback,1
+huin,huin,हउइन,per-letter fallback,1
+hulka,hulka,हउलकअ,per-letter fallback,1
+ral,ral,रअल,per-letter fallback,1
+iah,iah,इअह,per-letter fallback,1
+idana,idana,इदअनअ,per-letter fallback,1
+idhni,id̪ʱni,इधनइ,cluster+fallback,1
+idhnu,id̪ʱnu,इधनउ,cluster+fallback,1
+ikr,ikr,इकर,per-letter fallback,1
+ilkhnu,ilkʰnu,इलखनउ,cluster+fallback,1
+ina,ina,इनअ,per-letter fallback,1
+inay,inaj,इनअय,per-letter fallback,1
+indi,indi,इनदइ,per-letter fallback,1
+inhu,inhu,इनहउ,per-letter fallback,1
+indku,indku,इनदकउ,per-letter fallback,1
+indlu,indlu,इनदलउ,per-letter fallback,1
+tara,tara,तअरअ,per-letter fallback,1
+ingu,iŋu,इङउ,cluster+fallback,1
+tang,taŋ,तअङ,cluster+fallback,1
+iy,ij,इय,per-letter fallback,1
+la'k,la'k,लअक,per-letter fallback,1
+lawla,lawla,लअवलअ,per-letter fallback,1
+tiya,tija,तइयअ,per-letter fallback,1
+ragi,raɡi,रअगइ,per-letter fallback,1
+ragg,raɡɡ,रअगग,per-letter fallback,1
+rati,rati,रअतइ,per-letter fallback,1
+uara,uara,उअरअ,per-letter fallback,1
+uddh,udd̪ʱ,उदध,cluster+fallback,1
+hnwala,hnwala,हनवअलअ,per-letter fallback,1
+ulanu,ulanu,उलअनउ,per-letter fallback,1
+lagna,laɡna,लअगनअ,per-letter fallback,1
+ghalni,ɡʱalni,घअलनइ,cluster+fallback,1
+lagni,laɡni,लअगनइ,per-letter fallback,1
+wa'l,wa'l,वअल,per-letter fallback,1
+walnu,walnu,वअलनउ,per-letter fallback,1
+yalk,jalk,यअलक,per-letter fallback,1
+yalku,jalku,यअलकउ,per-letter fallback,1
+yalki,jalki,यअलकइ,per-letter fallback,1
+yalti,jalti,यअलतइ,per-letter fallback,1
+yanhda,janhda,यअनहदअ,per-letter fallback,1
+adr,adr,अदर,per-letter fallback,1
+grnu,ɡrnu,गरनउ,per-letter fallback,1
+akhnu,akʰnu,अखनउ,cluster+fallback,1
+kka,kka,ककअ,per-letter fallback,1
+akla,akla,अकलअ,per-letter fallback,1
+akri,akri,अकरइ,per-letter fallback,1
+akru,akru,अकरउ,per-letter fallback,1
+aku,aku,अकउ,per-letter fallback,1
+a'l,a'l,अल,per-letter fallback,1
+alu,alu,अलउ,per-letter fallback,1
+gad,ɡad,गअद,per-letter fallback,1
+ndal,ndal,नदअल,per-letter fallback,1
+nga,ŋa,ङअ,cluster+fallback,1
+ang,aŋ,अङ,cluster+fallback,1
+nknu,nknu,नकनउ,per-letter fallback,1
+anna,anna,अननअ,per-letter fallback,1
+ntal,ntal,नतअल,per-letter fallback,1
+rhai,rhai,रहअइ,per-letter fallback,1
+rkha,rkʰa,रखअ,cluster+fallback,1
+trai,trai,तरअइ,per-letter fallback,1
+unla,unla,उनलअ,per-letter fallback,1
+unr,unr,उनर,per-letter fallback,1
+u'thi,u't̪ʰi,उथइ,cluster+fallback,1
+'li,'li,लइ,per-letter fallback,1
+rakhna,rakʰna,रअखनअ,cluster+fallback,1
+trnu,trnu,तरनउ,per-letter fallback,1
+tuwanu,tuwanu,तउवअनउ,per-letter fallback,1
+haka,haka,हअकअ,per-letter fallback,1
+dada,dada,दअदअ,per-letter fallback,1
+kku,kku,ककउ,per-letter fallback,1
+laka,laka,लअकअ,per-letter fallback,1
+lang,laŋ,लअङ,cluster+fallback,1
+halli,halli,हअललइ,per-letter fallback,1
+halni,halni,हअलनइ,per-letter fallback,1
+hantu,hantu,हअनतउ,per-letter fallback,1
+ahi,ahi,अहइ,per-letter fallback,1
+hanga,haŋa,हअङअ,cluster+fallback,1
+hanit,hanit,हअनइत,per-letter fallback,1
+hantnu,hantnu,हअनतनउ,per-letter fallback,1
+harni,harni,हअरनइ,per-letter fallback,1
+riya,rija,रइयअ,per-letter fallback,1
+harnu,harnu,हअरनउ,per-letter fallback,1
+hatti,hatti,हअततइ,per-letter fallback,1
+hautu,hautu,हअउतउ,per-letter fallback,1
+hdawnu,hdawnu,हदअवनउ,per-letter fallback,1
+kuwanu,kuwanu,कउवअनउ,per-letter fallback,1
+rawa,rawa,रअवअ,per-letter fallback,1
+hidd,hidd,हइदद,per-letter fallback,1
+hika,hika,हइकअ,per-letter fallback,1
+ant,ant,अनत,per-letter fallback,1
+hini,hini,हइनइ,per-letter fallback,1
+hinw,hinw,हइनव,per-letter fallback,1
+hira,hira,हइरअ,per-letter fallback,1
+hirk,hirk,हइरक,per-letter fallback,1
+hitr,hitr,हइतर,per-letter fallback,1
+'ta,'ta,तअ,per-letter fallback,1
+tla,tla,तलअ,per-letter fallback,1
+hukra,hukra,हउकरअ,per-letter fallback,1
+hunli,hunli,हउनलइ,per-letter fallback,1
+huru,huru,हउरउ,per-letter fallback,1
+hut,hut,हउत,per-letter fallback,1
+hutt,hutt,हउतत,per-letter fallback,1
+hwanu,hwanu,हवअनउ,per-letter fallback,1
+hwanwa,hwanwa,हवअनवअ,per-letter fallback,1
+hwanw,hwanw,हवअनव,per-letter fallback,1
+iknah,iknah,इकनअह,per-letter fallback,1
+ikna,ikna,इकनअ,per-letter fallback,1
+ilk,ilk,इलक,per-letter fallback,1
+ilra,ilra,इलरअ,per-letter fallback,1
+ilta,ilta,इलतअ,per-letter fallback,1
+raw,raw,रअव,per-letter fallback,1
+inta,inta,इनतअ,per-letter fallback,1
+inwan,inwan,इनवअन,per-letter fallback,1
+ira,ira,इरअ,per-letter fallback,1
+irg,irɡ,इरग,per-letter fallback,1
+irkhu,irkʰu,इरखउ,cluster+fallback,1
+iruwa,iruwa,इरउवअ,per-letter fallback,1
+iru,iru,इरउ,per-letter fallback,1
+irwanu,irwanu,इरवअनउ,per-letter fallback,1
+irwi,irwi,इरवइ,per-letter fallback,1
+ithi,it̪ʰi,इथइ,cluster+fallback,1
+itra,itra,इतरअ,per-letter fallback,1
+itwnu,itwnu,इतवनउ,per-letter fallback,1
+yunti,junti,यउनतइ,per-letter fallback,1
+yuri,juri,यउरइ,per-letter fallback,1
+yuti,juti,यउतइ,per-letter fallback,1
+iwnu,iwnu,इवनउ,per-letter fallback,1
+kwnu,kwnu,कवनउ,per-letter fallback,1
+itha,it̪ʰa,इथअ,cluster+fallback,1
+rira,rira,रइरअ,per-letter fallback,1
+rirnu,rirnu,रइरनउ,per-letter fallback,1
+uga,uɡa,उगअ,per-letter fallback,1
+r hu,r hu,रहउ,per-letter fallback,1
+ugawnu,uɡawnu,उगअवनउ,per-letter fallback,1
+uhra,uhra,उहरअ,per-letter fallback,1
+ungnu,uŋnu,उङनउ,cluster+fallback,1
+urwnu,urwnu,उरवनउ,per-letter fallback,1
+utiya,utija,उतइयअ,per-letter fallback,1
+utrnu,utrnu,उतरनउ,per-letter fallback,1
+utri,utri,उतरइ,per-letter fallback,1
+wanni,wanni,वअननइ,per-letter fallback,1
+yaw,jaw,यअव,per-letter fallback,1
+r Dra't,r dra't,रदरअत,per-letter fallback,1
+dhana,d̪ʱana,धअनअ,cluster+fallback,1
+diya,dija,दइयअ,per-letter fallback,1
+gandra,ɡandra,गअनदरअ,per-letter fallback,1
+Dagi,daɡi,दअगइ,per-letter fallback,1
+Dagnu,daɡnu,दअगनउ,per-letter fallback,1
+gyali,ɡjali,गयअलइ,per-letter fallback,1
+Dai,dai,दअइ,per-letter fallback,1
+im,im,इम,per-letter fallback,1
+Dain,dain,दअइन,per-letter fallback,1
+inthi,int̪ʰi,इनथइ,cluster+fallback,1
+r Daki,r daki,रदअकइ,per-letter fallback,1
+Dakgh,dakɡʱ,दअकघ,cluster+fallback,1
+Daki,daki,दअकइ,per-letter fallback,1
+Dakiya,dakija,दअकइयअ,per-letter fallback,1
+Dakkh,dakkʰ,दअकख,cluster+fallback,1
+Dakkhin,dakkʰin,दअकखइन,cluster+fallback,1
+Daknu,daknu,दअकनउ,per-letter fallback,1
+Dal,dal,दअल,per-letter fallback,1
+Dala,dala,दअलअ,per-letter fallback,1
+Dalnu,dalnu,दअलनउ,per-letter fallback,1
+Dalta,dalta,दअलतअ,per-letter fallback,1
+Dandi,dandi,दअनदइ,per-letter fallback,1
+Dandnu,dandnu,दअनदनउ,per-letter fallback,1
+Dangra,daŋra,दअङरअ,cluster+fallback,1
+Dangu,daŋu,दअङउ,cluster+fallback,1
+Dangru,daŋru,दअङरउ,cluster+fallback,1
+Da'nu,da'nu,दअनउ,per-letter fallback,1
+Danu,danu,दअनउ,per-letter fallback,1
+Danwan,danwan,दअनवअन,per-letter fallback,1
+Danwth,danwt̪ʰ,दअनवथ,cluster+fallback,1
+r D,r d,रद,per-letter fallback,1
+Da'r,da'r,दअर,per-letter fallback,1
+rain,rain,रअइन,per-letter fallback,1
+rawna,rawna,रअवनअ,per-letter fallback,1
+Dari,dari,दअरइ,per-letter fallback,1
+Dariya,darija,दअरइयअ,per-letter fallback,1
+ryaw,rjaw,रयअव,per-letter fallback,1
+r draw,r draw,रदरअव,per-letter fallback,1
+Dat,dat,दअत,per-letter fallback,1
+Datnu,datnu,दअतनउ,per-letter fallback,1
+alna,alna,अलनअ,per-letter fallback,1
+khd,kʰd,खद,cluster+fallback,1
+akhi,akʰi,अखइ,cluster+fallback,1
+Dgandia,dɡandia,दगअनदइअ,per-letter fallback,1
+Dhaga,d̪ʱaɡa,धअगअ,cluster+fallback,1
+Dhagul,d̪ʱaɡul,धअगउल,cluster+fallback,1
+r dh,r d̪ʱ,रध,cluster+fallback,1
+Dha'k,d̪ʱa'k,धअक,cluster+fallback,1
+kiyawnu,kijawnu,कइयअवनउ,per-letter fallback,1
+Dhakri,d̪ʱakri,धअकरइ,cluster+fallback,1
+Dhaknu,d̪ʱaknu,धअकनउ,cluster+fallback,1
+Dhakuli,d̪ʱakuli,धअकउलइ,cluster+fallback,1
+Dhakuri,d̪ʱakuri,धअकउरइ,cluster+fallback,1
+Dhaku,d̪ʱaku,धअकउ,cluster+fallback,1
+Dha'l,d̪ʱa'l,धअल,cluster+fallback,1
+Dhal,d̪ʱal,धअल,cluster+fallback,1
+Dhala,d̪ʱala,धअलअ,cluster+fallback,1
+kaw,kaw,कअव,per-letter fallback,1
+ngiya,ŋija,ङइयअ,cluster+fallback,1
+niya,nija,नइयअ,per-letter fallback,1
+Dhankh,d̪ʱankʰ,धअनख,cluster+fallback,1
+nkhai,nkʰai,नखअइ,cluster+fallback,1
+nathu,nat̪ʰu,नअथउ,cluster+fallback,1
+Dhar,d̪ʱar,धअर,cluster+fallback,1
+Dhara,d̪ʱara,धअरअ,cluster+fallback,1
+r dhr,r d̪ʱr,रधर,cluster+fallback,1
+Dharadhar,d̪ʱarad̪ʱar,धअरअधअर,cluster+fallback,1
+Dhartha,d̪ʱart̪ʰa,धअरथअ,cluster+fallback,1
+Dharti,d̪ʱarti,धअरतइ,cluster+fallback,1
+Dhatu,d̪ʱatu,धअतउ,cluster+fallback,1
+r dhathu,r d̪ʱat̪ʰu,रधअथउ,cluster+fallback,1
+unthi,unt̪ʰi,उनथइ,cluster+fallback,1
+uwanu,uwanu,उवअनउ,per-letter fallback,1
+Dhikki,d̪ʱikki,धइककइ,cluster+fallback,1
+Dhin,d̪ʱin,धइन,cluster+fallback,1
+dhingi,d̪ʱiŋi,धइङइ,cluster+fallback,1
+dhingiy,d̪ʱiŋij,धइङइय,cluster+fallback,1
+Dhira,d̪ʱira,धइरअ,cluster+fallback,1
+Dhir,d̪ʱir,धइर,cluster+fallback,1
+Dhiy,d̪ʱij,धइय,cluster+fallback,1
+Dhuni,d̪ʱuni,धउनइ,cluster+fallback,1
+wawnu,wawnu,वअवनउ,per-letter fallback,1
+Dhragul,d̪ʱraɡul,धरअगउल,cluster+fallback,1
+Dhrari,d̪ʱrari,धरअरइ,cluster+fallback,1
+Dhul,d̪ʱul,धउल,cluster+fallback,1
+Dhunawnu,d̪ʱunawnu,धउनअवनउ,cluster+fallback,1
+Dhuri,d̪ʱuri,धउरइ,cluster+fallback,1
+r dhuru,r d̪ʱuru,रधउरउ,cluster+fallback,1
+Dhuwa,d̪ʱuwa,धउवअ,cluster+fallback,1
+Dhuwan,d̪ʱuwan,धउवअन,cluster+fallback,1
+Dhwala,d̪ʱwala,धवअलअ,cluster+fallback,1
+Dhwali,d̪ʱwali,धवअलइ,cluster+fallback,1
+Dhyar,d̪ʱjar,धयअर,cluster+fallback,1
+Dhyawi,d̪ʱjawi,धयअवइ,cluster+fallback,1
+Dhyara,d̪ʱjara,धयअरअ,cluster+fallback,1
+Dhyari,d̪ʱjari,धयअरइ,cluster+fallback,1
+dhyari,d̪ʱjari,धयअरइ,cluster+fallback,1
+Diali,diali,दइअलइ,per-letter fallback,1
+Dihnu,dihnu,दइहनउ,per-letter fallback,1
+Dik,dik,दइक,per-letter fallback,1
+Diku,diku,दइकउ,per-letter fallback,1
+Dil,dil,दइल,per-letter fallback,1
+Dilri,dilri,दइलरइ,per-letter fallback,1
+Ding,diŋ,दइङ,cluster+fallback,1
+Dinwan,dinwan,दइनवअन,per-letter fallback,1
+Dinw,dinw,दइनव,per-letter fallback,1
+win,win,वइन,per-letter fallback,1
+Dita,dita,दइतअ,per-letter fallback,1
+Diun,diun,दइउन,per-letter fallback,1
+Diuti,diuti,दइउतइ,per-letter fallback,1
+Diut,diut,दइउत,per-letter fallback,1
+Diwh,diwh,दइवह,per-letter fallback,1
+Diwa,diwa,दइवअ,per-letter fallback,1
+Diwan,diwan,दइवअन,per-letter fallback,1
+Diwi,diwi,दइवइ,per-letter fallback,1
+Diwt,diwt,दइवत,per-letter fallback,1
+Dlanga,dlaŋa,दलअङअ,cluster+fallback,1
+Dli,dli,दलइ,per-letter fallback,1
+Dlu,dlu,दलउ,per-letter fallback,1
+Dnau,dnau,दनअउ,per-letter fallback,1
+urni,urni,उरनइ,per-letter fallback,1
+'tu,'tu,तउ,per-letter fallback,1
+Drani,drani,दरअनइ,per-letter fallback,1
+Dra't,dra't,दरअत,per-letter fallback,1
+Drati,drati,दरअतइ,per-letter fallback,1
+Duhna,duhna,दउहनअ,per-letter fallback,1
+Dukh,dukʰ,दउख,cluster+fallback,1
+Dukhawnu,dukʰawnu,दउखअवनउ,cluster+fallback,1
+Dukhi,dukʰi,दउखइ,cluster+fallback,1
+r dukhiya,r dukʰija,रदउखइयअ,cluster+fallback,1
+Dukhna,dukʰna,दउखनअ,cluster+fallback,1
+Dukhnu,dukʰnu,दउखनउ,cluster+fallback,1
+Dul,dul,दउल,per-letter fallback,1
+Dund,dund,दउनद,per-letter fallback,1
+Dungu,duŋu,दउङउ,cluster+fallback,1
+Dunk,dunk,दउनक,per-letter fallback,1
+Dunku,dunku,दउनकउ,per-letter fallback,1
+'hr,'hr,हर,per-letter fallback,1
+Durh,durh,दउरह,per-letter fallback,1
+Durk,durk,दउरक,per-letter fallback,1
+Durr,durr,दउरर,per-letter fallback,1
+illa,illa,इललअ,per-letter fallback,1
+Duwalnu,duwalnu,दउवअलनउ,per-letter fallback,1
+Dwad,dwad,दवअद,per-letter fallback,1
+Dwanni,dwanni,दवअननइ,per-letter fallback,1
+Dwa't,dwa't,दवअत,per-letter fallback,1
+Dyala,djala,दयअलअ,per-letter fallback,1
+Dyali,djali,दयअलइ,per-letter fallback,1
+Dyanu,djanu,दयअनउ,per-letter fallback,1
+Dyaw,djaw,दयअव,per-letter fallback,1
+dyaw,djaw,दयअव,per-letter fallback,1
+Dyar,djar,दयअर,per-letter fallback,1
+Dyuwli,djuwli,दयउवलइ,per-letter fallback,1
+addi,addi,अददइ,per-letter fallback,1
+adi,adi,अदइ,per-letter fallback,1
+agg,aɡɡ,अगग,per-letter fallback,1
+iwta,iwta,इवतअ,per-letter fallback,1
+na'r,na'r,नअर,per-letter fallback,1
+andki,andki,अनदकइ,per-letter fallback,1
+andnu,andnu,अनदनउ,per-letter fallback,1
+rah,rah,रअह,per-letter fallback,1
+yan,jan,यअन,per-letter fallback,1
+rdu,rdu,रदउ,per-letter fallback,1
+rkawnu,rkawnu,रकअवनउ,per-letter fallback,1
+rkuw,rkuw,रकउव,per-letter fallback,1
+rnai,rnai,रनअइ,per-letter fallback,1
+rrata,rrata,ररअतअ,per-letter fallback,1
+rru,rru,ररउ,per-letter fallback,1
+athnu,at̪ʰnu,अथनउ,cluster+fallback,1
+atu,atu,अतउ,per-letter fallback,1
+trala,trala,तरअलअ,per-letter fallback,1
+awra,awra,अवरअ,per-letter fallback,1
+gra,ɡra,गरअ,per-letter fallback,1
+wtu,wtu,वतउ,per-letter fallback,1
+irawnu,irawnu,इरअवनउ,per-letter fallback,1
+irk,irk,इरक,per-letter fallback,1
+irknu,irknu,इरकनउ,per-letter fallback,1
+irwan,irwan,इरवअन,per-letter fallback,1
+alnu,alnu,अलनउ,per-letter fallback,1
+u't,u't,उत,per-letter fallback,1
+unkawnu,unkawnu,उनकअवनउ,per-letter fallback,1
+unkawla,unkawla,उनकअवलअ,per-letter fallback,1
+unknu,unknu,उनकनउ,per-letter fallback,1
+unkri,unkri,उनकरइ,per-letter fallback,1
+ulawnu,ulawnu,उलअवनउ,per-letter fallback,1
+ulnu,ulnu,उलनउ,per-letter fallback,1
+ulru,ulru,उलरउ,per-letter fallback,1
+unwa,unwa,उनवअ,per-letter fallback,1
+utawnu,utawnu,उतअवनउ,per-letter fallback,1
+hyawnu,hjawnu,हयअवनउ,per-letter fallback,1
+hiy,hij,हइय,per-letter fallback,1
+Gada,ɡada,गअदअ,per-letter fallback,1
+dawnu,dawnu,दअवनउ,per-letter fallback,1
+ddi,ddi,ददइ,per-letter fallback,1
+dhainu,d̪ʱainu,धअइनउ,cluster+fallback,1
+Gadri,ɡadri,गअदरइ,per-letter fallback,1
+Gag,ɡaɡ,गअग,per-letter fallback,1
+r gagri,r ɡaɡri,रगअगरइ,per-letter fallback,1
+r ga'n,r ɡa'n,रगअन,per-letter fallback,1
+Gahlu,ɡahlu,गअहलउ,per-letter fallback,1
+Ga'k,ɡa'k,गअक,per-letter fallback,1
+Ga'l,ɡa'l,गअल,per-letter fallback,1
+Galawnu,ɡalawnu,गअलअवनउ,per-letter fallback,1
+Gali,ɡali,गअलइ,per-letter fallback,1
+Galnu,ɡalnu,गअलनउ,per-letter fallback,1
+Galu,ɡalu,गअलउ,per-letter fallback,1
+Gand,ɡand,गअनद,per-letter fallback,1
+Gandh,ɡand̪ʱ,गअनध,cluster+fallback,1
+Gandhi,ɡand̪ʱi,गअनधइ,cluster+fallback,1
+Gan,ɡan,गअन,per-letter fallback,1
+Ganga,ɡaŋa,गअङअ,cluster+fallback,1
+nna,nna,ननअ,per-letter fallback,1
+Ganth,ɡant̪ʰ,गअनथ,cluster+fallback,1
+Ganthawnu,ɡant̪ʰawnu,गअनथअवनउ,cluster+fallback,1
+Ganthnu,ɡant̪ʰnu,गअनथनउ,cluster+fallback,1
+Ganthi,ɡant̪ʰi,गअनथइ,cluster+fallback,1
+Ganu,ɡanu,गअनउ,per-letter fallback,1
+Ga'nu,ɡa'nu,गअनउ,per-letter fallback,1
+unka,unka,उनकअ,per-letter fallback,1
+Ganw,ɡanw,गअनव,per-letter fallback,1
+nwra,nwra,नवरअ,per-letter fallback,1
+Ganwun,ɡanwun,गअनवउन,per-letter fallback,1
+Ganwra,ɡanwra,गअनवरअ,per-letter fallback,1
+nra,nra,नरअ,per-letter fallback,1
+Gara,ɡara,गअरअ,per-letter fallback,1
+rinu,rinu,रइनउ,per-letter fallback,1
+Gartha,ɡart̪ʰa,गअरथअ,cluster+fallback,1
+Gar,ɡar,गअर,per-letter fallback,1
+taka,taka,तअकअ,per-letter fallback,1
+tti,tti,ततइ,per-letter fallback,1
+Gaun,ɡaun,गअउन,per-letter fallback,1
+unt,unt,उनत,per-letter fallback,1
+Gaw,ɡaw,गअव,per-letter fallback,1
+lra,lra,लरअ,per-letter fallback,1
+tra,tra,तरअ,per-letter fallback,1
+unwan,unwan,उनवअन,per-letter fallback,1

@@ -6,7 +6,12 @@ import { parse } from 'csv-parse/sync';
 import lunr from 'lunr';
 
 const ROOT = path.resolve(process.cwd());
-const INPUT_CSV = path.join(ROOT, 'mainDictionary.csv');
+// Prefer the new schema CSV if present; fallback to legacy filename
+const INPUT_CSV = (function(){
+  const v3 = path.join(ROOT, 'mainDictionary_newVersion.csv');
+  const legacy = path.join(ROOT, 'mainDictionary.csv');
+  return existsSync(v3) ? v3 : legacy;
+})();
 const PUBLIC_DIR = path.join(ROOT, 'public');
 const DATA_DIR = path.join(PUBLIC_DIR, 'data');
 const ASSETS_DIR = path.join(PUBLIC_DIR, 'assets');
@@ -25,8 +30,9 @@ function normalizeString(value) {
 
 async function loadCsv() {
   const csv = await readFile(INPUT_CSV, 'utf8');
+  // Use header-based parsing for the new schema; tolerate legacy keys
   const rows = parse(csv, {
-    columns: false,
+    columns: true,
     skip_empty_lines: true,
     relax_column_count: true,
     relax_quotes: true,
@@ -34,35 +40,70 @@ async function loadCsv() {
   });
   const entries = [];
   for (let i = 0; i < rows.length; i++) {
-    const cols = rows[i];
-    // Skip header row if present
-    if (i === 0 && cols[0] && String(cols[0]).toLowerCase() === 'word') continue;
-    if (!cols || cols.length < 2) continue;
+    const r = rows[i] || {};
 
-    const word = normalizeString(cols[0]);
-    const pos = normalizeString(cols[1]);
-    const ety = normalizeString(cols[2]);
-    const defn = normalizeString(cols[3]);
-    // All columns except the last (page) from index 4 onward are folded into notes
-    let sourcePage = '';
-    let notes = '';
-    if (cols.length >= 6) {
-      sourcePage = normalizeString(cols[cols.length - 1]);
-      const extraNotes = cols.slice(4, cols.length - 1).map(normalizeString).filter(Boolean);
-      notes = [normalizeString(cols[4] || ''), ...extraNotes].filter(Boolean).join(' | ');
-    } else {
-      notes = normalizeString(cols[4] || '');
+    // Legacy detection: rows that look like the old structure
+    if (r.Word || r.word) {
+      const word = normalizeString(r.Word || r.word);
+      const pos = normalizeString(r.Part_of_Speech || r.part_of_speech || r.POS || r.pos);
+      const ety = normalizeString(r.Etymology || r.etymology);
+      const defn = normalizeString(r.Definition || r.definition);
+      const notes = normalizeString(r.Examples_and_Notes || r.notes || r.examples);
+      const sourcePage = normalizeString(r.Source_Page || r.source_page || r.page);
+      entries.push({
+        id: entries.length + 1,
+        headword: word,
+        normalized_headword: normalizeString(word).toLowerCase(),
+        pronunciation: '',
+        pos: pos,
+        pos_tag: '',
+        morph: '',
+        etymology: ety,
+        gloss_en: '',
+        gloss_ru: '',
+        definition: defn,
+        senses: '',
+        examples: notes,
+        source: '',
+        page: sourcePage,
+        confidence: '',
+        notes: notes,
+        pronunciation_ipa: '',
+        pronunciation_deva: '',
+        pron_confidence: '',
+        pron_note: '',
+        pron_token_sample: ''
+      });
+      continue;
     }
 
-    entries.push({
-      id: entries.length + 1,
-      Word: word,
-      Part_of_Speech: pos,
-      Etymology: ety,
-      Definition: defn,
-      Examples_and_Notes: notes,
-      Source_Page: sourcePage
-    });
+    // New schema mapping (header names from mainDictionary_newVersion.csv)
+    const entry = {
+      id: Number(r.id ?? entries.length + 1),
+      headword: normalizeString(r.headword),
+      normalized_headword: normalizeString(r.normalized_headword || r.norm_headword || r.normalized || r.headword).toLowerCase(),
+      pronunciation: normalizeString(r.pronunciation),
+      pos: normalizeString(r.pos),
+      pos_tag: normalizeString(r.pos_tag),
+      morph: normalizeString(r.morph),
+      etymology: normalizeString(r.etymology),
+      gloss_en: normalizeString(r.gloss_en),
+      gloss_ru: normalizeString(r.gloss_ru),
+      definition: normalizeString(r.definition),
+      senses: normalizeString(r.senses),
+      examples: normalizeString(r.examples),
+      source: normalizeString(r.source),
+      page: normalizeString(r.page),
+      confidence: normalizeString(r.confidence),
+      notes: normalizeString(r.notes),
+      pronunciation_ipa: normalizeString(r.pronunciation_ipa),
+      pronunciation_deva: normalizeString(r.pronunciation_deva),
+      pron_confidence: normalizeString(r.pron_confidence),
+      pron_note: normalizeString(r.pron_note),
+      pron_token_sample: normalizeString(r.pron_token_sample)
+    };
+    if (!entry.headword && !entry.definition) continue;
+    entries.push(entry);
   }
   return entries;
 }
@@ -70,11 +111,16 @@ async function loadCsv() {
 function buildIndex(entries) {
   const builder = new lunr.Builder();
   builder.ref('id');
-  builder.field('Word');
-  builder.field('Definition');
-  builder.field('Examples_and_Notes');
-  builder.field('Etymology');
-  builder.field('Part_of_Speech');
+  builder.field('headword');
+  builder.field('normalized_headword');
+  builder.field('definition');
+  builder.field('examples');
+  builder.field('etymology');
+  builder.field('pos');
+  builder.field('gloss_en');
+  builder.field('pronunciation');
+  builder.field('pronunciation_ipa');
+  builder.field('pronunciation_deva');
 
   for (const entry of entries) {
     builder.add(entry);
@@ -85,15 +131,21 @@ function buildIndex(entries) {
 function toAZBuckets(entries) {
   const map = new Map();
   for (const entry of entries) {
-    const initial = (entry.Word || '').trim()[0]?.toUpperCase() || '#';
+    const initial = (entry.headword || '').trim()[0]?.toUpperCase() || '#';
     const key = /[A-ZÁÉÍÓÚÄËÏÖÜÃÕÂÊÎÔÛ]/i.test(initial) ? initial : '#';
     if (!map.has(key)) map.set(key, []);
     map.get(key).push(entry);
   }
   for (const list of map.values()) {
-    list.sort((a, b) => a.Word.localeCompare(b.Word));
+    list.sort((a, b) => a.headword.localeCompare(b.headword));
   }
-  return Array.from(map.entries()).sort((a, b) => a[0].localeCompare(b[0]));
+  return Array.from(map.entries()).sort((a, b) => {
+    const ak = a[0];
+    const bk = b[0];
+    if (ak === '#') return 1;
+    if (bk === '#') return -1;
+    return ak.localeCompare(bk);
+  });
 }
 
 async function writeJSON(filePath, data) {
@@ -123,8 +175,8 @@ async function writeIndexHtml(entries) {
     </header>
     <main class="container">
       <section class="hero">
-        <h2>Preserving language and culture</h2>
-        <p>Search the dictionary or browse works. Have fun exploring this beautiful language and culture.</p>
+        <h2>digitizing pahari with our pahari dictionary!</h2>
+        <p>search the dictionary or browse works. have fun exploring this beautiful language and culture.</p>
         <div class="search">
           <input id="q" type="search" placeholder="Search words, definitions…" autofocus />
           <div class="search-controls"><label><input type="checkbox" id="charMode" /> Character match (min 3 chars)</label></div>
@@ -150,10 +202,12 @@ async function writeDictionaryHtml(entries) {
     const items = list
       .map(
         (e) => `<article class="entry">
-  <h3 id="w-${e.id}">${e.Word} <small>${e.Part_of_Speech}</small></h3>
-  <p class="def">${e.Definition || ''}</p>
-  ${e.Examples_and_Notes ? `<p class="ex">${e.Examples_and_Notes}</p>` : ''}
-  ${e.Etymology ? `<p class="ety"><b>Etymology:</b> ${e.Etymology}</p>` : ''}
+  <h3 id="w-${e.id}">${e.headword}</h3>
+  ${(e.pos || e.pos_tag) ? `<p class="meta posline">${[e.pos, e.pos_tag].filter(Boolean).join(' · ')}</p>` : ''}
+  ${e.pronunciation_ipa || e.pronunciation_deva || e.pronunciation ? `<p class="meta">${e.pronunciation_ipa ? `IPA: ${e.pronunciation_ipa}` : ''}${e.pronunciation_deva ? `${e.pronunciation_ipa ? ' · ' : ''}Devanagari: ${e.pronunciation_deva}` : ''}${e.pronunciation ? `${(e.pronunciation_ipa||e.pronunciation_deva) ? ' · ' : ''}Pronunciation: ${e.pronunciation}` : ''}</p>` : ''}
+  <p class="def">${e.definition || ''}</p>
+  ${e.examples ? `<p class="ex">${e.examples}</p>` : ''}
+  ${e.etymology ? `<p class="ety"><b>Etymology:</b> ${e.etymology}</p>` : ''}
 </article>`
       )
       .join('\n');
@@ -682,7 +736,8 @@ input[type=search]{width:100%;padding:.75rem 1rem;border-radius:.5rem;border:1px
 .letter{margin-top:2rem}
 .letter h2{color:var(--accent)}
 .entry{padding:1rem;border:1px solid #1f2937;border-radius:.5rem;background:var(--panel);margin:.75rem 0}
-.entry h3{margin:.25rem 0 .5rem 0}
+.entry h3{margin:.25rem 0 .25rem 0}
+.entry .posline{margin:.1rem 0 .5rem 0; font-size:.9rem; color:var(--muted)}
 .def{margin:.25rem 0}
 .ex,.ety{color:var(--muted);margin:.25rem 0}
 .az-nav{display:flex;flex-wrap:wrap;gap:.25rem;margin:1rem 0}
@@ -739,10 +794,11 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     'function render(items) {',
     '  resultsEl.innerHTML = items.map(function(item){',
     '    const e = item.doc;',
-    '    return \'<div class="result">\' +',
-    '      \'<div class="word">\' + e.Word + \' <span class="pos">\' + (e.Part_of_Speech||\'\') + \'</span></div>\' +',
-    '      \'<div class="def">\' + (e.Definition||\'\') + \'</div>\' +',
-    '      (e.Examples_and_Notes ? \'<div class="ex">\' + e.Examples_and_Notes + \'</div>\' : \'\') +',
+    "    return '<div class=\"result\">' +",
+    "      '<div class=\"word\">' + e.headword + '</div>' +",
+    "      ((e.pos||e.pos_tag) ? '<div class=\"pos\">' + [e.pos,e.pos_tag].filter(Boolean).join(' · ') + '</div>' : '') +",
+    "      '<div class=\"def\">' + (e.definition||'') + '</div>' +",
+    "      (e.examples ? '<div class=\"ex\">' + e.examples + '</div>' : '') +",
     "    '</div>';",
     '  }).join(\'\');',
     '}',
@@ -755,7 +811,7 @@ code{background:#0b1220;padding:.15rem .35rem;border-radius:.25rem}
     '    const low = term.toLowerCase();',
     '    const out = [];',
     '    for (const e of docs.values()) {',
-    '      const hay = (e.Word + " " + (e.Definition||"") + " " + (e.Examples_and_Notes||"")).toLowerCase();',
+    '      const hay = ((e.headword||"") + " " + (e.definition||"") + " " + (e.examples||"") + " " + (e.etymology||"") + " " + (e.gloss_en||"")).toLowerCase();',
     '      if (hay.includes(low)) out.push({ score: 1, doc: e });',
     '      if (out.length >= 50) break;',
     '    }',
@@ -899,7 +955,7 @@ async function writeMetadata(entries) {
   const meta = {
     generatedAt: new Date().toISOString(),
     numEntries: entries.length,
-    source: 'mainDictionary.csv'
+    source: path.basename(INPUT_CSV)
   };
   await writeJSON(path.join(DATA_DIR, 'metadata.json'), meta);
 }
