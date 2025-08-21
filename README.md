@@ -18,20 +18,42 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
 - client-side instant search with a small prebuilt index.
 - external media embeds only for now (youtube, archive.org, etc.).
 - github actions auto-builds and deploys on every push to `main`.
+- allows for accent-insensitive search! [without worrying about typing diacritics]. see below:
+    basic diacritics on latin: á→a, ś→s, ḍ→d, ñ→n
+    Ligatures: æ→ae, œ→oe
+    German: ß→ss
+    Scandinavian/Slavic letters: ø→o, ł→l, đ→d
+    Thorn/eth: þ→th, ð→d
+    Retroflex/IPA-ish: ŋ→ng, ɲ→ny, ʃ→sh, ʒ→zh, ʧ→ch, ʈ→t, ɖ→d, ɳ→n, ɽ→r, ʂ→s, ʐ→z, ʋ→v, ɡ→g, ɦ→h, ɭ→l
+    Smart quotes → '
+
 
 
 ### data model (concise)
-`maindictionary.csv` headers:
-- `word`, `part_of_speech`, `etymology`, `definition`, `examples_and_notes`, `source_page`
+`mainDictionary_newVersion.csv` headers:
+- `id`, `headword`, `normalized_headword`, `pronunciation`, `pos`, `pos_tag`, `morph`, `etymology`, `gloss_en`, `gloss_ru`, `definition`, `senses`, `examples`, `source`, `page`, `confidence`, `notes`, `pronunciation_ipa`, `pronunciation_deva`, `pron_confidence`, `pron_note`, `pron_token_sample`
 
 
 ### editing data
 - edit `maindictionary.csv` and commit. the github action will rebuild and deploy automatically.
 - for local preview, run `npm run build` again after changes - `npm run serve` to see the changes.
 
+**supported appendix data file locations per topic `<id>`:**
+
+- `content/appendix/<id>.json`
+- `content/appendix/<id>/appendix.json`
+- `content/appendix/appendix-<id>.json`
+
+### contribution (non-technical)
+- adding various pahari works available online to our items.json.
+- symbolic analysis of the various motifs within the works itself.
+- adding pronounciations and aiding in audio-based pronounciations.
+- more and more words and user submitted fixes to our various words! <3 
+- get help from a professional linguist if possible
 
 ### roadmap (short)
 - extract the rules of the language from the grammar book.
+- better pronounciations.
 - find out wtf is wrong with the second proverb????
 - adding kinnauri data from the same source.
 - categorizing the words by dialects [segregating bilaspuri, siraji, etc. as filters]
@@ -39,8 +61,8 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
 - works filters (type/year) and richer cards.
 - optional decap cms for git-based editing.
 - extracting folklores, proverbs. available in the source:
-    - the main dictionary is from page 11 onwards and goes till page 130.
-    - appendices (Folklore, Proverbs, Riddles, Songs) from page 131 onwards.
+    - ~~the main dictionary is from page 11 onwards and goes till page 130.~~
+    - ~~appendices (Folklore, Proverbs, Riddles, Songs) from page 131 onwards.~~
     - a Grammar and Dictionary of Kanwari (a completely separate work) from page 157 onwards.
 
 ### license
