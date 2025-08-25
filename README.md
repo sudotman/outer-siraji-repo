@@ -29,12 +29,12 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
 
 
 
-### data model (concise)
+## data model (concise)
 `mainDictionary_newVersion.csv` headers:
 - `id`, `headword`, `normalized_headword`, `pronunciation`, `pos`, `pos_tag`, `morph`, `etymology`, `gloss_en`, `gloss_ru`, `definition`, `senses`, `examples`, `source`, `page`, `confidence`, `notes`, `pronunciation_ipa`, `pronunciation_deva`, `pron_confidence`, `pron_note`, `pron_token_sample`
 
 
-### editing data
+## editing data
 - edit `maindictionary.csv` and commit. the github action will rebuild and deploy automatically.
 - for local preview, run `npm run build` again after changes - `npm run serve` to see the changes.
 
@@ -44,14 +44,14 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
 - `content/appendix/<id>/appendix.json`
 - `content/appendix/appendix-<id>.json`
 
-### contribution (non-technical)
+## contribution (non-technical)
 - adding various pahari works available online to our items.json.
 - symbolic analysis of the various motifs within the works itself.
 - adding pronounciations and aiding in audio-based pronounciations.
 - more and more words and user submitted fixes to our various words! <3 
 - get help from a professional linguist if possible
 
-### roadmap (short)
+## roadmap (short)
 - extract the rules of the language from the grammar book.
 - better pronounciations.
 - find out wtf is wrong with the second proverb????
@@ -65,16 +65,14 @@ regardless of the availability of the dictionary, the automatic OCR was unreliab
     - ~~appendices (Folklore, Proverbs, Riddles, Songs) from page 131 onwards.~~
     - a Grammar and Dictionary of Kanwari (a completely separate work) from page 157 onwards.
 
-### license
+## license
 - site code: mit (unless noted otherwise).
 - content and data: see per-file attributions; some items may be public-domain or cc-licensed.
 
 
-
-It is not a formal pronunciation key but rather a list of examples that show how certain sounds are represented, often with their Devanagari script equivalents. Below is the extracted and cleaned-up information from that page.
-
-## Guide from Page 6
-This page provides examples to help understand the sounds and orthography used in the dictionary:
+## nuances
+### pronunciaton keys
+there is not a formal pronunciation key [in 'a dictionary of pahari dialects'] but rather a list of examples that show how certain sounds are represented, often with their Devanagari script equivalents - they are as follow:
 
 ā as in Bishar (बिषर) and Bhyansar (भ्यांसर).
 
@@ -126,15 +124,15 @@ gl as in Āglā (आगला) The former.
 
 āṭ as in Bāṭ (बाट) A path.
 
-## Structure of the Dictionary Entries
-Following the guide, the main dictionary starts on page 8. The entries are structured in a consistent format:
+### structure of the dictionary entries
+in the same work ['a dictionary of pahari dialects'], the main dictionary starts on page 8. the entries are structured in a consistent format:
 
-Word: The main entry word in the Pahari dialect, presented in bold.
+word: the main entry word in the Pahari dialect, presented in bold.
 
-Part of Speech: An abbreviation for the word's grammatical function (e.g., n.m. for masculine noun, adj. for adjective, v.t. re. for transitive verb).
+part of Speech: an abbreviation for the word's grammatical function (e.g., n.m. for masculine noun, adj. for adjective, v.t. re. for transitive verb).
 
-Etymology: The origin of the word, if known, is given in parentheses, usually with the source language abbreviated (e.g., (S. ...) for Sanskrit, (H. ...) for Hindi).
+etymology: the origin of the word, if known, is given in parentheses, usually with the source language abbreviated (e.g., (S. ...) for Sanskrit, (H. ...) for Hindi).
 
-Definition: The English meaning of the word.
+definition: the English meaning of the word.
 
-Notes & Examples: Occasionally, an example of its use in a phrase or additional context is provided.
+notes & examples: occasionally, an example of its use in a phrase or additional context is provided.
