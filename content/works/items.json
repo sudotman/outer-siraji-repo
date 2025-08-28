@@ -1,24 +1,31 @@
 [
   {
-    "type": "Video",
+    "type": "Music",
     "dialect": "Outer Siraji",
     "title": "हुरूआ बजुरूआ | Oorua Baturua by Surjeet Singh Patyal",
     "embed_url": "https://www.youtube.com/embed/1EpCq8YzX8Y",
     "description": "Traditional folk song from Nirmand, Kullu, sung as dialogue between a lady and her son. The whole album is a treasure trove of folk songs from the region."
   },
   {
-    "type": "Video",
+    "type": "Music",
     "dialect": "Kullvi",
     "title": "Bhava Rupiye by Piyush Raj",
     "embed_url": "https://www.youtube.com/embed/qd2946atmrg",
     "description": "Kullvi folk song - sung about the eternal beauty of a woman."
   },
   {
-    "type": "Video",
+    "type": "Music",
     "dialect": "Kullvi",
     "title": "Kindi Chale Bathade by Vicky Chauhan",
     "embed_url": "https://www.youtube.com/embed/3wQRbv-IBi0",
     "description": "Modern party banger by Vicky Chauhan! Went quite viral recently - has some great dance moves."
+  },
+  {
+    "type": "Film",
+    "dialect": "Gaddi",
+    "title": "The Unknown Craftsman by Amit Dutta",
+    "embed_url": "https://www.youtube.com/embed/2HJThnfspJ4",
+    "description": "Towards the end of the eighth century, an architect journeys across the lower Himalayas in search of the perfect site for constructing a temple, not merely as a place of worship but as a monumental record crystallizing the collective accomplishment of a civilization."
   }
 ]
 
